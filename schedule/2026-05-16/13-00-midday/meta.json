@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-16-midday-3cfe5682",
+  "date": "2026-05-16",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "peak-season-survival",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize Your Certification Season",
+        "body": "Empower VASCOs to thrive during peak certification periods with automated tools and efficient workflows.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Streamline the certification process to minimize manual errors and save time.",
+        "bullets": [
+          "Pre-built templates for quick setup",
+          "Intuitive user interface for easy navigation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Easily monitor student veteran eligibility and compliance status in real-time.",
+        "bullets": [
+          "Centralized dashboard for quick updates",
+          "Real-time alerts for compliance issues"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Facilitate seamless student veteran enrollment and support.",
+        "bullets": [
+          "Automated notifications for student updates",
+          "Centralized database for student records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Enhance Compliance",
+        "body": "Ensure continuous compliance with evolving VA regulations.",
+        "bullets": [
+          "Regular updates on regulatory changes",
+          "Automated reminders for compliance actions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Prevent Burnout",
+        "body": "Implement wellness practices to maintain high productivity and morale.",
+        "bullets": [
+          "Built-in templates for wellness check-ins",
+          "Flexible scheduling options"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about our pre-launch pricing. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize your certification season with VASCO Assistant Pro. Automate, track, and support student veterans efficiently. Prevent burnout and ensure compliance with strategic preparation.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans,' as it could benefit from a more concise headline to better align with the overall narrative."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:49:49.981Z"
+}

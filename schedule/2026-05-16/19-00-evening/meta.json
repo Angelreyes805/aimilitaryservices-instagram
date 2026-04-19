@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-16-evening-1179594e",
+  "date": "2026-05-16",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Making room for deep work between certifications",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize Certification Efficiency",
+        "body": "Automate VA School Certifications & Support Student Veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certifications",
+        "body": "Easily manage VA school certifications.",
+        "bullets": [
+          "Automate tedious paperwork.",
+          "Track compliance with ease."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Save Time",
+        "body": "Free up time for deeper focus.",
+        "bullets": [
+          "Reduce manual data entry.",
+          "Focus on strategic initiatives."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower student veterans with seamless support.",
+        "bullets": [
+          "Ensure compliance with ease.",
+          "Focus on student success."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Made Simple",
+        "body": "Stay on top of complex compliance requirements.",
+        "bullets": [
+          "Automate reminders.",
+          "Focus on other priorities."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Productivity Boost",
+        "body": "Create a dedicated focus block.",
+        "bullets": [
+          "Protect your focus.",
+          "Boost overall efficiency."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize your certification efficiency with VASCO Assistant Pro. Streamline, save time, support student veterans, and ensure compliance. Create a dedicated focus block to boost productivity. Link in bio for more info.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#productivity",
+      "#focusblock",
+      "#deepwork",
+      "#efficiency",
+      "#automate",
+      "#support",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans,' as it could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:56:01.297Z"
+}
