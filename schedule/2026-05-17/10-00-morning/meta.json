@@ -1,0 +1,115 @@
+{
+  "runId": "2026-05-17-morning-2cef27d7",
+  "date": "2026-05-17",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "online-vs-inperson-mha-rules",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock MHA Calculations",
+        "body": "Master MHA rules for online, in-person, and hybrid courses.",
+        "bullets": [
+          "Accurate MHA calculations",
+          "Compliance with VA regulations",
+          "Simplified student support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand MHA Basics",
+        "body": "Learn the core MHA principles and how they apply to different learning formats.",
+        "bullets": [
+          "Monthly vs. daily allowance",
+          "Course type impact"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Online Course Considerations",
+        "body": "Explore the unique MHA rules for fully online courses and their impact on student benefits.",
+        "bullets": [
+          "No face-to-face contact required",
+          "Weekly hours and allowance adjustments"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "In-Person Course Rules",
+        "body": "Discover the specific MHA rules for in-person courses and how they differ from online courses.",
+        "bullets": [
+          "Daily attendance required",
+          "Allowance based on hours attended"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Hybrid Course Calculations",
+        "body": "Learn how to apply MHA rules to hybrid courses that combine online and in-person elements.",
+        "bullets": [
+          "Pro-rated daily allowance",
+          "Course-specific rules"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Compliant with MHA",
+        "body": "Ensure accurate MHA calculations and stay compliant with VA regulations.",
+        "bullets": [
+          "Regular student check-ins",
+          "Update MHA records"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock MHA Calculations for Online, In-Person, and Hybrid Courses. Step-by-step guide to mastering MHA rules for student veterans. Stay compliant with VA regulations. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, as it could benefit from a more concise headline to better summarize the content."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:59:13.837Z"
+}

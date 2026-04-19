@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-17-afternoon-497e70ad",
+  "date": "2026-05-17",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:One habit that saves VASCOs hours each week",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock hours of efficiency",
+        "body": "Automate your VA School Certifying Officer (VASCO) duties with one simple habit.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline student applications",
+        "body": "Easily import and process student applications with our automated system.",
+        "bullets": [
+          "Saves time on manual data entry",
+          "Reduces risk of errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Simplify certification tracking",
+        "body": "Automatically track student compliance with deadlines and requirements.",
+        "bullets": [
+          "Easily monitor progress",
+          "Avoid missed deadlines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Centralize all documents",
+        "body": "Centralize all student veteran documents in one secure location.",
+        "bullets": [
+          "Faster document retrieval",
+          "Enhanced data security"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Customize your dashboard",
+        "body": "Customize your dashboard to display only the information you need.",
+        "bullets": [
+          "Personalized experience",
+          "Focus on key tasks"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Support student veterans",
+        "body": "Empower your students with comprehensive support resources.",
+        "bullets": [
+          "Connect students with resources",
+          "Ensure their success"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more and sign up for a free trial.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock hours of efficiency with our automated VA School Certifying Officer (VASCO) tool. Streamline student applications, simplify certification tracking, centralize all documents, customize your dashboard, and support student veterans. Learn more and sign up for a free trial.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T20:05:29.155Z"
+}
