@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-26-midday-281de924",
+  "date": "2026-04-26",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "financial-literacy-veterans",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize VA Education Benefits",
+        "body": "Unlock the full potential of GI Bill and Yellow Ribbon programs.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand GI Bill Basics",
+        "body": "Learn about eligibility, benefits, and application process.",
+        "bullets": [
+          "Comprehensive guide for VASCOs",
+          "Support for student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Calculate Your Eligibility",
+        "body": "Discover your GI Bill benefits and calculate your entitlement.",
+        "bullets": [
+          "Use our calculator tool",
+          "Ensure accurate benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Plan Your Education Journey",
+        "body": "Develop a strategic plan to maximize your GI Bill benefits.",
+        "bullets": [
+          "Set clear educational goals",
+          "Choose the right program"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Manage Your Financial Aid",
+        "body": "Navigate the complexities of financial aid and loans.",
+        "bullets": [
+          "Stay informed about deadlines",
+          "Utilize resources for financial planning"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed and Compliant",
+        "body": "Stay updated on the latest VA education benefits and compliance requirements.",
+        "bullets": [
+          "Follow best practices",
+          "Ensure compliance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize VA Education Benefits. For VA School Certifying Officials: Step-by-step guide to understanding GI Bill basics, calculating benefits, planning your education journey, managing financial aid, and staying compliant. Link in bio for more resources.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#FinancialLiteracy",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#FinancialPlanning",
+      "#VeteransAffairs",
+      "#EducationPrograms",
+      "#FinancialLiteracyForVeterans",
+      "#GIBillForVeterans"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, as it could benefit from a more engaging headline to capture attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T04:57:40.718Z"
+}
