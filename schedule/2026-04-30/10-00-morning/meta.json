@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-30-morning-4963867c",
+  "date": "2026-04-30",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "cybersecurity-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock Cybersecurity for VASCOs",
+        "body": "Automate VA certifications, track compliance, and protect student veterans with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Reduce manual errors and increase efficiency with automated certification processes.",
+        "bullets": [
+          "No more manual data entry",
+          "Quickly generate and send certificates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Easily monitor and report on compliance with federal regulations.",
+        "bullets": [
+          "Real-time updates on certification status",
+          "Customizable compliance reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Ensure students receive the benefits they deserve with automated support.",
+        "bullets": [
+          "Track student progress",
+          "Automate benefit checks"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Enhance Security",
+        "body": "Protect sensitive veteran data with built-in cybersecurity features.",
+        "bullets": [
+          "Compliance with data protection laws",
+          "Incident response protocols"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Ahead of Compliance",
+        "body": "Stay updated on the latest VA education regulations with real-time notifications.",
+        "bullets": [
+          "Receive automatic updates",
+          "Stay compliant with ease"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try VASCO Assistant Pro for free now! Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock cybersecurity for VASCOs with VASCO Assistant Pro. Automate certifications, track compliance, and protect sensitive veteran data. Try it now!",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Cybersecurity",
+      "#VASCOAssistantPro",
+      "#EducationTechnology",
+      "#VeteransSupport",
+      "#DataProtection",
+      "#VACompliance",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to draw more attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:49:22.642Z"
+}
