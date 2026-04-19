@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-18-midday-efd07789",
+  "date": "2026-05-18",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "first-time-vasco-guide",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Simplify Your Certification Process",
+        "body": "Streamline your certification tasks with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Easily manage and track certifications with our automated system.",
+        "bullets": [
+          "Save time on manual tasks",
+          "Ensure accuracy with every submission"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Maintain compliance effortlessly with our real-time tracking tools.",
+        "bullets": [
+          "Monitor compliance with ease",
+          "Receive alerts for upcoming deadlines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower student veterans with our comprehensive support features.",
+        "bullets": [
+          "Streamline financial aid processes",
+          "Offer personalized support services"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "ComplianceMatters",
+        "body": "Stay on top of federal regulations with our compliance management.",
+        "bullets": [
+          "Stay updated with latest regulations",
+          "Ensure compliance with automated reminders"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "VAEducation",
+        "body": "Facilitate student veterans' educational journeys with our user-friendly platform.",
+        "bullets": [
+          "Access student records and benefits",
+          "Simplify the certification process for student veterans"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Simplify your first 90 days as a VASCO with VASCO Assistant Pro. Automate certifications, track compliance, and support student veterans. Get started now.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationSupport",
+      "#CertificationTools",
+      "#VACompliance",
+      "#VeteransEducation",
+      "#EducationAutomation",
+      "#CertifyingOfficial",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T20:14:53.612Z"
+}

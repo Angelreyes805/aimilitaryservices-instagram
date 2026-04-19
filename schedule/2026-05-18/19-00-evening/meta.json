@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-18-evening-2eab12fe",
+  "date": "2026-05-18",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Preparing for a chapter change mid-career",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications",
+        "body": "Streamline VA GI Bill® school certifications with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Centralize Data",
+        "body": "Easily import student information to maintain accuracy.",
+        "bullets": [
+          "Automates data entry",
+          "Reduces errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Simplify Certs",
+        "body": "Automatically generate and submit Chapter 33 certifications.",
+        "bullets": [
+          "Prepares all necessary forms",
+          "Saves time on manual submissions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Track Compliance",
+        "body": "Monitor and report on student compliance with VA regulations.",
+        "bullets": [
+          "Real-time updates on compliance status",
+          "Customizable reports for easy tracking"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower students with Yellow Ribbon and GIBill® benefits.",
+        "bullets": [
+          "Customized benefit plans",
+          "Streamlined benefits enrollment"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Changes",
+        "body": "Stay informed with real-time updates on VA policies and regulations.",
+        "bullets": [
+          "Automatically updates certification processes",
+          "Ensures compliance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate VA GI Bill® school certifications, simplify Chapter 33 submissions, and support student veterans with VASCO Assistant Pro.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AutomateCertifications",
+      "#SimplifyCerts",
+      "#TrackCompliance",
+      "#SupportStudentVeterans",
+      "#MonitorChanges",
+      "#VAAssistantPro",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3 of 5, 'Track Compliance', as the text is slightly smaller and less prominent compared to the other slides. A slight increase in font size could enhance its visibility."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T20:21:09.941Z"
+}
