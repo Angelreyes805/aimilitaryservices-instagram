@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-27-morning-f9faff3f",
+  "date": "2026-04-27",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "difficult-conversations-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Transform Challenging Student Situations",
+        "body": "Empower VASCOs to handle tough conversations with ease and professionalism.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Situation",
+        "body": "Identify the root cause of the challenge.",
+        "bullets": [
+          "Listen actively",
+          "Stay neutral"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Empathize with Student",
+        "body": "Show genuine understanding of the student's perspective.",
+        "bullets": [
+          "Use 'I' statements",
+          "Acknowledge emotions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Communicate Clearly",
+        "body": "Express concerns and expectations in a clear, respectful manner.",
+        "bullets": [
+          "Be concise",
+          "Use 'you' statements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Agree on Next Steps",
+        "body": "Collaborate with the student to find a solution.",
+        "bullets": [
+          "Set goals",
+          "Establish a timeline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "Check in with the student to ensure the situation is improving.",
+        "bullets": [
+          "Maintain open communication",
+          "Adjust strategies as needed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transform challenging student interactions with practical scripts and de-escalation techniques. Learn how VASCO Assistant Pro empowers VASCOs to handle tough conversations with ease and professionalism.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VASCOAssistantPro",
+      "#VAEducationScripts",
+      "#DeEscalationTechniques",
+      "#ChallengingStudentInteractions",
+      "#ProfessionalDevelopment",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Agree on Next Steps' slide could benefit from a more concise takeaway to ensure it stands out visually and maintains the reader's focus."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:08:01.114Z"
+}

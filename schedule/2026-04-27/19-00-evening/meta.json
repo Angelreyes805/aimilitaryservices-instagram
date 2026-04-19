@@ -1,0 +1,115 @@
+{
+  "runId": "2026-04-27-evening-3e21ddba",
+  "date": "2026-04-27",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:A short script for dropping students in Enrollment Manager",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline your VA certifications",
+        "body": "Automate your student veterans' GIBill and Chapter 33 certifications.",
+        "bullets": [
+          "Save time with pre-built templates",
+          "Ensure compliance with ease",
+          "Support student veterans efficiently"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate GIBill and Chapter 33 Certs",
+        "body": "Pre-built templates for seamless certification processing.",
+        "bullets": [
+          "No need for manual data entry",
+          "Pre-filled with required information"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance at Your Fingertips",
+        "body": "Automate the tracking of student compliance with VA regulations.",
+        "bullets": [
+          "Real-time updates",
+          "Stay compliant effortlessly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Streamline support for student veterans with pre-configured settings.",
+        "bullets": [
+          "Personalized support tailored to each student",
+          "Efficiently track and manage veteran-specific needs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Intuitive User Interface",
+        "body": "Navigate the platform with ease, designed for simplicity.",
+        "bullets": [
+          "User-friendly dashboard",
+          "Quick access to all tools"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Pre-Launch Pricing",
+        "body": "Limited-time offer for early adopters. Sign up now!",
+        "bullets": [
+          "1 annual payment*",
+          "Unlock the future of VA school certifying"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline your VA certifications with VASCO Assistant Pro. Save time, ensure compliance, and support student veterans. Try our pre-built templates and real-time tracking tools. Pre-launch pricing available. Sign up now!",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VASCOAssistantPro",
+      "#VAEducationTools",
+      "#SchoolCertifyingOfficer",
+      "#VeteransEducation",
+      "#EducationAutomation",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to better engage the viewer."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:18:33.466Z"
+}

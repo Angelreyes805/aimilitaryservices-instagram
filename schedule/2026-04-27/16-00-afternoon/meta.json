@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-27-afternoon-3c182d20",
+  "date": "2026-04-27",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Six questions to ask at every intake",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline VA School Certs",
+        "body": "Easily manage student veteran certifications with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Verify Eligibility",
+        "body": "Ensure students meet VA eligibility criteria.",
+        "bullets": [
+          "Check GIBill and Yellow Ribbon",
+          "Review VA forms and documentation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Document Student Data",
+        "body": "Maintain accurate student information.",
+        "bullets": [
+          "Update profiles with current details",
+          "Track enrollment changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review Course Certifications",
+        "body": "Automate Chapter 33 certification processes.",
+        "bullets": [
+          "Prevent errors with pre-loaded data",
+          "Automatically update certifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Track Compliance",
+        "body": "Ensure ongoing compliance with VA regulations.",
+        "bullets": [
+          "Set up reminders for upcoming deadlines",
+          "Monitor compliance status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Support Students",
+        "body": "Facilitate student veteran education.",
+        "bullets": [
+          "Offer resources and support",
+          "Facilitate Yellow Ribbon participation"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Sign up now for pre-launch pricing",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "VASCO Assistant Pro: Simplify VA school certifications. Verify eligibility, document student data, automate certifications, track compliance, and support students. Sign up now for pre-launch pricing.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationAssistance",
+      "#VeteranAffairs",
+      "#EducationalBenefits",
+      "#VAPrograms",
+      "#EducationSupport",
+      "#VeteranSupport",
+      "#EducationManagement"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to better convey the single takeaway."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:14:57.643Z"
+}
