@@ -1,0 +1,114 @@
+{
+  "runId": "2026-04-24-morning-a5b58084",
+  "date": "2026-04-24",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "student-veteran-organizations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications & Track Compliance",
+        "body": "VASCO Assistant Pro streamlines GIBill and Chapter 33 certifications.",
+        "bullets": [
+          "Simplify VA claims processing.",
+          "Ensure student veteran benefits are compliant."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Certify Student Veterans",
+        "body": "Quickly submit and track VA forms for student veterans.",
+        "bullets": [
+          "Automate claim submissions.",
+          "Monitor application status."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Monitoring",
+        "body": "Regularly check and update certification status.",
+        "bullets": [
+          "Set compliance alerts.",
+          "Maintain accurate records."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Facilitate access to GIBill and Chapter 33 benefits.",
+        "bullets": [
+          "Provide timely information.",
+          "Ensure student veteran needs are met."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Yellow Ribbon Program",
+        "body": "Integrate support for the Yellow Ribbon Program.",
+        "bullets": [
+          "Streamline enrollment.",
+          "Enhance student veteran experience."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Higher Education Compliance",
+        "body": "Meet all higher education compliance requirements.",
+        "bullets": [
+          "Comply with VA guidelines.",
+          "Ensure institutional policies are in place."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline GIBill and Chapter 33 certifications with VASCO Assistant Pro. Automate claims, monitor compliance, and support student veterans. Discover how to foster community on campus with this essential tool.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans', as the text is slightly dense and could benefit from a bit more spacing for better readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T04:25:57.870Z"
+}
