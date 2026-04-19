@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-19-midday-c95f97d6",
+  "date": "2026-05-19",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "avoiding-overpayment-debt",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate VA Student Certifications",
+        "body": "VASCO Assistant Pro simplifies your certification process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Prevent Overpayments",
+        "body": "Stay ahead of debt with real-time tracking and reporting.",
+        "bullets": [
+          "Automate overpayment detection",
+          "Alerts for student errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Made Easy",
+        "body": "Stay on top of GIBill regulations and reporting.",
+        "bullets": [
+          "Comprehensive compliance tracking",
+          "Regular updates and reminders"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Mitigating Circumstances",
+        "body": "Streamline documentation and appeals for student veterans.",
+        "bullets": [
+          "Automated documentation uploads",
+          "Integrated appeal processes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Reporting",
+        "body": "Generate detailed reports for easy audit readiness.",
+        "bullets": [
+          "Monthly summary reports",
+          "On-demand reports for specific needs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Simplify Student Support",
+        "body": "Centralize student support with one tool.",
+        "bullets": [
+          "One-stop student portal",
+          "Automated email notifications"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate VA student certification, prevent overpayments, and support student veterans with VASCO Assistant Pro. Simplify compliance, streamline processes, and mitigate student debt. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationAssistance",
+      "#StudentSupport",
+      "#VAForms",
+      "#EducationalBenefits",
+      "#CertificationTool",
+      "#EducationSoftware",
+      "#VeteransAffairs"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to better align with the other slides' structure."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T20:27:23.950Z"
+}

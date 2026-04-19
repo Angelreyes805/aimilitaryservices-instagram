@@ -1,0 +1,114 @@
+{
+  "runId": "2026-05-19-evening-7d0b99b4",
+  "date": "2026-05-19",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Making first-generation veterans feel at home",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications",
+        "body": "Streamline the process for VA School Certifying Officials (VASCOs).",
+        "bullets": [
+          "1 annual payment*",
+          "Pre-launch pricing"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Save Time",
+        "body": "Automate the certification process, reducing manual tasks by 80%.",
+        "bullets": [
+          "Save 80% on manual tasks",
+          "Track compliance easily"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Ensure Accuracy",
+        "body": "Minimize errors with automated systems, ensuring all student veteran data is accurate.",
+        "bullets": [
+          "Reduce manual errors",
+          "Ensure data integrity"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower your staff with tools that help support student veterans efficiently.",
+        "bullets": [
+          "Streamline GIBill and Chapter 33 claims",
+          "Meet Yellow Ribbon program requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Matters",
+        "body": "Stay compliant with VA regulations, reducing the risk of audits and penalties.",
+        "bullets": [
+          "Comply with VA requirements",
+          "Support higher-ed compliance staff"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Track Compliance",
+        "body": "Automate the tracking of student veteran certifications and compliance.",
+        "bullets": [
+          "Automate tracking",
+          "Save time with automated reports"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline the certification process for VA School Certifying Officials (VASCOs). Automate the process, save time, and ensure accuracy for student veterans. Learn more about VASCO Assistant Pro. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#CertificationTools",
+      "#VASchoolCertifyingOfficials",
+      "#AutomateCertifications",
+      "#StreamlineProcess",
+      "#SupportStudentVeterans",
+      "#ComplianceSupport",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to grab attention. A stronger hook could enhance engagement."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T20:33:36.789Z"
+}
