@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-22-midday-9c483a61",
+  "date": "2026-04-22",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "mentorship-programs-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Empower New VASCOs with Mentorship",
+        "body": "Build a strong network of experienced mentors to guide and support emerging VASCOs.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Define Goals",
+        "body": "Establish clear objectives for the mentorship program to ensure alignment with your institution's needs.",
+        "bullets": [
+          "Identify specific skill areas to focus on",
+          "Set performance metrics"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Recruit Mentors",
+        "body": "Identify experienced VASCOs and veteran services professionals who can share their knowledge and insights.",
+        "bullets": [
+          "Review resumes and professional profiles",
+          "Evaluate expertise and availability"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Create Structure",
+        "body": "Develop a structured mentorship framework, including regular check-ins and opportunities for feedback.",
+        "bullets": [
+          "Set regular meeting schedules",
+          "Encourage open communication"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Train Mentors",
+        "body": "Provide mentor training to ensure they can effectively guide and support their mentees.",
+        "bullets": [
+          "Focus on effective communication",
+          "Teach conflict resolution"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Evaluate Success",
+        "body": "Implement a system to assess the program's effectiveness and make adjustments as needed.",
+        "bullets": [
+          "Conduct regular evaluations",
+          "Collect feedback from both mentors and mentees"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Mentorship Programs at aimilitaryservices.com",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Empower new VASCOs with mentorship programs! Define goals, recruit mentors, create structure, train mentors, and evaluate success. Join us at aimilitaryservices.com to build the next generation of VASCOs.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3: Create Structure. It could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T04:01:18.989Z"
+}

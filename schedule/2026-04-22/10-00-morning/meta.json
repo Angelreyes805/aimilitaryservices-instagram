@@ -1,0 +1,114 @@
+{
+  "runId": "2026-04-22-morning-b533e191",
+  "date": "2026-04-22",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "understanding-delimiting-date",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Simplify Delimiting Date Management",
+        "body": "Automate your school's GIBill® certifying process with VASCO Assistant Pro.",
+        "bullets": [
+          "Track compliance",
+          "Support student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Eliminate manual entry and reduce errors with VASCO Assistant Pro.",
+        "bullets": [
+          "1 annual payment*",
+          "Pre-launch pricing"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Tracking",
+        "body": "Stay on top of GIBill® requirements with real-time updates.",
+        "bullets": [
+          "Compliance dashboard",
+          "Track delimiting dates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Student Support",
+        "body": "Empower your students with proactive reminders and support.",
+        "bullets": [
+          "Personalized alerts",
+          "Compliance reminders"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Reporting",
+        "body": "Generate detailed reports for easy audit readiness.",
+        "bullets": [
+          "Compliance audit support",
+          "Monthly reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Streamlined Process",
+        "body": "Simplify the GIBill® certification process for your school.",
+        "bullets": [
+          "Automated workflows",
+          "Centralized management"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Simplify delimiting date management for your VA School Certifying Officials. Automate certifications, track compliance, and support student veterans with VASCO Assistant Pro. Get started today and streamline your GIBill® certification process. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#DelimitingDate",
+      "#CertificationManagement",
+      "#VAEducationBenefits",
+      "#EducationAssistance",
+      "#EducationPrograms",
+      "#EducationTools",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Compliance Tracking' slide could benefit from a more detailed explanation of what 'real-time updates' means in the context of GIBill® requirements."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:57:42.758Z"
+}
