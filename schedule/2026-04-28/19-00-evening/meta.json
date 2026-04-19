@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-28-evening-8c887ef3",
+  "date": "2026-04-28",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Turning a denial letter into a fast appeal",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Transform Denial Letters into Appeals",
+        "body": "Streamline the process for VASCOs with step-by-step guidance.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your Appeal Rights",
+        "body": "Learn about your eligibility to appeal and the necessary documentation.",
+        "bullets": [
+          "Review VA Form 22-1905",
+          "Understand appeal rights under Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Necessary Documents",
+        "body": "Compile all required documents to support your appeal.",
+        "bullets": [
+          "Original denial letter",
+          "Any previous appeals or notifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Complete Appeal Forms",
+        "body": "Fill out the VA Form 22-1905 and any supporting forms.",
+        "bullets": [
+          "Correctly fill out all sections",
+          "Sign the form and submit it"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit Your Appeal",
+        "body": "Submit your appeal package to the VA via the correct channels.",
+        "bullets": [
+          "Mail the appeal to the correct VA office",
+          "Verify submission with a receipt"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Your Appeal Status",
+        "body": "Stay informed about the status of your appeal with regular updates.",
+        "bullets": [
+          "Check the VA website for updates",
+          "Reach out to your VA representative"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Discover more on our waitlist",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Turn denial letters into appeals with our comprehensive guide. Streamline the process, gather documents, fill forms, submit, and monitor. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AppealProcess",
+      "#VAAppeals",
+      "#VAForms",
+      "#EducationAppeals",
+      "#VeteranSupport",
+      "#EducationBenefits",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1, as it could benefit from a more compelling headline to draw attention. The top fix would be to add a more engaging headline that highlights the importance of understanding appeal rights."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:32:31.051Z"
+}
