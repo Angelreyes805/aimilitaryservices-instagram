@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-05-afternoon-a8e021e7",
+  "date": "2026-05-05",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Spotting a Chapter 31 scenario quickly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Boost your GIBill compliance with VASCO Assistant Pro",
+        "body": "Automate VA School Certifying Officer (VASCO) tasks and ensure student veterans' education benefits are compliant.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify student veterans",
+        "body": "Quickly identify student veterans by scanning their ID badges or using the VA ID verification tool.",
+        "bullets": [
+          "Scans student ID badges",
+          "Validates VA ID cards"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand GIBill rules",
+        "body": "Stay up-to-date with the latest GIBill regulations to avoid compliance issues.",
+        "bullets": [
+          "Follows federal guidelines",
+          "Tracks changes in real-time"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Automate certification processes",
+        "body": "Streamline the certification process with pre-filled forms and automated verifications.",
+        "bullets": [
+          "Saves time with pre-filled forms",
+          "Automates verifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Monitor compliance",
+        "body": "Stay on top of student veterans' compliance status with real-time tracking and alerts.",
+        "bullets": [
+          "Tracks compliance status",
+          "Sends notifications for non-compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Support student veterans",
+        "body": "Empower student veterans with clear, concise, and accessible information about their education benefits.",
+        "bullets": [
+          "Provides comprehensive VA education benefits info",
+          "Supports student success"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start automating your VASCO tasks now. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock the power of VASCO Assistant Pro to boost your GIBill compliance. Identify student veterans, stay updated with GIBill rules, and automate certification processes with real-time tracking and alerts. Empower student veterans with clear information. Start now! Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#VASchoolCertifyingOfficer",
+      "#GIBillCompliance",
+      "#VAIDVerification",
+      "#VocRehab",
+      "#AutomateCertifications",
+      "#RealTimeTracking"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to better align with the other slides' clear and direct messaging."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:32:44.831Z"
+}

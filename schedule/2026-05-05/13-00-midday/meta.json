@@ -1,0 +1,114 @@
+{
+  "runId": "2026-05-05-midday-d8ab40fe",
+  "date": "2026-05-05",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "presentation-skills-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Transform Your Certifications",
+        "body": "Automate, track, and support student veterans with VASCO Assistant Pro.",
+        "bullets": [
+          "1 annual payment*",
+          "Pre-launch pricing"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certification Processes",
+        "body": "Centralize data entry and automate the certification process.",
+        "bullets": [
+          "Centralize student data",
+          "Automate certification renewals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Real-time Compliance Tracking",
+        "body": "Stay on top of VA compliance requirements with real-time updates.",
+        "bullets": [
+          "Automatically track compliance",
+          "Receive notifications for updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower student veterans with a user-friendly interface and comprehensive support.",
+        "bullets": [
+          "Comprehensive student support",
+          "User-friendly interface"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Customizable Templates",
+        "body": "Tailor your certification processes to meet your unique needs.",
+        "bullets": [
+          "Customizable templates",
+          "Personalize certification processes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Training and Resources",
+        "body": "Access training materials and resources to ensure you're always up-to-date.",
+        "bullets": [
+          "Comprehensive training materials",
+          "Access resources for support"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join the waitlist for early access to VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transform your certification processes with VASCO Assistant Pro. Streamline, track, and support student veterans with ease. Join the waitlist for early access today.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Streamline Certification Processes' slide could benefit from a more concise headline to improve readability on mobile devices."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:29:20.327Z"
+}
