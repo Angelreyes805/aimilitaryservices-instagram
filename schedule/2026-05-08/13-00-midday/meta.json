@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-08-midday-af0c365c",
+  "date": "2026-05-08",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "85-15-rule-demystified",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock GIBill Automation",
+        "body": "Streamline your VA certification process with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Easily manage GIBill and Yellow Ribbon certifications.",
+        "bullets": [
+          "Track student eligibility",
+          "Automate enrollment verifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Made Simple",
+        "body": "Maintain 85/15 rule compliance effortlessly.",
+        "bullets": [
+          "Regularly monitor enrollment data",
+          "Generate compliance reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Real-Time Updates",
+        "body": "Stay up-to-date with the latest VA regulations.",
+        "bullets": [
+          "Receive automatic updates",
+          "Ensure continuous compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Student Support",
+        "body": "Empower student veterans with comprehensive support.",
+        "bullets": [
+          "Offer personalized financial planning",
+          "Facilitate Yellow Ribbon applications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Scalable Solutions",
+        "body": "Grow with VASCO Assistant Pro as your VA certification tool.",
+        "bullets": [
+          "Expand to multiple campuses",
+          "Scalable for large institutions"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock GIBill automation and streamline your VA certification process with VASCO Assistant Pro. Master the 85/15 rule, monitor compliance, and support student veterans. Join the waitlist today to get pre-launch pricing: aimilitaryservices.com/waitlist.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#8515rule",
+      "#AutomateCertifications",
+      "#MonitorCompliance",
+      "#RealTimeUpdates",
+      "#SupportVeterans",
+      "#ScalableSolutions",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Real-Time Updates', as it could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:09:39.134Z"
+}
