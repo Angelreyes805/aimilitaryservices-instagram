@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-29-afternoon-d013d1df",
+  "date": "2026-04-29",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Three questions to ask before certifying a non-standard term",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Certify Summer Sessions",
+        "body": "Ensure student veterans are properly certified.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Non-Standard Terms",
+        "body": "Verify term lengths and credit hours.",
+        "bullets": [
+          "Check official term dates",
+          "Confirm course credit hours"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review Eligibility",
+        "body": "Ensure students meet all certification requirements.",
+        "bullets": [
+          "Verify GI Bill eligibility",
+          "Confirm student status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Understand Funding",
+        "body": "Calculate how much GI Bill benefits will cover.",
+        "bullets": [
+          "Review Chapter 33 funding limits",
+          "Estimate out-of-pocket costs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Checklist",
+        "body": "Use our tool to track certifications.",
+        "bullets": [
+          "Automate compliance tracking",
+          "Support student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Submit",
+        "body": "Double-check before submitting certifications.",
+        "bullets": [
+          "Review term details",
+          "Submit certified documents"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with our pre-launch pricing. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Ensure proper certification for summer sessions by asking these 5 key questions. Automate compliance with our VASCO Assistant Pro. Get pre-launch pricing now.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, which could benefit from a more engaging headline to grab attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:42:33.526Z"
+}

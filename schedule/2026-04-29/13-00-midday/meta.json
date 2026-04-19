@@ -1,0 +1,115 @@
+{
+  "runId": "2026-04-29-midday-d75e128a",
+  "date": "2026-04-29",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "sap-appeals-that-work",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize SAP Appeals",
+        "body": "Unlock strategies and templates for successful SAP appeals.",
+        "bullets": [
+          "Proven templates",
+          "Compliance tips",
+          "Presentation skills"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand SAP",
+        "body": "Comprehensive guide to the SAP process.",
+        "bullets": [
+          "What is SAP?",
+          "Eligibility requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Documentation",
+        "body": "Requirements for strong appeal cases.",
+        "bullets": [
+          "What documents to collect",
+          "Timeline for submission"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Craft Your Appeal",
+        "body": "Strategies for crafting compelling appeals.",
+        "bullets": [
+          "Focus on evidence",
+          "Clear, concise arguments"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Presentation Skills",
+        "body": "Tips for presenting your appeal effectively.",
+        "bullets": [
+          "Effective communication",
+          "Body language and tone"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "What to do after your appeal is submitted.",
+        "bullets": [
+          "Track progress",
+          "Maintain records"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about SAP appeals. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize SAP appeals with proven strategies and templates. Learn how to present compelling cases, gather the right documentation, and craft compelling arguments.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Follow Up' slide could benefit from a more specific takeaway to enhance clarity."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T05:39:17.686Z"
+}
