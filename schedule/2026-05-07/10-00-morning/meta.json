@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-07-morning-a7f249bb",
+  "date": "2026-05-07",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "future-proofing-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Future-Proof Your VASCO Office",
+        "body": "Stay ahead with AI-driven tools for GIBill compliance and student veteran support.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certifications",
+        "body": "Automate VA education benefit certifications for faster processing.",
+        "bullets": [
+          "Save time",
+          "Ensure accuracy",
+          "Focus on student support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Monitor and report GIBill compliance with real-time data.",
+        "bullets": [
+          "Compliance alerts",
+          "Data-driven decisions",
+          "Stay ahead of changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Easily manage student veteran records and services.",
+        "bullets": [
+          "Centralized records",
+          "Seamless service delivery",
+          "Enhanced student experience"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Mgmt",
+        "body": "Centralize all VA education benefit compliance tasks.",
+        "bullets": [
+          "Single dashboard",
+          "Integrated tools",
+          "Compliance audit readiness"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed",
+        "body": "Access the latest GIBill updates and best practices.",
+        "bullets": [
+          "Regular updates",
+          "Best practices guidance",
+          "Stay ahead of the curve"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Future-proof your VASCO office with AI-driven tools for GIBill compliance and student veteran support. Streamline certifications, track compliance, and support student veterans with ease. Try VASCO Assistant Pro. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#FutureProof",
+      "#AIAssistance",
+      "#EducationBenefits",
+      "#VAOffice",
+      "#GIBillCompliance",
+      "#VeteranServices",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to match the other slides' clarity and impact."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:52:59.248Z"
+}
