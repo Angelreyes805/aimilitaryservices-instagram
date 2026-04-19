@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-21-evening-1923b635",
+  "date": "2026-04-21",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Getting ahead of a compliance survey two weeks out",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Prep for a Compliance Survey",
+        "body": "Stay ahead with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Organize Certifications",
+        "body": "Automate and verify certifications in one folder.",
+        "bullets": [
+          "1 annual payment*",
+          "Streamlines documentation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Set reminders and monitor progress.",
+        "bullets": [
+          "Real-time updates",
+          "Compliance at your fingertips"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Ensure student success with our tools.",
+        "bullets": [
+          "Comprehensive support",
+          "Yellow Ribbon readiness"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Save Time",
+        "body": "Reduce administrative burden.",
+        "bullets": [
+          "Efficient workflows",
+          "Less manual effort"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Get Ready for Survey",
+        "body": "Be prepared with our pre-built templates.",
+        "bullets": [
+          "Compliance checklists",
+          "Save time and stress"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Prep for a compliance survey two weeks out with VASCO Assistant Pro. Organize, track, and support student veterans in one folder. Stay compliant and save time. Link in bio for more info.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#PrepForSurvey",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#SupportVeterans",
+      "#SaveTime",
+      "#PrepForSurveyNow",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, 'Save Time,' as it could benefit from a more compelling headline to match the others. The top fix would be to add a more engaging headline that aligns with the overall narrative."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:54:09.693Z"
+}
