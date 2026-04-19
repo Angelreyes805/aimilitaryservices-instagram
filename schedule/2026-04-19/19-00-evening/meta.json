@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-19-evening-ee8b72db",
+  "date": "2026-04-19",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Preparing for a chapter change mid-career",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Simplify VA school certifying",
+        "body": "Automate certifications, track compliance, support student veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certifications",
+        "body": "Automate the certification process for VA benefits.",
+        "bullets": [
+          "No more manual paperwork",
+          "Quick setup for new programs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Real-time Compliance",
+        "body": "Track student veteran compliance in real-time.",
+        "bullets": [
+          "Centralized dashboard for monitoring",
+          "Alerts for missed deadlines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Alerts",
+        "body": "Automatically notify students and staff of compliance issues.",
+        "bullets": [
+          "Customizable alerts for each student",
+          "Immediate intervention possible"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Ensure student veterans receive the support they deserve.",
+        "bullets": [
+          "Comprehensive documentation for each student",
+          "Easy access to resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Effortless Implementation",
+        "body": "Quick and easy to implement, no training required.",
+        "bullets": [
+          "Pre-launch pricing available",
+          "Immediate value for your institution"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Simplify VA school certifying with VASCO Assistant Pro. Streamline certifications, track real-time compliance, and support student veterans with ease. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#SupportVeterans",
+      "#PreLaunchPricing",
+      "#EaseImplementation",
+      "#RealTimeMonitoring",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Compliance Alerts,' as it could benefit from a more compelling headline to better convey the importance of the feature."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:21:20.948Z"
+}

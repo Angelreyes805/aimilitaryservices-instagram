@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-19-morning-1a76838e",
+  "date": "2026-04-19",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "training-time-best-practices",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize GIBill Certifications",
+        "body": "Unlock the full potential of your VA School Certifying Official role with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Training Period",
+        "body": "Understand the start and end dates of the training period.",
+        "bullets": [
+          "Review official training schedules",
+          "Exclude breaks and holidays"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Calculate Actual Hours",
+        "body": "Count only the hours the student was actively engaged in the training.",
+        "bullets": [
+          "Exclude time spent on paperwork",
+          "Record hours for each session"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Document Accurately",
+        "body": "Maintain detailed records of the training time.",
+        "bullets": [
+          "Use the VASCO Assistant Pro tool",
+          "Keep records secure and accessible"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Verify with Records",
+        "body": "Cross-check the training time with student records.",
+        "bullets": [
+          "Ensure alignment with course syllabi",
+          "Adjust for any discrepancies"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit for Approval",
+        "body": "Submit the calculated training time for certification.",
+        "bullets": [
+          "Follow the VASCO Assistant Pro workflow",
+          "Submit within deadlines"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join the waitlist to try VASCO Assistant Pro.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize GIBill certifications by following these training time calculation best practices used by experienced VASCOs. Calculate, document, and submit accurately with VASCO Assistant Pro. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#TrainingTime",
+      "#CertificationTips",
+      "#AccurateCalculations",
+      "#EducationAssistance",
+      "#VAEducationBenefits",
+      "#CertifyingOfficer",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Document Accurately,' as it could benefit from a more detailed bullet point to clarify the importance of maintaining detailed records."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:11:19.686Z"
+}
