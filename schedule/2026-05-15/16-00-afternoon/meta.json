@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-15-afternoon-a7019da3",
+  "date": "2026-05-15",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Handling a late-term credit change cleanly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline late-term credit changes",
+        "body": "Automate your VA certification process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the issue",
+        "body": "Quickly detect late-term credit changes and their impact.",
+        "bullets": [
+          "Monitor enrollment in real-time",
+          "Automate alerts for pending credit changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Recover lost credit",
+        "body": "Recalculate and adjust the student's remaining credits.",
+        "bullets": [
+          "Automatically calculate remaining credits",
+          "Prevent overpayment or underpayment"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Reconcile with VA",
+        "body": "Ensure all changes are compliant with VA regulations.",
+        "bullets": [
+          "Automate compliance checks",
+          "Generate and submit necessary documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate with the student",
+        "body": "Keep the student informed of changes and next steps.",
+        "bullets": [
+          "Automatically notify students",
+          "Offer support and guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Track and monitor",
+        "body": "Keep a record of all changes and updates.",
+        "bullets": [
+          "Automate log-keeping",
+          "Ensure continuous improvement"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try our pre-launch demo. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Handle late-term credit changes smoothly with VASCO Assistant Pro. Automate the process to ensure compliance and support student veterans. Try our pre-launch demo today.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#SchoolCertifyingOfficial",
+      "#VAEducation",
+      "#HigherEd",
+      "#GIBill",
+      "#Chapter33",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:40:23.450Z"
+}

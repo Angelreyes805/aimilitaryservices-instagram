@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-15-evening-5c58a549",
+  "date": "2026-05-15",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Knowing when to hand off to the VA directly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize VA School Certifications",
+        "body": "Automate the process, boost efficiency, and ensure compliance.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand VA Requirements",
+        "body": "Stay updated with the latest VA rules and regulations.",
+        "bullets": [
+          "Review official VA guidelines",
+          "Stay informed through webinars"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Identify Eligible Students",
+        "body": "Screen students for eligibility under Chapter 33.",
+        "bullets": [
+          "Verify GIBill eligibility",
+          "Check Yellow Ribbon status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Collect Documentation",
+        "body": "Gather necessary documents to support student claims.",
+        "bullets": [
+          "Medical discharge documentation",
+          "Discharge summary"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit Claims",
+        "body": "Submit claims for VA certification with ease.",
+        "bullets": [
+          "Automate claim submissions",
+          "Track claim status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Compliance",
+        "body": "Regularly review and update student certifications.",
+        "bullets": [
+          "Automate compliance checks",
+          "Stay proactive with updates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join the waitlist for pre-launch pricing. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize VA School Certifications. Stay updated with the latest VA rules and regulations. Screen students for eligibility under Chapter 33. Gather necessary documents to support student claims. Submit claims for VA certification with ease. Regularly review and update student certifications. Join the waitlist for pre-launch pricing. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#SupportVeterans",
+      "#EducationTools",
+      "#VAHandoff",
+      "#EfficientCertifications",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, as the text is slightly smaller and less prominent compared to the others, which might make it less noticeable to the viewer."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:43:30.790Z"
+}
