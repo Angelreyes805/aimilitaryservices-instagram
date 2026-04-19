@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-04-afternoon-36c7c301",
+  "date": "2026-05-04",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:What to document after every phone call with the VA",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline VA GIBill Certifications",
+        "body": "Automate, track, and support student veterans with our desktop tool.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Our tool simplifies the certification process, reducing manual errors.",
+        "bullets": [
+          "Quickly submit certifications online",
+          "Automatically verify eligibility",
+          "Save time and effort"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Easily monitor and maintain compliance with VA regulations.",
+        "bullets": [
+          "Real-time updates on policy changes",
+          "Automated reminders for upcoming deadlines",
+          "Comprehensive compliance reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Our tool offers resources and support for student veterans throughout their education.",
+        "bullets": [
+          "Accessible resources for veterans",
+          "One-stop solution for all veteran-related issues",
+          "Continuous updates on VA benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Ensure Accuracy",
+        "body": "Minimize errors and ensure accurate certification information for your students.",
+        "bullets": [
+          "Automated validation of student data",
+          "Instant alerts for discrepancies",
+          "Accurate tracking of student progress"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Save Money",
+        "body": "Our pre-launch pricing offers significant savings for your institution.",
+        "bullets": [
+          "1 annual payment* for VA compliance",
+          "Invest in your institution’s future",
+          "Support your student veterans today"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join our waitlist for early access and special pricing. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline VA GIBill certifications, track compliance, and support student veterans with our desktop tool. Future you, and your next audit, will thank you.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 4 of 5, 'Ensure Accuracy,' as it could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:19:09.720Z"
+}

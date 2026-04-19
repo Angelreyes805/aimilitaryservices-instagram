@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-04-midday-d75027f4",
+  "date": "2026-05-04",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "certification-paths-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock Your VASCO Potential",
+        "body": "Elevate your career with expert VA school certification tools.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certification",
+        "body": "Automate the certification process for seamless compliance.",
+        "bullets": [
+          "Reduce manual errors",
+          "Save time and resources",
+          "Focus on student support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Made Easy",
+        "body": "Stay on track with real-time tracking and reporting.",
+        "bullets": [
+          "Monitor compliance effortlessly",
+          "Receive alerts for updates",
+          "Maintain student records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower student veterans with comprehensive tools and resources.",
+        "bullets": [
+          "Tailor educational support",
+          "Facilitate successful student transitions",
+          "Enhance student satisfaction"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Chapter 33 Made Simple",
+        "body": "Navigate Chapter 33 with ease and confidence.",
+        "bullets": [
+          "Understand complex regulations",
+          "Ensure accurate disbursement",
+          "Support student financial aid"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Continuous Improvement",
+        "body": "Elevate your skills with regular updates and training.",
+        "bullets": [
+          "Stay informed with updates",
+          "Access training resources",
+          "Network with peers"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about pre-launch pricing and features. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Elevate your VASCO career with expert tools for automation, compliance, and support. Discover streamlined certification, real-time tracking, and resources for student veterans. Learn more about pre-launch pricing and features.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:15:44.566Z"
+}

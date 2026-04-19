@@ -1,0 +1,114 @@
+{
+  "runId": "2026-05-04-evening-23c5b2ea",
+  "date": "2026-05-04",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Onboarding a new student veteran in under an hour",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Accelerate student veteran enrollment in 60 minutes",
+        "body": "Streamline your intake process with our desktop tool.",
+        "bullets": [
+          "Track compliance",
+          "Support student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Data Entry",
+        "body": "Automate student data collection with a single annual payment*.",
+        "bullets": [
+          "No manual input",
+          "Save time"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Certification",
+        "body": "Automate certification processing with one click.",
+        "bullets": [
+          "No more forms",
+          "Ensure student eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Tracking",
+        "body": "Stay on top of all student veteran compliance requirements.",
+        "bullets": [
+          "Real-time updates",
+          "No manual tracking"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Financial Aid",
+        "body": "Streamline GI Bill and Yellow Ribbon financial aid processing.",
+        "bullets": [
+          "No more paperwork",
+          "Quick approvals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Reporting",
+        "body": "Generate detailed reports for easy review and compliance.",
+        "bullets": [
+          "Compliance audit ready",
+          "Data-driven decisions"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Accelerate student veteran enrollment in 60 minutes with our desktop tool. Track compliance, support student veterans, and streamline certification and financial aid processing. Learn more in our 60-minute onboarding guide. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Onboarding",
+      "#Automate",
+      "#EducationTechnology",
+      "#VASchoolCertifyingOfficial",
+      "#Efficiency",
+      "#EducationProcess",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:22:28.799Z"
+}
