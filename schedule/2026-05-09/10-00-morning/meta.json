@@ -1,0 +1,120 @@
+{
+  "runId": "2026-05-09-morning-31ee0776",
+  "date": "2026-05-09",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "avoiding-overpayment-debt",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate VA GIBill Certifications",
+        "body": "Maximize student veteran benefits with our desktop tool.",
+        "bullets": [
+          "Track student progress",
+          "Compliance in one click",
+          "Support student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certification",
+        "body": "Effortlessly generate and submit VA certifications.",
+        "bullets": [
+          "Save time",
+          "Minimize errors",
+          "Focus on student support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Streamline Reporting",
+        "body": "Quickly report overpayments and ensure compliance.",
+        "bullets": [
+          "Automate notifications",
+          "Compliance checks in real-time",
+          "Mitigate student debt"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Matters",
+        "body": "Stay informed on the latest VA rules and regulations.",
+        "bullets": [
+          "Access updates",
+          "Stay compliant",
+          "Focus on student success"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Student Support",
+        "body": "Empower students to avoid overpayment debt.",
+        "bullets": [
+          "Educate on benefits",
+          "Mitigate financial stress",
+          "Focus on student success"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Compliance Checks",
+        "body": "Regularly review and validate student enrollment data.",
+        "bullets": [
+          "Ensure accurate data",
+          "Compliance in one step",
+          "Focus on student success"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more and sign up now. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate VA GIBill certifications and streamline compliance with our desktop tool. Avoid overpayment debt and support student veterans.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Compliance Checks' slide could benefit from a more concise takeaway to improve clarity."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:18:59.427Z"
+}

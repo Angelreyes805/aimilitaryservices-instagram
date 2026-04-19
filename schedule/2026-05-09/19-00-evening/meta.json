@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-09-evening-e8144a0c",
+  "date": "2026-05-09",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Reading a student file in under three minutes",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Student Certification in Minutes",
+        "body": "Streamline VA student certification for efficiency and accuracy.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Eligibility Assessment",
+        "body": "Quickly verify eligibility by scanning the student file.",
+        "bullets": [
+          "Scans eligibility requirements",
+          "Highlights missing documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Remaining Certifications",
+        "body": "Easily track and manage outstanding certifications.",
+        "bullets": [
+          "Automates certification tracking",
+          "Prevents certification delays"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Holds and Delays",
+        "body": "Identify and resolve issues before they impact the certification process.",
+        "bullets": [
+          "Automatically detects holds",
+          "Suggests resolution steps"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Last Certification",
+        "body": "Effortlessly certify students with the latest information.",
+        "bullets": [
+          "Syncs with current regulations",
+          "Ensures compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Compliance Checks",
+        "body": "Regularly perform compliance checks to maintain student certification.",
+        "bullets": [
+          "Automates compliance audits",
+          "Ensures ongoing compliance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try it now! Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline student certification in under three minutes with our automated tool. Scan for eligibility, track certifications, resolve holds, certify students, and maintain compliance. Try it now! Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.8,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is 'Last Certification' as it could benefit from a more compelling headline to draw more attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:28:15.192Z"
+}
