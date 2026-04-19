@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-10-midday-a2e16dcb",
+  "date": "2026-05-10",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "early-warning-systems",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications, Track Compliance, Support Student Veterans",
+        "body": "VASCO Assistant Pro streamlines VA School Certifying Official duties.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Ensure timely and accurate Chapter 33 certifications for student veterans.",
+        "bullets": [
+          "Reduce manual errors",
+          "Accelerate certification process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Easily monitor student veteran compliance with VA regulations.",
+        "bullets": [
+          "Real-time updates",
+          "Automated reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower VASCOs with tools to support student veterans during certification.",
+        "bullets": [
+          "Personalized student profiles",
+          "Automated reminders"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "ComplianceMatters",
+        "body": "Stay ahead of changes in VA education benefits.",
+        "bullets": [
+          "Automatic updates",
+          "Compliance checklists"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "YellowRibbon",
+        "body": "Comprehensive support for student veterans through the Yellow Ribbon Program.",
+        "bullets": [
+          "Automatic enrollment",
+          "Program tracking"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join the waitlist for VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "VASCO Assistant Pro automates certifications, tracks compliance, and supports student veterans. Catch at-risk veterans early with proactive systems. Join the waitlist for pre-launch pricing.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, which could benefit from a more compelling headline to better align with the narrative arc."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:34:32.426Z"
+}

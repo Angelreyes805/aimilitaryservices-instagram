@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-10-morning-248d411d",
+  "date": "2026-05-10",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "career-readiness-veterans",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize Student Veterans' Success",
+        "body": "Empower VASCOs to streamline certification and support career readiness.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Simplify Chapter 33 and Yellow Ribbon compliance with pre-built workflows.",
+        "bullets": [
+          "1 annual payment*",
+          "No manual data entry required"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Student Progress",
+        "body": "Monitor student compliance, automate reporting, and ensure transparency.",
+        "bullets": [
+          "Real-time updates",
+          "Customizable dashboards"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Career Readiness",
+        "body": "Integrate career readiness tools and resources for students transitioning to civilian life.",
+        "bullets": [
+          "Comprehensive career planning",
+          "Employer partnership support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Matters",
+        "body": "Stay compliant with VA regulations and avoid costly penalties.",
+        "bullets": [
+          "Regular compliance audits",
+          "Automated alerts for updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Enhance Veteran Experience",
+        "body": "Improve the student veteran experience with personalized support and resources.",
+        "bullets": [
+          "Veteran-specific analytics",
+          "Personalized email campaigns"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with pre-launch pricing. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline VA school certifications, track student compliance, and support career readiness for student veterans. Get the comprehensive framework for VASCOs today.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#careerreadiness",
+      "#studenttransitions",
+      "#veteransupport",
+      "#educationautomation",
+      "#VASCOAssistantPro",
+      "#educationcompliance",
+      "#veteransuccess"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to draw attention. The top fix would be to enhance the headline's impact and ensure it clearly communicates the value proposition."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:31:27.534Z"
+}
