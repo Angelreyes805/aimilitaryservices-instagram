@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-02-midday-86478f2e",
+  "date": "2026-05-02",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "state-approving-agency-relations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline VA Certifications",
+        "body": "Automate your student veteran certifications with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Save Time",
+        "body": "Reduce manual paperwork and errors with automated certification.",
+        "bullets": [
+          "No more forms to fill out",
+          "Faster processing of student veteran applications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Enhance Compliance",
+        "body": "Stay up-to-date with VA regulations and ensure compliance.",
+        "bullets": [
+          "Automated tracking of certification status",
+          "Real-time updates on policy changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower your institution to support student veterans with streamlined processes.",
+        "bullets": [
+          "Immediate feedback on certification issues",
+          "Consistent support for students throughout their education"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Streamline Yellow Ribbon",
+        "body": "Simplify the Yellow Ribbon certification process with automated tracking.",
+        "bullets": [
+          "Effortless submission of Yellow Ribbon applications",
+          "Instant verification of eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Reduce Stress",
+        "body": "Free up time for other critical tasks by automating your VA certification process.",
+        "bullets": [
+          "Peace of mind knowing your certifications are in order",
+          "Focus on what truly matters: student success"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with VASCO Assistant Pro today. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Build productive working relationships with your State Approving Agency. Streamline VA certifications, enhance compliance, and support student veterans with VASCO Assistant Pro. Get started with a pre-launch offer. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans,' as it could benefit from a more compelling headline to draw attention. A stronger headline might improve engagement."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:19:15.135Z"
+}

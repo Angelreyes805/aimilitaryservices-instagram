@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-02-evening-e2bd40bf",
+  "date": "2026-05-02",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:When a benefit runs out mid-term",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Avoid GIBill Surprises",
+        "body": "Stay ahead of VA benefit changes with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Stay Informed",
+        "body": "Stay up-to-date on VA benefit updates and changes.",
+        "bullets": [
+          "Track GIBill and Yellow Ribbon changes",
+          "Automate communication to students"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Ensure Compliance",
+        "body": "Comply with VA regulations and avoid certification issues.",
+        "bullets": [
+          "Automate Chapter 33 compliance tracking",
+          "Reduce manual compliance checks"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Protect Certifications",
+        "body": "Protect student veterans' certifications from expiration.",
+        "bullets": [
+          "Automate certification renewal notifications",
+          "Ensure timely renewals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Support Students",
+        "body": "Empower students with easy-to-use tools for GIBill management.",
+        "bullets": [
+          "Intuitive interface for student veterans",
+          "Encourage proactive student communication"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Save Time",
+        "body": "Free up time for important tasks with automated certification processes.",
+        "bullets": [
+          "Reduce manual certification management",
+          "Focus on other student support initiatives"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Avoid GIBill surprises with VASCO Assistant Pro. Stay informed, ensure compliance, protect certifications, support students, and save time.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationSupport",
+      "#VABenefits",
+      "#VeteranCareers",
+      "#EducationForVeterans",
+      "#VeteranSuccess",
+      "#EducationEquity",
+      "#VeteranAffairs"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Protect Certifications,' as it could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:25:38.785Z"
+}

@@ -1,0 +1,115 @@
+{
+  "runId": "2026-05-02-morning-52bbf868",
+  "date": "2026-05-02",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "clock-hour-vs-credit-hour",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Simplify VA Reporting",
+        "body": "Automate clock hour to credit hour conversions with our desktop tool.",
+        "bullets": [
+          "Track student veterans' progress",
+          "Comply with VA regulations",
+          "Focus on education, not math"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Conversions",
+        "body": "Easily convert clock hours to credit hours with pre-built formulas.",
+        "bullets": [
+          "No more manual calculations",
+          "Save time and reduce errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "VA Compliance",
+        "body": "Ensure your school is in compliance with VA reporting requirements.",
+        "bullets": [
+          "Stay up-to-date on VA guidelines",
+          "Automatically track hours"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Custom Reporting",
+        "body": "Generate detailed reports for VA School Certifying Officials.",
+        "bullets": [
+          "Easily identify student progress",
+          "Customizable reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Training & Support",
+        "body": "Get training and support to maximize tool usage.",
+        "bullets": [
+          "On-demand tutorials",
+          "Professional support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "ComplianceMatters",
+        "body": "Stay ahead of VA reporting challenges with our automated tool.",
+        "bullets": [
+          "Prevent common pitfalls",
+          "Confidence in reporting"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try the VASCO Assistant Pro for free. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Simplify VA reporting with our desktop tool. Convert clock hours to credit hours with clear formulas, avoid common pitfalls, and stay compliant with VA regulations. Try the VASCO Assistant Pro for free. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#ClockHour",
+      "#CreditHour",
+      "#ConversionMaze",
+      "#AutomateConversions",
+      "#VACompliance",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Compliance Matters' slide could benefit from a more detailed bullet point to provide a clearer takeaway."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:16:02.891Z"
+}
