@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-03-afternoon-8d98c715",
+  "date": "2026-05-03",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Four numbers to know by heart",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master VA Certifications with VASCO",
+        "body": "Empower your team with automated certifications and compliance tracking.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certification Requests",
+        "body": "Easily submit and track VA certification requests in one platform.",
+        "bullets": [
+          "Automate the submission process",
+          "Real-time request tracking"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Effortless Compliance",
+        "body": "Stay compliant with our comprehensive tracking system.",
+        "bullets": [
+          "Automatically track compliance",
+          "Real-time updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Simplified Certifications",
+        "body": "Simplify the certification process for your students.",
+        "bullets": [
+          "Easily manage certification needs",
+          "Student-friendly interface"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Comprehensive Support",
+        "body": "Get the support you need for student veterans.",
+        "bullets": [
+          "Expert consultation on complex cases",
+          "Regular training sessions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Track Student Progress",
+        "body": "Monitor student certification progress in real-time.",
+        "bullets": [
+          "Centralized dashboard for easy monitoring",
+          "Real-time progress updates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master VA certification processes with VASCO. Get streamlined certification requests, effortless compliance, simplified student support, and real-time tracking. Ready to take the next step? Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationTools",
+      "#VAEducationBenefits",
+      "#VeteransEducation",
+      "#VAForms",
+      "#EducationCertifications",
+      "#CertificationManagement",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which is more of a call to action rather than a clear takeaway. A stronger takeaway could be included to make it more impactful."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:05:51.277Z"
+}

@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-03-morning-e214c1aa",
+  "date": "2026-05-03",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "partnership-development-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Empower Your Veteran Education Program",
+        "body": "Automate certifications, track compliance, and support student veterans with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Effortlessly process VA school certifications, saving time and reducing errors.",
+        "bullets": [
+          "Streamline certification workflows",
+          "No more manual data entry"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Ensure continuous compliance with VA regulations, reducing the risk of audits.",
+        "bullets": [
+          "Real-time compliance monitoring",
+          "Stay up-to-date with VA updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower your student veterans with comprehensive support, including financial aid and resources.",
+        "bullets": [
+          "Personalized student support plans",
+          "Access to VA benefits information"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Integrate with Your System",
+        "body": "Seamlessly integrate VASCO Assistant Pro with existing systems for a unified experience.",
+        "bullets": [
+          "APIs for easy integration",
+          "Automated data exchange"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Maximize Resources",
+        "body": "Maximize your resources with a tool that supports the full lifecycle of VA school certifications.",
+        "bullets": [
+          "Centralized data management",
+          "Efficient resource allocation"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with VASCO Assistant Pro today. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Empower your VA school certifications, track compliance, and support student veterans with VASCO Assistant Pro. Automate, streamline, and integrate. Get started today with pre-launch pricing.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#VA",
+      "#Support",
+      "#Automate",
+      "#Track",
+      "#Certifications",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans', as it could benefit from a more compelling headline to match the other slides' structure and tone."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:28:55.512Z"
+}
