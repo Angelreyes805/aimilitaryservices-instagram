@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-12-morning-89c6eb1b",
+  "date": "2026-05-12",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "grant-writing-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock Funding for Veteran Programs",
+        "body": "Automate VA certifications with VASCO Assistant Pro. Secure grants, enhance student veteran support.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate VA Certifications",
+        "body": "Easily manage VA school certifications for your students. Save time and reduce errors.",
+        "bullets": [
+          "Automates VA certifications",
+          "Reduces manual paperwork"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Ensure your programs meet VA compliance requirements with real-time tracking.",
+        "bullets": [
+          "Real-time compliance tracking",
+          "Easily audit student records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Streamline support services for student veterans. Personalize their journey with tailored assistance.",
+        "bullets": [
+          "Customizable student support tools",
+          "Enhances student experience"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Streamline Student Records",
+        "body": "Effortlessly manage student records. Access real-time data for informed decision-making.",
+        "bullets": [
+          "Centralized student record management",
+          "Quickly access vital information"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Prep for Grant Applications",
+        "body": "Prepare for successful grant applications with comprehensive data. Boost funding opportunities.",
+        "bullets": [
+          "Prepares for grant applications",
+          "Maximizes funding potential"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Unlock funding for veteran programs with VASCO Assistant Pro. Automate VA certifications, track compliance, and support student veterans. Learn more today.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#GrantWriting",
+      "#VeteranPrograms",
+      "#FundingInitiatives",
+      "#ProfessionalDevelopment",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 8.8,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 7,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Support Student Veterans,' as it could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T18:56:24.079Z"
+}
