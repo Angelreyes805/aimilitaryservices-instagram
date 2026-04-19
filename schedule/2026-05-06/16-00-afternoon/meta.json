@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-06-afternoon-a27969c2",
+  "date": "2026-05-06",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to keep your queue readable, even at semester start",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline GIBill Certifications",
+        "body": "Easily manage student veteran enrollments with automation.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Chapter 33 Certs",
+        "body": "Eliminate manual data entry with automated Chapter 33 certification.",
+        "bullets": [
+          "Simplify the enrollment process",
+          "Ensure compliance with VA regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Student Compliance",
+        "body": "Automatically track and manage student veteran compliance.",
+        "bullets": [
+          "Maintain accurate records",
+          "Ease the certification process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower student veterans with a seamless transition to higher education.",
+        "bullets": [
+          "Empower students with support",
+          "Ensure they stay on track"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Made Easy",
+        "body": "Stay compliant with VA guidelines and maintain accurate records.",
+        "bullets": [
+          "Reduce paperwork",
+          "Maintain data accuracy"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Efficient Certification",
+        "body": "Accelerate the certification process for smoother semester starts.",
+        "bullets": [
+          "Reduce manual efforts",
+          "Speed up the certification process"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline GIBill certifications with VASCO Assistant Pro. Triage by chapter, not by arrival time. Reduce paperwork, ensure compliance, and support student veterans. Try it today. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationAssistance",
+      "#CertificationAutomation",
+      "#VAForms",
+      "#EducationBenefits",
+      "#VAService",
+      "#EducationSupport",
+      "#VeteranStudents"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:46:03.604Z"
+}

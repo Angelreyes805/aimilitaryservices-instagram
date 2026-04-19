@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-06-midday-26f61cff",
+  "date": "2026-05-06",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "success-coaching-models",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate VA Certifications",
+        "body": "Maximize student veteran success with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certification",
+        "body": "Automate the certification process, reducing manual errors and saving time.",
+        "bullets": [
+          "1 annual payment*",
+          "No need for manual intervention"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Maintain accurate records of student veteran enrollment and certification.",
+        "bullets": [
+          "Compliance tracking made easy",
+          "Supports student veteran compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower students with real-time data and automated updates.",
+        "bullets": [
+          "Enhance student engagement",
+          "Ensure compliance with VA regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "ComplianceMatters",
+        "body": "Stay ahead of VA requirements with automated compliance checks.",
+        "bullets": [
+          "Prevent non-compliance",
+          "Automatically report errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "VAEducation",
+        "body": "Ensure your school is fully certified and compliant with VA regulations.",
+        "bullets": [
+          "Comprehensive VA certification",
+          "Supports Chapter 33 and Yellow Ribbon"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize student veteran success with VASCO Assistant Pro. Automate certifications, track compliance, and support student veterans. Stay ahead of VA requirements with our easy-to-use tool. Link in bio for more information.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#SupportVeterans",
+      "#VARegulations",
+      "#EducationTechnology",
+      "#VASchoolCertifying",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, 'ComplianceMatters', as it could benefit from a more compelling headline to draw more attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T17:42:45.420Z"
+}
