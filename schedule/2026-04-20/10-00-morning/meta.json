@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-20-morning-312aa11e",
+  "date": "2026-04-20",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "knowledge-base-team",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize VASCOs' Efficiency",
+        "body": "Unlock the power of a streamlined knowledge base for your team.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Organize Your Data",
+        "body": "Create a structured format for easy access.",
+        "bullets": [
+          "Use categories and tags",
+          "Regular updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Consistent Documentation",
+        "body": "Establish clear guidelines for all documents.",
+        "bullets": [
+          "Standardize templates",
+          "Use templates for consistency"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Training Your Team",
+        "body": "Ensure everyone knows how to use the knowledge base.",
+        "bullets": [
+          "Conduct training sessions",
+          "Regular updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Sustainable Maintenance",
+        "body": "Develop a plan for ongoing updates and maintenance.",
+        "bullets": [
+          "Set a schedule",
+          "Feedback loop"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Enhance Team Productivity",
+        "body": "A robust knowledge base boosts team efficiency.",
+        "bullets": [
+          "Faster access to information",
+          "Reduced errors"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn how to build a knowledge base for your VASCO team. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize VASCOs' efficiency with a structured, sustainable knowledge base. Organize, document, train, and maintain your team's resources for better productivity. Learn more at https://aimilitaryservices.com/blog/knowledge-base-team",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#KnowledgeBase",
+      "#TeamProductivity",
+      "#Documentation",
+      "#Training",
+      "#Sustainability",
+      "#EducationResources",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Sustainable Maintenance' as it lacks a clear takeaway compared to the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:29:30.616Z"
+}

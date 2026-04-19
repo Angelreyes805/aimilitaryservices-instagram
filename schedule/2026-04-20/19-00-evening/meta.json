@@ -1,0 +1,116 @@
+{
+  "runId": "2026-04-20-evening-ec6e5345",
+  "date": "2026-04-20",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Building a tiny SOP library your whole office uses",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications",
+        "body": "Empower your team with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Automate Certifications",
+        "body": "Effortlessly handle VA school certifications.",
+        "bullets": [
+          "Track student veterans",
+          "Comply with VA regulations",
+          "Support student success"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Tracking",
+        "body": "Maintain clear records and monitor compliance.",
+        "bullets": [
+          "Comprehensive reporting",
+          "Real-time updates",
+          "Customizable dashboards"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Student Support",
+        "body": "Streamline support for student veterans.",
+        "bullets": [
+          "Automated reminders",
+          "Customizable communications",
+          "Integrated resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Efficiency Boost",
+        "body": "Maximize productivity with automation.",
+        "bullets": [
+          "Reduce manual effort",
+          "Save time",
+          "Focus on student care"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "User-Friendly Interface",
+        "body": "Navigate with ease and efficiency.",
+        "bullets": [
+          "Intuitive design",
+          "Quick learning curve",
+          "Regular updates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate VA school certifications, track compliance, and support student veterans with VASCO Assistant Pro. Start your journey today!",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#Automation",
+      "#VA",
+      "#EducationTechnology",
+      "#SchoolCertification",
+      "#CertificationTools",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Compliance Tracking,' as it could benefit from a more detailed bullet point to enhance its impact."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:40:01.579Z"
+}

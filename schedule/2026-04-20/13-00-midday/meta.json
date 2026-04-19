@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-20-midday-32f83299",
+  "date": "2026-04-20",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "remote-work-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications, Track Compliance",
+        "body": "VASCO Assistant Pro streamlines your VA GIBill student veteran certifications.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certifications",
+        "body": "Effortlessly automate the certification process for your students.",
+        "bullets": [
+          "Automate VA GIBill certifications",
+          "Reduce administrative burden"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance Made Simple",
+        "body": "Stay on top of compliance with real-time tracking and reporting.",
+        "bullets": [
+          "Track student veteran compliance",
+          "Ensure continuous compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower your student veterans with the right tools for success.",
+        "bullets": [
+          "Automate veteran-specific benefits",
+          "Enhance student engagement"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Data-Driven Decisions",
+        "body": "Analyze data to make informed decisions and improve programs.",
+        "bullets": [
+          "Data-driven insights",
+          "Optimize VA GIBill benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Simplified Reporting",
+        "body": "Generate detailed reports for audits and verifications.",
+        "bullets": [
+          "Automate certification reports",
+          "Comply with VA standards"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more and sign up for a demo. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "VASCO Assistant Pro simplifies VA GIBill student veteran certifications, compliance, and reporting. Streamline your workload, support your student veterans, and make data-driven decisions. Learn more and sign up for a demo at https://aimilitaryservices.com/blog/vasco-assistant-pro",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#RemoteWork",
+      "#TeamManagement",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#SupportVeterans",
+      "#DataDrivenDecisions",
+      "#SimplifiedReporting"
+    ]
+  },
+  "rubricScore": 9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T03:33:03.659Z"
+}
