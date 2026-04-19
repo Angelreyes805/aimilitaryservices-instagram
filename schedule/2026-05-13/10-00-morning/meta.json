@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-13-morning-07515e42",
+  "date": "2026-05-13",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "batch-processing-mastery",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Transform Your Certification Workflow",
+        "body": "Automate, track, and support student veterans with VASCO Assistant Pro.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Batch Certification Automation",
+        "body": "Easily process multiple student records at once.",
+        "bullets": [
+          "Automates repetitive tasks",
+          "Saves 50% time"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Quality Control in Batches",
+        "body": "Maintain high standards with batch quality checks.",
+        "bullets": [
+          "Identifies errors early",
+          "Improves accuracy"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Tracking",
+        "body": "Keep your school certified and compliant with batch tracking.",
+        "bullets": [
+          "Automates record keeping",
+          "Reduces manual errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Student Support",
+        "body": "Streamline support for student veterans with batch processing.",
+        "bullets": [
+          "Personalizes student interactions",
+          "Saves time"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Scalable Solutions",
+        "body": "Easily scale to handle increased student enrollment.",
+        "bullets": [
+          "Adjusts to growth",
+          "Maintains efficiency"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Batch Processing Mastery: Cut Certification Time by 50% with VASCO Assistant Pro. Transform your high-volume VA certification workflow with proven batch processing strategies and quality control methods. Automate, track, and support student veterans with VASCO Assistant Pro. Learn more in the blog post.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, which could benefit from a more compelling headline to match the impact of the other slides."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T19:08:58.030Z"
+}
