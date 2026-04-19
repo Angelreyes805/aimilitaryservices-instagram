@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-23-afternoon-4fa4d4e8",
+  "date": "2026-04-23",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to name files so your audit self thanks you",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications, Track Compliance",
+        "body": "Effortlessly manage VA certifications for student veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Streamline Certifications",
+        "body": "Easily upload and manage certification documents.",
+        "bullets": [
+          "Upload documents",
+          "Automate renewal reminders"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track Compliance",
+        "body": "Monitor and report on student veteran compliance.",
+        "bullets": [
+          "Set compliance milestones",
+          "Generate reports"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Empower students with accessible resources and support.",
+        "bullets": [
+          "Create support directories",
+          "Customize student portals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Enhance Student Experience",
+        "body": "Boost student engagement and satisfaction with seamless tools.",
+        "bullets": [
+          "Personalized learning paths",
+          "Automate communications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Compliant",
+        "body": "Ensure your institution complies with VA regulations.",
+        "bullets": [
+          "Compliance checks",
+          "Regular updates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate certifications, track compliance, and support student veterans with VASCO Assistant Pro. Effortlessly manage VA School Certifying Official duties.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, as it could benefit from a more compelling headline to grab attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T04:19:02.080Z"
+}

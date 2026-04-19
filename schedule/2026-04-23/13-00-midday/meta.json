@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-23-midday-dfe4e6fa",
+  "date": "2026-04-23",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "fraud-detection-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Automate Certifications & Track Compliance",
+        "body": "VASCO Assistant Pro helps VASCOs streamline VA School Certifications.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Centralize Certifications",
+        "body": "Easily manage student certifications from one dashboard.",
+        "bullets": [
+          "Centralize all certification processes",
+          "Reduce paperwork and manual errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Automate Compliance Checks",
+        "body": "Automate compliance tracking for continuous oversight.",
+        "bullets": [
+          "Regularly check for compliance violations",
+          "Ensure continuous compliance with less effort"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Track Student Progress",
+        "body": "Monitor student progress and ensure they meet eligibility criteria.",
+        "bullets": [
+          "Keep track of student enrollment status",
+          "Identify students who may need intervention"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Integrate with Systems",
+        "body": "Seamlessly integrate with existing VA systems for a holistic view.",
+        "bullets": [
+          "Integrate with VA databases",
+          "Ensure real-time data updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Prevent Fraud",
+        "body": "Identify red flags and respond proactively to prevent fraud.",
+        "bullets": [
+          "Implement automated fraud detection",
+          "Respond to red flags promptly"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Automate certifications, track compliance, and prevent fraud with VASCO Assistant Pro. Simplify your VASCO duties and ensure student veteran success.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AutomateCertifications",
+      "#TrackCompliance",
+      "#PreventFraud",
+      "#SimplifyVASCO",
+      "#EnsureStudentSuccess",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Integrate with Systems' as it could benefit from a more concise headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T04:15:40.273Z"
+}
