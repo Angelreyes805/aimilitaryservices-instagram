@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-01-evening-76dbd620",
+  "date": "2026-05-01",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Cross-training a backup certifying official",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Empower your team with seamless backup certifying",
+        "body": "Ensure your institution is prepared with our cross-training solution.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Comprehensive training",
+        "body": "Learn essential certification procedures and policies.",
+        "bullets": [
+          "3-hour online course",
+          "Real-life scenarios practice"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Skill assessment",
+        "body": "Test your knowledge and get immediate feedback.",
+        "bullets": [
+          "Mock certification exams",
+          "Immediate results"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Role-playing sessions",
+        "body": "Practice with other certifying officials in real-time scenarios.",
+        "bullets": [
+          "Live sessions",
+          "Peer feedback"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Confidence boost",
+        "body": "Gain the confidence to handle all certification tasks independently.",
+        "bullets": [
+          "1-on-1 mentorship",
+          "Regular check-ins"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Certification readiness",
+        "body": "Your new backup is ready to step in and support your team.",
+        "bullets": [
+          "Prepared to handle emergencies",
+          "Enhanced team efficiency"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Empower your VA School Certifying Officials with our cross-training solution. In three weeks, your team will achieve three milestones: comprehensive training, skill assessment, and role-playing sessions, all leading to a confident backup certifying official. Take the first step by linking in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EmpowerYourTeam",
+      "#PrepForTheFuture",
+      "#TeamBackup",
+      "#CertificationSuccess",
+      "#VAEducationProgram",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Role-playing sessions', as it could benefit from a more detailed description of what role-playing entails and how it contributes to the overall training program."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:12:47.162Z"
+}

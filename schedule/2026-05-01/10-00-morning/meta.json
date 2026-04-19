@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-01-morning-1cb82420",
+  "date": "2026-05-01",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "ai-tools-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline VA Education Certifications",
+        "body": "Empower your team with AI-powered tools for faster, more accurate certifications.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Effortless Data Input",
+        "body": "Automate data entry for student veteran profiles, saving time and reducing errors.",
+        "bullets": [
+          "Integrate with existing systems",
+          "Customizable fields for specific needs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Smart Compliance Checks",
+        "body": "Quickly verify compliance with VA regulations using AI-driven algorithms.",
+        "bullets": [
+          "Automated audits of student records",
+          "Real-time updates on policy changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Automated Certification Processes",
+        "body": "Accelerate the certification process with AI-driven automation, ensuring consistency.",
+        "bullets": [
+          "Simplified workflows for recurring tasks",
+          "Instant generation of certification documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Seamless Student Support",
+        "body": "Empower students with personalized support, including eligibility verification and certification tracking.",
+        "bullets": [
+          "Real-time support for students",
+          "Customizable communication tools"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Enhanced Reporting",
+        "body": "Generate detailed, accurate reports on student veteran education, meeting compliance requirements.",
+        "bullets": [
+          "Automated report generation",
+          "Compliance with VA reporting standards"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline your VA education certification process with AI-powered tools. From effortless data input to seamless student support, VASCO Assistant Pro helps you automate, track compliance, and support student veterans. Learn more: Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AItools",
+      "#CertificationAutomation",
+      "#EducationTech",
+      "#VAEducationTools",
+      "#VAEducationCertification",
+      "#VASCOAssistantPro",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Automated Certification Processes,' as it could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-19T06:02:55.064Z"
+}
