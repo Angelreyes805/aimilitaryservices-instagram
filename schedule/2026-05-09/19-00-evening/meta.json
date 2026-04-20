@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-09-evening-538372e7",
+  "date": "2026-05-09",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Getting ahead of a compliance survey two weeks out",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Getting ahead of a compliance survey two weeks out",
+        "body": "Organize your paperwork for a smooth survey.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Gather necessary documents",
+        "body": "Collect all required documents in one folder.",
+        "bullets": [
+          "Include VA Form 22-1999",
+          "Ensure all documents are up-to-date"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review the survey questions",
+        "body": "Anticipate the survey questions by reviewing your COE.",
+        "bullets": [
+          "Understand the 85/15 rule",
+          "Be ready to explain your Chapter 33 processes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compile supporting evidence",
+        "body": "Assemble any supporting documentation to back up your claims.",
+        "bullets": [
+          "Keep copies of student agreements",
+          "Have 22-1999 signed by students"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Review your SAA letter",
+        "body": "Verify your letter of approval matches the survey requirements.",
+        "bullets": [
+          "Check for any discrepancies",
+          "Ensure compliance with 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Finalize your presentation",
+        "body": "Organize all materials into a clear, concise presentation.",
+        "bullets": [
+          "Prepare an outline",
+          "Have your materials ready two weeks in"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Ready to get started? Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of the game with these five steps to prepare for your upcoming compliance survey. Organize your paperwork, review survey questions, compile supporting evidence, and finalize your presentation. All set for a smooth survey? Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#VAEducation",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#HigherEd",
+      "#VeteranEducation",
+      "#GIBill",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T19:01:14.098Z"
+}
