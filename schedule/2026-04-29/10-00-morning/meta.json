@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-29-morning-308fdcda",
+  "date": "2026-04-29",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "disability-services-collaboration",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Collaborate for Student Veteran Success",
+        "headline": "Maximizing Support with Disability Services",
+        "body": "Collaborate with disability services to ensure comprehensive support for student veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Check COE Remaining Entitlement",
+        "body": "Verify remaining COE entitlement before the student enrolls.",
+        "bullets": [
+          "Review VA Form 22-1999",
+          "Ensure entitlement meets 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Log SAA Call in File",
+        "body": "Document SAA decision and contact details.",
+        "bullets": [
+          "Maintain compliance with VA guidelines",
+          "Update student records promptly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Verify SAP Plan",
+        "body": "Ensure SAP plan aligns with student needs.",
+        "bullets": [
+          "Check for any missing or outdated information",
+          "Adjust plan as needed"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Coordinate with MHA",
+        "body": "Collaborate with mental health authorities for support.",
+        "bullets": [
+          "Communicate student needs effectively",
+          "Request necessary accommodations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Implement Integrated Support",
+        "body": "Create a holistic plan for student success.",
+        "bullets": [
+          "Incorporate COE, SAP, and MHA into the plan",
+          "Monitor progress and adjust as necessary"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Collaborate with disability services to ensure comprehensive support for student veterans. Check COE, log SAA calls, verify SAP, coordinate with MHA, and implement integrated support. Learn more about VASCO Assistant Pro, link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#DisabilityServices",
+      "#Collaboration",
+      "#StudentVeterans",
+      "#ComplianceMatters",
+      "#HigherEd",
+      "#VAEducation",
+      "#YellowRibbon",
+      "#SAA",
+      "#MHA",
+      "#COE",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 1 of 5, as it could benefit from a more engaging headline to capture attention."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T16:42:48.450Z"
+}

@@ -1,0 +1,126 @@
+{
+  "runId": "2026-04-29-evening-f55f32ad",
+  "date": "2026-04-29",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Onboarding a new student veteran in under an hour",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Onboarding a New Student Veteran in Under an Hour",
+        "headline": "Streamline Intake with Our Proven Method",
+        "body": "Follow this step-by-step process to ensure your student veterans are ready to enroll in just 60 minutes.",
+        "bullets": [
+          "1. Verify eligibility with VA forms",
+          "2. Gather required documentation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Verify Eligibility",
+        "body": "Start by confirming the student's eligibility. Use VA Form 22-1999 to collect necessary information.",
+        "bullets": [
+          "Check for Chapter 33 eligibility",
+          "Review Yellow Ribbon status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Required Documentation",
+        "body": "Collect all necessary documents to ensure a smooth onboarding process. Common items include ID and enrollment forms.",
+        "bullets": [
+          "Collect VA ID",
+          "Submit enrollment forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Complete Financial Aid",
+        "body": "Ensure the student is set up for financial aid. Check for any outstanding loans or grants.",
+        "bullets": [
+          "Verify VA loan status",
+          "Check for scholarships"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Register for Classes",
+        "body": "Guide the student through the class registration process. Confirm all courses are approved.",
+        "bullets": [
+          "Review class schedule",
+          "Submit registration forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "Ensure the student is aware of all upcoming deadlines and resources. Schedule a follow-up meeting.",
+        "bullets": [
+          "Send enrollment confirmation",
+          "Communicate key dates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about the VASCO Assistant Pro at aimilitaryservices.com/waitlist.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Onboarding a new student veteran in under an hour with a repeatable intake path. Cover eligibility with VA Form 22-1999, gather required documentation, complete financial aid, register for classes, and follow up. Learn more at aimilitaryservices.com/waitlist.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, 'Register for Classes,' as it could benefit from a more specific call to action or a clearer visual representation of the process."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T16:52:40.301Z"
+}

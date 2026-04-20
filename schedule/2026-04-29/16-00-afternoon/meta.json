@@ -1,77 +1,77 @@
 {
-  "runId": "2026-04-29-afternoon-d013d1df",
+  "runId": "2026-04-29-afternoon-d377de0f",
   "date": "2026-04-29",
   "slot": "afternoon",
   "source": "llm",
-  "sourceRef": "tip:Three questions to ask before certifying a non-standard term",
+  "sourceRef": "tip:A quick audit-readiness checklist",
   "outline": {
     "slides": [
       {
         "kind": "cover",
-        "eyebrow": "For VA School Certifying Officials",
-        "headline": "Certify Summer Sessions",
-        "body": "Ensure student veterans are properly certified.",
+        "eyebrow": "Quick Audit-Readiness Checklist",
+        "headline": "5 Steps to Be Ready for a Compliance Survey",
+        "body": "Ensure your COE forms are in order and your 22-1999 is up to date.",
         "bullets": []
       },
       {
         "kind": "content",
         "eyebrow": "Step 1 of 5",
-        "headline": "Understand Non-Standard Terms",
-        "body": "Verify term lengths and credit hours.",
+        "headline": "Verify Your Certificate of Eligibility",
+        "body": "Check your student’s COE to ensure all necessary details are accurate and complete.",
         "bullets": [
-          "Check official term dates",
-          "Confirm course credit hours"
+          "Review VA Form 22-1999",
+          "Verify the student’s eligibility for the Chapter 33 program"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 2 of 5",
-        "headline": "Review Eligibility",
-        "body": "Ensure students meet all certification requirements.",
+        "headline": "Ensure 22-1999 is Current",
+        "body": "Verify the 22-1999 form is completed and up to date, reflecting any recent changes in the student’s educational status.",
         "bullets": [
-          "Verify GI Bill eligibility",
-          "Confirm student status"
+          "Check the form against the most recent SAA letter",
+          "Confirm the 22-1999 is not expired"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 3 of 5",
-        "headline": "Understand Funding",
-        "body": "Calculate how much GI Bill benefits will cover.",
+        "headline": "Review Chapter 33 Eligibility",
+        "body": "Confirm the student meets all Chapter 33 eligibility requirements, including the 85/15 rule.",
         "bullets": [
-          "Review Chapter 33 funding limits",
-          "Estimate out-of-pocket costs"
+          "Verify the student’s 85/15 status",
+          "Check the student’s Chapter 33 benefits are still valid"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 4 of 5",
-        "headline": "Compliance Checklist",
-        "body": "Use our tool to track certifications.",
+        "headline": "Check Yellow Ribbon Program Eligibility",
+        "body": "Ensure the student is eligible for the Yellow Ribbon Program, if applicable.",
         "bullets": [
-          "Automate compliance tracking",
-          "Support student veterans"
+          "Review the student’s Yellow Ribbon enrollment status",
+          "Confirm the student meets the program’s criteria"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 5 of 5",
-        "headline": "Review and Submit",
-        "body": "Double-check before submitting certifications.",
+        "headline": "Prepare for the Survey",
+        "body": "Have all necessary documentation ready, including student files and COE forms, to facilitate the audit process.",
         "bullets": [
-          "Review term details",
-          "Submit certified documents"
+          "Gather all relevant documents",
+          "Be prepared to answer questions about your COE process"
         ]
       },
       {
         "kind": "cta",
         "eyebrow": "Next step",
-        "body": "Get started with our pre-launch pricing. Link in bio.",
+        "body": "Learn more about preparing for a VA audit. Link in bio.",
         "bullets": [],
         "headline": "Read the full post"
       }
     ],
-    "caption": "Ensure proper certification for summer sessions by asking these 5 key questions. Automate compliance with our VASCO Assistant Pro. Get pre-launch pricing now.",
+    "caption": "Stay ahead of a compliance audit with these 5 essential steps. Verify your COE, 22-1999, Chapter 33 eligibility, Yellow Ribbon, and prepare for the survey. Learn more in our full guide. Link in bio.",
     "hashtags": [
       "#VASCO",
       "#GIBill",
@@ -83,13 +83,13 @@
       "#YellowRibbon",
       "#VAEducation",
       "#HigherEd",
+      "#COE",
+      "#221999",
+      "#8515rule",
+      "#SAA",
+      "#EducationBenefits",
       "#VeteranSupport",
-      "#VeteranBenefits",
-      "#MilitaryEducation",
-      "#HigherEducation",
-      "#PostNineEleven",
-      "#VeteranCommunity",
-      "#MilitaryTransition"
+      "#VeteranBenefits"
     ]
   },
   "rubricScore": 9.3,
@@ -104,8 +104,8 @@
     "constraints": 10,
     "caption": 9,
     "polish": 9,
-    "critique": "The weakest slide is the first one, which could benefit from a more engaging headline to grab attention."
+    "critique": "The weakest slide is Step 4, which could benefit from a more concise headline to improve readability and focus."
   },
   "attempt": 1,
-  "generatedAt": "2026-04-19T05:42:33.526Z"
+  "generatedAt": "2026-04-20T16:49:00.946Z"
 }
