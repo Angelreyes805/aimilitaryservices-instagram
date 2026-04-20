@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-22-morning-2f369db1",
+  "date": "2026-04-22",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "knowledge-base-team",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Build Your VASCO Knowledge Base",
+        "body": "Empower your team with a comprehensive VASCO knowledge base.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Organize Your Data",
+        "body": "Create a clear structure for your VASCO-related data.",
+        "bullets": [
+          "Use COE forms as your base.",
+          "Label documents with 85/15 rules."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Document Standard",
+        "body": "Develop consistent documentation standards.",
+        "bullets": [
+          "Follow Chapter 33 guidelines.",
+          "Use clear and concise language."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Create Forms",
+        "body": "Design forms for common VASCO tasks.",
+        "bullets": [
+          "Refer to VA Form 22-1999.",
+          "Include 22-1999 elements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Maintain Regularly",
+        "body": "Implement a maintenance protocol.",
+        "bullets": [
+          "Review and update documents annually.",
+          "Use a version control system."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Train Your Team",
+        "body": "Ensure your team is well-informed.",
+        "bullets": [
+          "Conduct regular training sessions.",
+          "Encourage knowledge sharing."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Empower your VASCO team with a structured knowledge base. Organize data, document standards, create forms, maintain regularly, and train your team.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#KnowledgeBase",
+      "#TeamProductivity",
+      "#Documentation",
+      "#Education",
+      "#Training",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Maintain Regularly' as it could benefit from a more concise headline to better align with the other slides' structure."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T15:11:21.250Z"
+}

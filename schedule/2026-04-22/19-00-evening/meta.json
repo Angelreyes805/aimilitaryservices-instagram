@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-22-evening-d458f1d7",
+  "date": "2026-04-22",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:How to batch end-of-term certifications",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Batch Certify Term-End",
+        "headline": "Maximize Efficiency",
+        "body": "Group similar certifications for streamlined processing.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Certifications",
+        "body": "Group students by certification type to simplify tasks.",
+        "bullets": [
+          "Use form 22-1999 for student eligibility.",
+          "Refer to your SAA letter for eligibility requirements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review Student Data",
+        "body": "Double-check student records for accuracy.",
+        "bullets": [
+          "Ensure all necessary documents are up-to-date.",
+          "Refer to the relevant VA guidance for specific requirements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Create Certificates",
+        "body": "Prepare COEs for each group of students.",
+        "bullets": [
+          "Follow the current regulations for certification creation.",
+          "Use the 85/15 rule as a threshold for certification."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Batch Certify",
+        "body": "Process certifications in batches.",
+        "bullets": [
+          "Use SAP plans to manage certification batches.",
+          "Ensure all batches meet compliance requirements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit Certifications",
+        "body": "Submit batches for final review.",
+        "bullets": [
+          "Refer to your SAA letter for submission instructions.",
+          "Ensure all batches are reviewed and signed off."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about batch certification at aimilitaryservices.com.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Group similar work for streamlined end-of-term certifications. Save time and reduce mistakes with these tips.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#CertificationBatching",
+      "#EfficiencyImprovement",
+      "#VAProcess",
+      "#CertificationTips",
+      "#BatchCertification",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, as it could benefit from a more engaging headline to capture attention. A top fix would be to add a bold or larger font size to the headline to make it stand out more."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T15:22:09.004Z"
+}

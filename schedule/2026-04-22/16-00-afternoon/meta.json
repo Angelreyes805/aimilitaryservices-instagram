@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-22-afternoon-7441dcb0",
+  "date": "2026-04-22",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:When a benefit runs out mid-term",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Stay Ahead of Yellow Ribbon Benefits",
+        "body": "Understand when Yellow Ribbon benefits might run out mid-term and how to prepare.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Know the Timeline",
+        "body": "Understand the timeline for when Yellow Ribbon benefits can expire.",
+        "bullets": [
+          "Consult Yellow Ribbon agreements",
+          "Refer to Chapter 33 regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review Student Agreement",
+        "body": "Students must sign a Yellow Ribbon agreement before benefits can expire.",
+        "bullets": [
+          "Check for a 'Benefit Expiration' section",
+          "Refer to VA Form 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Check Eligibility",
+        "body": "Ensure students remain eligible for Yellow Ribbon benefits.",
+        "bullets": [
+          "Verify ongoing VA eligibility",
+          "Refer to Chapter 33 guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate Early",
+        "body": "Inform students early about potential benefit changes.",
+        "bullets": [
+          "Use Chapter 33 resources",
+          "Refer to SAA letters"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document and Track",
+        "body": "Maintain records of benefit agreements and student progress.",
+        "bullets": [
+          "Keep copies of signed agreements",
+          "Refer to Chapter 33 documentation"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about staying ahead of benefit changes. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of benefit changes by understanding when Yellow Ribbon benefits might run out mid-term. Learn how to prepare and communicate early with students.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Document and Track' slide could benefit from a more concise takeaway to ensure it stands out more clearly."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T15:17:43.132Z"
+}
