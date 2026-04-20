@@ -1,0 +1,128 @@
+{
+  "runId": "2026-04-30-evening-cac18024",
+  "date": "2026-04-30",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:When to certify and when to wait",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Timing: When to Certify and When to Wait",
+        "body": "Understand the timing rule to avoid overpayments.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the 85/15 Rule",
+        "body": "The 85/15 rule is a key threshold for certifying.",
+        "bullets": [
+          "85% of student aid is covered by the GI Bill.",
+          "15% is covered by the Yellow Ribbon Program."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Check Your Student's Status",
+        "body": "Ensure the student is 100% eligible for aid.",
+        "bullets": [
+          "Verify the student is not in default.",
+          "Confirm the student is not in a period of non-eligibility."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review Chapter 33 Eligibility",
+        "body": "Confirm the student meets Chapter 33 requirements.",
+        "bullets": [
+          "Check for eligibility based on service type.",
+          "Verify the student's service period."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Wait for VA Approval",
+        "body": "Wait for VA approval before certifying if unsure.",
+        "bullets": [
+          "Hold certification if you're not certain of the student's eligibility.",
+          "Consult with your SAA for guidance."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Certify with Confidence",
+        "body": "Certify once you have verified all eligibility criteria.",
+        "bullets": [
+          "Certify after receiving final VA approval.",
+          "Keep copies of all supporting documentation."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about certifying student veterans with VASCO Assistant Pro.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd",
+          "#Certify",
+          "#Wait",
+          "#TimingRule",
+          "#Overpayments",
+          "#VASCOAssistantPro"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Master the timing rule to avoid overpayments and ensure compliance. Learn the steps to certify and wait effectively with VASCO Assistant Pro. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Certify",
+      "#Wait",
+      "#TimingRule",
+      "#Overpayments",
+      "#VASCOAssistantPro",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, as it could benefit from a more concise headline to better summarize the content."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T22:38:15.515Z"
+}
