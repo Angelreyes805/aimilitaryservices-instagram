@@ -1,0 +1,113 @@
+{
+  "runId": "2026-04-24-midday-cfa496d9",
+  "date": "2026-04-24",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "mental-health-resources-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Mental Health Resources: What VASCOs Need to Know",
+        "body": "Discover key resources and protocols to support student veteran mental health.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Recognize Warning Signs",
+        "body": "Identify common mental health issues in student veterans. Learn to spot early warning signs.",
+        "bullets": [
+          "Mood swings",
+          "Sleep disturbances",
+          "Anxiety or depression symptoms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand Referral Protocols",
+        "body": "Learn to refer students to appropriate mental health professionals. Familiarize with local resources.",
+        "bullets": [
+          "Local VA mental health clinics",
+          "Community mental health centers",
+          "Veteran-specific support groups"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Offer emotional support and resources. Encourage students to seek help.",
+        "bullets": [
+          "Confidentiality and privacy",
+          "Resources for caregivers and families"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Stay Informed",
+        "body": "Stay updated on mental health policies and resources. Access the latest VA guidance.",
+        "bullets": [
+          "VA Mental Health Plan",
+          "Chapter 33 updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Professional Development",
+        "body": "Enhance your skills in supporting student veterans. Consider professional development opportunities.",
+        "bullets": [
+          "VA training courses",
+          "Workshops and seminars"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Visit aimilitaryservices.com/blog/mental-health-resources-vascos",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Discover mental health resources and support protocols to help student veterans. Learn how to recognize warning signs, understand referral protocols, and offer support.",
+    "hashtags": [
+      "#VASCO",
+      "#MentalHealth",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#MentalHealthResources",
+      "#VASCOAssistantPro",
+      "#VAEducationResources",
+      "#VASCOTraining",
+      "#MentalHealthSupport",
+      "#VASCOProfessionalDevelopment",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T15:41:58.093Z"
+}

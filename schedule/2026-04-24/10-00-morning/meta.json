@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-24-morning-93ac7a29",
+  "date": "2026-04-24",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "certification-errors-recovery",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Fix Certification Errors",
+        "body": "Learn recovery strategies for when things go wrong.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the Error",
+        "body": "Understand common mistakes in VASCO certification processes.",
+        "bullets": [
+          "Avoid misinterpreting COE forms",
+          "Check eligibility criteria"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Apply Recovery Protocols",
+        "body": "Follow SAA letters and VA guidance to correct errors.",
+        "bullets": [
+          "Refer to the relevant SAA letter",
+          "Apply 85/15 rule correctly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Correct the Error",
+        "body": "Submit a corrected COE form to avoid future issues.",
+        "bullets": [
+          "Follow the SAA letter instructions",
+          "Verify all details are correct"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Prevent Future Errors",
+        "body": "Implement strategies to prevent similar errors in the future.",
+        "bullets": [
+          "Review and update COE templates",
+          "Stay informed of updates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Communicate Effectively",
+        "body": "Enhance communication with students and SAA regarding errors and corrections.",
+        "bullets": [
+          "Maintain clear and concise communications",
+          "Follow up on all inquiries"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about recovery strategies and prevention techniques. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Identify, correct, and prevent certification errors with our comprehensive guide. Discover recovery strategies and communication protocols. Learn more now.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which could benefit from a more concise call to action."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T15:38:30.246Z"
+}
