@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-02-afternoon-59f7cca4",
+  "date": "2026-05-02",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Spotting a Chapter 31 scenario quickly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Spotting a Chapter 31 Scenario Quickly",
+        "body": "Identify key signals to streamline your compliance review.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Review the VA Form 22-1999",
+        "body": "Check for the 'Special Educational Benefits' section.",
+        "bullets": [
+          "Look for 'Chapter 31' listed as an educational benefit.",
+          "Verify if the student has a Vocational Rehabilitation (VR) claim."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand the 85/15 Rule",
+        "body": "Determine if the student is a Voc Rehab recipient.",
+        "bullets": [
+          "Check if the student qualifies under the 85/15 rule.",
+          "Confirm if the Voc Rehab benefit is a primary educational benefit."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Look for VR Eligibility Indicators",
+        "body": "Identify if the student has a VR claim.",
+        "bullets": [
+          "Check for 'VR Eligible' in the student's profile.",
+          "Look for 'VR Claim Status' indicating an active claim."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Consult Your SAA Letter",
+        "body": "Refer to your State Approving Agency (SAA) guidance.",
+        "bullets": [
+          "Read the SAA letter for specific instructions.",
+          "Look for clarifications on Chapter 31 scenarios."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Make a Decision",
+        "body": "Determine if the student qualifies for Voc Rehab benefits.",
+        "bullets": [
+          "Refer to the relevant VA guidance for detailed instructions.",
+          "Make sure the student meets all eligibility criteria."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more at aimilitaryservices.com",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Identify key signals to streamline your compliance review. Learn to spot Chapter 31 scenarios quickly and ensure student veterans receive the appropriate benefits.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#VocRehab",
+      "#StudentVeterans",
+      "#VAForms",
+      "#VARegulations",
+      "#VACompliance",
+      "#VAWorkflows",
+      "#GIBill",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, which could benefit from a more engaging headline to capture attention. The top fix would be to add a more compelling headline that highlights the urgency or importance of the information."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T17:30:08.255Z"
+}

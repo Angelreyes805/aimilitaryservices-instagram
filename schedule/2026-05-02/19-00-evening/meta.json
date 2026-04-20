@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-02-evening-fe59b3fd",
+  "date": "2026-05-02",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Turning a denial letter into a fast appeal",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Turn Denial Letters into Appeals",
+        "body": "Learn step-by-step how to expedite appeals for student veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Review Denial Letter",
+        "body": "Analyze the denial letter for specific reasons.",
+        "bullets": [
+          "Highlight key points",
+          "Identify missing documentation",
+          "Understand regulations cited"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Necessary Documents",
+        "body": "Compile all required documentation.",
+        "bullets": [
+          "COE",
+          "SAA letter",
+          "Chapter 33 forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Draft Appeal Letter",
+        "body": "Craft a well-written appeal letter.",
+        "bullets": [
+          "Explain denial",
+          "Include evidence",
+          "Refer to Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit Appeal",
+        "body": "Submit the appeal to the SAA.",
+        "bullets": [
+          "Follow SAP plan",
+          "Use 22-1999",
+          "Submit by deadline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Progress",
+        "body": "Stay updated on the appeal status.",
+        "bullets": [
+          "Check 85/15 rule",
+          "Communicate with SAA",
+          "Follow up regularly"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Apply these steps to improve your appeal process.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn how to transform denial letters into swift appeals for student veterans. Follow these 5 steps and stay compliant with Chapter 33.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#AppealProcess",
+      "#DenialLetter",
+      "#SAA",
+      "#COE",
+      "#221999",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 5, 'Monitor Progress,' as it could benefit from a more detailed bullet point to provide clearer guidance."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T17:34:28.146Z"
+}
