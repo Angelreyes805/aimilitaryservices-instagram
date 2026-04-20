@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-23-afternoon-df90e086",
+  "date": "2026-04-23",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Handling a late-term credit change cleanly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Cleanly handle late-term credit changes",
+        "body": "Avoid a mess when students drop during term.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 2",
+        "headline": "Review the student's SAP plan",
+        "body": "Ensure they meet term eligibility requirements.",
+        "bullets": [
+          "Check the SAP plan for term enrollment.",
+          "Verify the student's status is ‘active’ or ‘incomplete’."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 2",
+        "headline": "Submit a form",
+        "body": "Complete the appropriate form for the change.",
+        "bullets": [
+          "Use VA Form 22-1999 for term changes.",
+          "Follow the instructions in the Student Aid Guide."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Document everything",
+        "headline": "Maintain accurate records",
+        "body": "Keep all related documents for future reference.",
+        "bullets": [
+          "Save emails and other communication.",
+          "Update the student's file with notes."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Verify compliance",
+        "headline": "Review your records",
+        "body": "Ensure your actions align with VA guidelines.",
+        "bullets": [
+          "Refer to the SAA letter for guidance.",
+          "Check if the change meets the 85/15 rule."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Submit for review",
+        "headline": "Approve or deny",
+        "body": "Submit the form for review by the State Approving Agency.",
+        "bullets": [
+          "Contact the SAA if unsure.",
+          "Follow the COE guidelines for the decision."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about handling late-term credit changes. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the two-step recovery when a student drops during term with this compliance tip.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#VeteranEducation",
+      "#GIBill",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEd",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 8,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 8,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, as it could benefit from a more engaging headline to grab the viewer's attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T15:30:46.271Z"
+}
