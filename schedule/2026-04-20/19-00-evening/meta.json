@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-20-evening-d8ab0629",
+  "date": "2026-04-20",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Six questions to ask at every intake",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline Intake",
+        "body": "Automate your workflow and catch issues early.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Is the student a veteran?",
+        "body": "Ask for proof of service to ensure eligibility.",
+        "bullets": [
+          "Refer to VA Form 22-1999.",
+          "Check the student's ID for military service dates."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Verify the COE",
+        "body": "Confirm the student's Certificate of Eligibility.",
+        "bullets": [
+          "Refer to Chapter 33 for the COE process.",
+          "Check for any service-connected disabilities."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Check Chapter 33 eligibility",
+        "body": "Ensure the student qualifies for Chapter 33 benefits.",
+        "bullets": [
+          "Refer to the current VA guidance.",
+          "Verify if the student has a 10-year service obligation."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Examine the 85/15 rule",
+        "body": "Ensure the student meets the 85/15 enrollment threshold.",
+        "bullets": [
+          "Refer to the relevant VA guidance.",
+          "Check if the student is taking at least 85% of the credit hours needed."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Address any issues early",
+        "body": "Promptly address any discrepancies to avoid paperwork.",
+        "bullets": [
+          "Refer to the SAA letter for guidance.",
+          "Communicate with the student about next steps."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more at aimilitaryservices.com",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn to streamline intake with these five steps to ensure compliance and avoid paperwork.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 5, which could benefit from a more concise headline to maintain the flow and readability of the carousel."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T20:23:50.770Z"
+}
