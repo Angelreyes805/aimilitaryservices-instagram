@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-20-midday-5d5b4af7",
+  "date": "2026-04-20",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "sap-appeals-that-work",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize SAP Appeals",
+        "body": "Learn strategies from successful cases and templates for better outcomes.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand SAP Appeal",
+        "body": "Review the SAP appeal process to ensure a thorough understanding.",
+        "bullets": [
+          "Understand the SAP appeal process",
+          "Identify key elements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Documentation",
+        "body": "Collect all necessary documents to support the appeal.",
+        "bullets": [
+          "Review documentation requirements",
+          "Organize and present evidence"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Craft a Strong Case",
+        "body": "Write a compelling appeal letter that highlights your case's unique aspects.",
+        "bullets": [
+          "Develop a clear narrative",
+          "Highlight unique circumstances"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Present Your Case",
+        "body": "Present your appeal in a structured and professional manner.",
+        "bullets": [
+          "Organize a presentation",
+          "Practice delivery"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "Maintain communication with the VA and follow up on the appeal.",
+        "bullets": [
+          "Stay in touch with the VA",
+          "Monitor the appeal status"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get the templates and strategies now at https://aimilitaryservices.com/blog/sap-appeals-that-work",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize your SAP appeal success with proven strategies and templates from successful cases. Learn how to gather evidence, craft a compelling case, and present it professionally. Get the templates and strategies now at https://aimilitaryservices.com/blog/sap-appeals-that-work.",
+    "hashtags": [
+      "#VASCO",
+      "#SAPAppeals",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#SAPAppealTemplates",
+      "#AppealStrategies",
+      "#VAAppealProcess",
+      "#VeteranSupport",
+      "#EducationAppeals",
+      "#VAEducationBenefits",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is 'Craft a Strong Case' as it could benefit from a more detailed bullet point to ensure clarity."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T05:15:42.582Z"
+}

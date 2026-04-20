@@ -1,77 +1,92 @@
 {
-  "runId": "2026-04-20-afternoon-1920db5b",
+  "runId": "2026-04-20-afternoon-bb9c9aec",
   "date": "2026-04-20",
   "slot": "afternoon",
   "source": "llm",
-  "sourceRef": "tip:Knowing when to hand off to the VA directly",
+  "sourceRef": "tip:Making room for deep work between certifications",
   "outline": {
     "slides": [
       {
         "kind": "cover",
-        "eyebrow": "For VASCOs",
-        "headline": "Hand Off Safely",
-        "body": "Learn when to hand over Yellow Ribbon paperwork directly to the VA.",
-        "bullets": []
+        "eyebrow": "Making room for deep work between certifications",
+        "headline": "Protect a focus block",
+        "body": "Create a dedicated time slot for focused work between VA School Certifying Officer (VASCO) tasks.",
+        "bullets": [
+          "Define a clear purpose",
+          "Communicate the block to team"
+        ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 1 of 5",
-        "headline": "Hand Off When Ready",
-        "body": "When a student meets eligibility requirements for the Yellow Ribbon Program.",
+        "headline": "Define a clear purpose",
+        "body": "Set a specific goal for your deep work block, such as completing a COE review or processing 22-1999 forms.",
         "bullets": [
-          "Eligibility threshold: Yellow Ribbon eligibility form",
-          "Actionable phrase: 'Eligible for Yellow Ribbon'"
+          "Be clear about the objective",
+          "Prioritize tasks"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 2 of 5",
-        "headline": "Document Review",
-        "body": "Verify documentation before handing off.",
+        "headline": "Communicate the block to team",
+        "body": "Inform your colleagues about the dedicated focus block. Use phrases like 'During my deep work time, I’ll be unavailable for interruptions.'",
         "bullets": [
-          "Check Yellow Ribbon forms",
-          "Review eligibility requirements"
+          "Share the plan with team",
+          "Set expectations"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 3 of 5",
-        "headline": "VA Contact Info",
-        "body": "Have the VA's contact info ready.",
+        "headline": "Schedule the block",
+        "body": "Block out specific hours in your calendar. This could be, for example, 10:00 AM to 11:00 AM.",
         "bullets": [
-          "VA regional office number",
-          "VA email address"
+          "Use your calendar",
+          "Mark the time"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 4 of 5",
-        "headline": "Hand Off Process",
-        "body": "Follow the VA's hand-off instructions.",
+        "headline": "Eliminate distractions",
+        "body": "During your focus block, close unnecessary tabs and notifications. Consider setting up a 'do not disturb' mode.",
         "bullets": [
-          "Use the VA's online portal",
-          "Submit Yellow Ribbon forms"
+          "Minimize distractions",
+          "Set boundaries"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 5 of 5",
-        "headline": "Follow-Up",
-        "body": "Ensure the VA receives the forms and follow up.",
+        "headline": "Review and adjust",
+        "body": "At the end of each focus block, reflect on what you accomplished and adjust the schedule as needed.",
         "bullets": [
-          "Check for receipt confirmation",
-          "Follow up with the VA"
+          "Assess your progress",
+          "Fine-tune the schedule"
         ]
       },
       {
         "kind": "cta",
         "eyebrow": "Next step",
-        "body": "Discover more tips on handling student veteran paperwork. Link in bio.",
-        "bullets": [],
-        "headline": "Read the full post"
+        "body": "Try scheduling a deep work block today. Link in bio.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
       }
     ],
-    "caption": "Master the art of hand-off paperwork to the VA. Learn when to hand over Yellow Ribbon paperwork directly, ensuring a smooth transition. Discover more tips on handling student veteran paperwork. Link in bio.",
+    "caption": "Protect a dedicated focus block to enhance productivity and efficiency between VA School Certifying Officer (VASCO) tasks. Follow these steps: Define a clear purpose, communicate the block to team, schedule the time, eliminate distractions, and review and adjust. Try scheduling a deep work block today.",
     "hashtags": [
       "#VASCO",
       "#GIBill",
@@ -92,7 +107,7 @@
       "#MilitaryTransition"
     ]
   },
-  "rubricScore": 9.3,
+  "rubricScore": 9.2,
   "rubricBreakdown": {
     "readability": 9,
     "noOverflow": 10,
@@ -100,12 +115,12 @@
     "brand": 9,
     "singleTakeaway": 9,
     "narrative": 9,
-    "contrast": 10,
+    "contrast": 9,
     "constraints": 10,
     "caption": 9,
     "polish": 9,
-    "critique": "The weakest slide is Step 1, as it could benefit from a more engaging headline to grab attention. The top fix would be to add a more compelling headline that highlights the importance of the step."
+    "critique": "The weakest slide is Step 4, 'Eliminate distractions,' as it could benefit from a more detailed example or tip to help users better understand how to minimize distractions during their focus block."
   },
-  "attempt": 2,
-  "generatedAt": "2026-04-20T04:37:17.069Z"
+  "attempt": 3,
+  "generatedAt": "2026-04-20T05:21:53.068Z"
 }

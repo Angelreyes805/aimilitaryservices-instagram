@@ -1,0 +1,106 @@
+{
+  "runId": "2026-04-20-morning-3dbd8746",
+  "date": "2026-04-20",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "mitigating-circumstances",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Mitigating Circumstances",
+        "headline": "Understand Qualifying Criteria",
+        "body": "Learn the criteria for applying mitigating circumstances in VA benefit administration.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Definition",
+        "body": "Mitigating circumstances are events that significantly impact a student's ability to continue education.",
+        "bullets": [
+          "Examples: illness, financial hardship"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Qualifying Events",
+        "body": "Events must be substantial and beyond the student's control.",
+        "bullets": [
+          "Example: hospitalization"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Documented Evidence",
+        "body": "Document the event and its impact on education.",
+        "bullets": [
+          "Medical records, financial statements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Impact Assessment",
+        "body": "Assess how the event affects the student's ability to continue education.",
+        "bullets": [
+          "Example: missed classes, reduced GPA"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Approval Process",
+        "body": "Submit the documentation to your SAA for review and approval.",
+        "bullets": [
+          "Follow SAA guidelines"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the application of mitigating circumstances in VA benefit administration with clear qualifying criteria and documentation requirements. Learn how to document these events and assess their impact on education.",
+    "hashtags": [
+      "#VASCO",
+      "#MitigatingCircumstances",
+      "#VAEducation",
+      "#HigherEd",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VeteranEducation",
+      "#GIBill",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity"
+    ]
+  },
+  "rubricScore": 8.8,
+  "rubricBreakdown": {
+    "readability": 8,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 8,
+    "singleTakeaway": 8,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Documented Evidence,' as the text is a bit dense and could benefit from a more concise bullet point structure."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T05:12:03.969Z"
+}
