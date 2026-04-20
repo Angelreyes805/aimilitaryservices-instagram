@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-07-morning-326e7708",
+  "date": "2026-05-07",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "yellow-ribbon-administration",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master Yellow Ribbon Program Administration",
+        "body": "Learn advanced calculations, budget analysis, and student advising strategies.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Calculate Eligibility",
+        "body": "Understand the 22-1999 form requirements.",
+        "bullets": [
+          "Understand VA Form 22-1999",
+          "Check student eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Analyze Budget Impacts",
+        "body": "Learn how to assess financial aid disbursements.",
+        "bullets": [
+          "Review 85/15 rule impacts",
+          "Plan budget adjustments"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Develop Student Advising Strategies",
+        "body": "Offer personalized advice to maximize benefits.",
+        "bullets": [
+          "Engage with Chapter 33 guidance",
+          "Address Yellow Ribbon issues"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Manage Budgets and Records",
+        "body": "Maintain accurate records and manage disbursements.",
+        "bullets": [
+          "Keep COE records current",
+          "Track disbursements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Ensure Compliance",
+        "body": "Stay updated on the latest VA guidance.",
+        "bullets": [
+          "Review SAA letters",
+          "Stay informed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the Yellow Ribbon Program with advanced calculations, budget analysis, and student advising strategies. Learn how to manage eligibility, disbursements, and compliance. Visit aimilitaryservices.com/blog/yellow-ribbon-administration for more resources.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#VA",
+      "#EducationProgram",
+      "#VAProgram",
+      "#VeteranServices",
+      "#VAPrograms",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.4,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Ensure Compliance,' as it could benefit from a more detailed bullet point to provide clearer guidance."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T18:25:04.691Z"
+}

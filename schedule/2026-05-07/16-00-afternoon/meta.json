@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-07-afternoon-1b6167b3",
+  "date": "2026-05-07",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:When to certify and when to wait",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Timing Rule for Certifying",
+        "body": "Avoid overpayments by knowing when to certify and when to wait.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your Timelines",
+        "body": "Learn the timeline for certifying students under the Yellow Ribbon Program.",
+        "bullets": [
+          "Check the relevant VA guidance for specific dates.",
+          "Understand the impact of the 85/15 rule."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review Student Eligibility",
+        "body": "Ensure students meet the eligibility requirements for certification.",
+        "bullets": [
+          "Verify if students have a Certificate of Eligibility (COE).",
+          "Check if they meet the Chapter 33 criteria."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review Certification Forms",
+        "body": "Submit the appropriate certification forms for accurate processing.",
+        "bullets": [
+          "Submit VA Form 22-1999 for Yellow Ribbon students.",
+          "Ensure all required documentation is included."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Wait Period",
+        "body": "Understand the wait period for certain certification requests.",
+        "bullets": [
+          "Check if the student's application requires a wait period.",
+          "Follow the wait period to avoid processing prematurely."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Verify Compliance",
+        "body": "Ensure all certification actions are in compliance with VA regulations.",
+        "bullets": [
+          "Review your SAA letter for compliance guidelines.",
+          "Stay updated with the latest VA regulations."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about certification timelines and forms. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Timing is everything: Avoid overpayments and ensure compliance by knowing when to certify and when to wait.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#YellowRibbon",
+      "#Certification",
+      "#Timelines",
+      "#CertificationForms",
+      "#WaitPeriod",
+      "#Compliance",
+      "#Education",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1, as it could benefit from a more engaging headline to capture attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T18:32:07.672Z"
+}

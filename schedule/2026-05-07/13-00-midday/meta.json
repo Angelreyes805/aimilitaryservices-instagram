@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-07-midday-3644989e",
+  "date": "2026-05-07",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "non-college-degree-programs",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master NCD Programs",
+        "body": "Understand special considerations for Non-College Degree Programs (NCDs) and streamline your certification process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand NCD Programs",
+        "body": "Identify NCD programs that qualify for VA certification under Chapter 33, Section 3072.",
+        "bullets": [
+          "Review 22-1999 instructions",
+          "Consult VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review Program Eligibility",
+        "body": "Verify the program aligns with VA's COE criteria and is in compliance with Chapter 33, Section 3072.",
+        "bullets": [
+          "Refer to the 85/15 rule",
+          "Ensure student eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Gather Documentation",
+        "body": "Collect necessary documents for approval, including program descriptions, student information, and institutional policies.",
+        "bullets": [
+          "Chapter 33 forms",
+          "COE application"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit for Approval",
+        "body": "Submit the documentation to your State Approving Agency (SAA) for certification approval.",
+        "bullets": [
+          "Follow SAA guidelines",
+          "Submit by deadline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Maintain Compliance",
+        "body": "Stay updated on changes in VA certification rules and maintain compliance to ensure ongoing certification.",
+        "bullets": [
+          "Review annual updates",
+          "Stay informed of changes"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more with VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the unique requirements of Non-College Degree Programs (NCDs) with comprehensive guidance on certification and compliance. Learn more with VASCO Assistant Pro.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1 of 5, as it could benefit from a more engaging headline to capture attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T18:28:35.617Z"
+}
