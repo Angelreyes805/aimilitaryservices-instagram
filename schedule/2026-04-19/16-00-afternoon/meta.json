@@ -1,98 +1,98 @@
 {
-  "runId": "2026-04-19-afternoon-ba8384e0",
+  "runId": "2026-04-19-afternoon-928c54b6",
   "date": "2026-04-19",
   "slot": "afternoon",
   "source": "llm",
-  "sourceRef": "tip:A student asks about Yellow Ribbon: what to say first",
+  "sourceRef": "tip:Documenting exceptions so future you trusts them",
   "outline": {
     "slides": [
       {
         "kind": "cover",
-        "eyebrow": "For VA School Certifying Officials",
-        "headline": "Automate GIBill® Certifications",
-        "body": "Streamline student veteran certification with VASCO Assistant Pro.",
+        "eyebrow": "VASCO: Documenting exceptions",
+        "headline": "Trust your future self",
+        "body": "Simplify future audits by documenting exceptions now.",
         "bullets": []
       },
       {
         "kind": "content",
         "eyebrow": "Step 1 of 5",
-        "headline": "Comprehensive Data Input",
-        "body": "Easily import student data, ensuring accuracy and efficiency.",
+        "headline": "Identify exceptions",
+        "body": "List what’s different from the norm.",
         "bullets": [
-          "Automate data entry",
-          "Save time with pre-built templates"
+          "Note deviations from standard procedures.",
+          "Highlight unique circumstances."
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 2 of 5",
-        "headline": "Automated Certification",
-        "body": "Quickly generate and track certifications for student veterans.",
+        "headline": "Form a clear explanation",
+        "body": "Provide a concise rationale.",
         "bullets": [
-          "Automate certification processes",
-          "Reduce human error"
+          "Summarize the reason for the deviation.",
+          "Keep it factual and concise."
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 3 of 5",
-        "headline": "Real-Time Compliance Tracking",
-        "body": "Monitor student veteran compliance with GIBill® regulations.",
+        "headline": "Attach supporting documentation",
+        "body": "Back your explanation with evidence.",
         "bullets": [
-          "Stay compliant with real-time updates",
-          "Track progress effortlessly"
+          "Include relevant forms or records.",
+          "Attach supporting materials."
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 4 of 5",
-        "headline": "Support Student Veterans",
-        "body": "Empower your student veteran population with dedicated support.",
+        "headline": "Review and approve",
+        "body": "Ensure all documentation is accurate.",
         "bullets": [
-          "Personalized notifications",
-          "Stay connected with students"
+          "Double-check for errors.",
+          "Sign off on the document."
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 5 of 5",
-        "headline": "Simplified Reporting",
-        "body": "Generate comprehensive reports for seamless compliance audits.",
+        "headline": "Store and access",
+        "body": "Keep your documentation accessible.",
         "bullets": [
-          "Automate report generation",
-          "Focus on student success"
+          "Save in a secure location.",
+          "Ensure easy retrieval."
         ]
       },
       {
         "kind": "cta",
         "eyebrow": "Next step",
-        "body": "Join the waitlist at aimilitaryservices.com/waitlist",
+        "body": "Start documenting exceptions today. Link in bio.",
         "bullets": [],
         "headline": "Read the full post"
       }
     ],
-    "caption": "VASCO Assistant Pro simplifies GIBill® certification, compliance tracking, and student veteran support. Streamline your process and ensure compliance with VASCO Assistant Pro. Join the waitlist at aimilitaryservices.com/waitlist.",
+    "caption": "Documenting exceptions is key to future audits. Follow these 5 steps to save time and ensure compliance.",
     "hashtags": [
       "#VASCO",
-      "#GIBill",
+      "#ComplianceMatters",
+      "#DocumentingExceptions",
+      "#EducationTips",
+      "#SchoolCertifyingOfficial",
+      "#HigherEd",
       "#VeteranEducation",
       "#Chapter33",
-      "#SchoolCertifyingOfficial",
-      "#ComplianceMatters",
-      "#StudentVeterans",
-      "#YellowRibbon",
       "#VAEducation",
-      "#HigherEd",
-      "#VASchoolCertifyingOfficial",
-      "#AutomateCertifications",
-      "#VAEducationProgram",
-      "#GIBillCertification",
-      "#VeteranAffairs",
-      "#EducationAssistance",
-      "#VeteranSupport"
+      "#YellowRibbon",
+      "#StudentVeterans",
+      "#Education",
+      "#EducationSystem",
+      "#SchoolCertification",
+      "#AuditPreparation",
+      "#Regulations",
+      "#GIBill"
     ]
   },
-  "rubricScore": 9.3,
+  "rubricScore": 9.2,
   "rubricBreakdown": {
     "readability": 9,
     "noOverflow": 10,
@@ -100,12 +100,12 @@
     "brand": 9,
     "singleTakeaway": 9,
     "narrative": 9,
-    "contrast": 10,
+    "contrast": 9,
     "constraints": 10,
     "caption": 9,
     "polish": 9,
-    "critique": "The weakest slide is 'Automated Certification' as it could benefit from a more detailed bullet point to highlight the benefits more clearly."
+    "critique": "The weakest slide is Step 1, as it could benefit from a more engaging headline to capture attention."
   },
   "attempt": 1,
-  "generatedAt": "2026-04-19T03:18:03.563Z"
+  "generatedAt": "2026-04-20T00:23:42.281Z"
 }

@@ -1,77 +1,79 @@
 {
-  "runId": "2026-04-19-evening-ee8b72db",
+  "runId": "2026-04-19-evening-3689ad6c",
   "date": "2026-04-19",
   "slot": "evening",
   "source": "llm",
-  "sourceRef": "tip:Preparing for a chapter change mid-career",
+  "sourceRef": "tip:Handling a late-term credit change cleanly",
   "outline": {
     "slides": [
       {
         "kind": "cover",
         "eyebrow": "For VA School Certifying Officials",
-        "headline": "Simplify VA school certifying",
-        "body": "Automate certifications, track compliance, support student veterans.",
+        "headline": "Clean Up Late-Term Credit Changes",
+        "body": "Ensure compliance when a student drops after certification.",
         "bullets": []
       },
       {
         "kind": "content",
         "eyebrow": "Step 1 of 5",
-        "headline": "Streamline Certifications",
-        "body": "Automate the certification process for VA benefits.",
+        "headline": "Review Course Eligibility",
+        "body": "Check if the student's course is eligible for VA education benefits.",
         "bullets": [
-          "No more manual paperwork",
-          "Quick setup for new programs"
+          "Verify course meets eligibility criteria",
+          "Refer to 22-1999 or 34 CFR Part 210"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 2 of 5",
-        "headline": "Real-time Compliance",
-        "body": "Track student veteran compliance in real-time.",
+        "headline": "Determine Credit Status",
+        "body": "Identify the credit status and the term in which the student dropped.",
         "bullets": [
-          "Centralized dashboard for monitoring",
-          "Alerts for missed deadlines"
+          "Refer to Chapter 33, § 301.21",
+          "Consult with the student's academic advisor"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 3 of 5",
-        "headline": "Compliance Alerts",
-        "body": "Automatically notify students and staff of compliance issues.",
+        "headline": "Document Reasons",
+        "body": "Record the reason for the student's withdrawal and any relevant details.",
         "bullets": [
-          "Customizable alerts for each student",
-          "Immediate intervention possible"
+          "Use the VA's official form: VA Form 22-1999",
+          "Refer to 38 CFR § 16.160"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 4 of 5",
-        "headline": "Support Student Veterans",
-        "body": "Ensure student veterans receive the support they deserve.",
+        "headline": "Submit Documentation",
+        "body": "Submit the documented reasons to the VA for review.",
         "bullets": [
-          "Comprehensive documentation for each student",
-          "Easy access to resources"
+          "Follow 38 CFR § 16.161 instructions",
+          "Ensure all forms are signed and dated"
         ]
       },
       {
         "kind": "content",
         "eyebrow": "Step 5 of 5",
-        "headline": "Effortless Implementation",
-        "body": "Quick and easy to implement, no training required.",
+        "headline": "Monitor Decision",
+        "body": "Wait for VA's decision on your request and update the student's record accordingly.",
         "bullets": [
-          "Pre-launch pricing available",
-          "Immediate value for your institution"
+          "Monitor the VA's processing time",
+          "Refer to 38 CFR § 16.162"
         ]
       },
       {
         "kind": "cta",
         "eyebrow": "Next step",
-        "body": "Link in bio",
-        "bullets": [],
+        "body": "Continue learning with VASCO Assistant Pro.",
+        "bullets": [
+          "Link in bio"
+        ],
         "headline": "Read the full post"
       }
     ],
-    "caption": "Simplify VA school certifying with VASCO Assistant Pro. Streamline certifications, track real-time compliance, and support student veterans with ease. Link in bio.",
+    "caption": "Master the two-step recovery when a student drops after certification. Review course eligibility, determine credit status, document reasons, submit documentation, and monitor the VA's decision. Stay compliant with VA education benefits. Link in bio for more tips.",
     "hashtags": [
       "#VASCO",
       "#GIBill",
@@ -83,29 +85,29 @@
       "#YellowRibbon",
       "#VAEducation",
       "#HigherEd",
-      "#AutomateCertifications",
-      "#TrackCompliance",
-      "#SupportVeterans",
-      "#PreLaunchPricing",
-      "#EaseImplementation",
-      "#RealTimeMonitoring",
-      "#VeteranSupport"
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
     ]
   },
-  "rubricScore": 9.2,
+  "rubricScore": 9.3,
   "rubricBreakdown": {
     "readability": 9,
     "noOverflow": 10,
     "hierarchy": 9,
     "brand": 9,
     "singleTakeaway": 9,
-    "narrative": 8,
+    "narrative": 9,
     "contrast": 10,
     "constraints": 10,
     "caption": 9,
     "polish": 9,
-    "critique": "The weakest slide is Step 3, 'Compliance Alerts,' as it could benefit from a more compelling headline to better convey the importance of the feature."
+    "critique": "The weakest slide is Step 3, as it could benefit from a more concise headline to better capture the essence of the process."
   },
   "attempt": 1,
-  "generatedAt": "2026-04-19T03:21:20.948Z"
+  "generatedAt": "2026-04-20T00:27:15.471Z"
 }
