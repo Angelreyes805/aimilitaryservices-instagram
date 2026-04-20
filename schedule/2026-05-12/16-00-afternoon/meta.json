@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-12-afternoon-2f7810cc",
+  "date": "2026-05-12",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Reading a student file in under three minutes",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Quick VA Student File Reading",
+        "headline": "Effortlessly read student files in under 3 minutes",
+        "body": "Learn a scan pattern for VASCOs to streamline file review.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify eligibility",
+        "body": "Quickly assess if the student meets the eligibility criteria.",
+        "bullets": [
+          "Review VA Form 22-1999",
+          "Check if the student is in Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Check remaining time",
+        "body": "Verify the student's eligibility period and remaining time.",
+        "bullets": [
+          "Refer to the student's Chapter 33 enrollment notice",
+          "Understand the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review holds",
+        "body": "Identify any holds or issues that might affect the certification.",
+        "bullets": [
+          "Examine the student's last certification letter",
+          "Check if there are any outstanding documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Verify last certification",
+        "body": "Ensure the student's last certification is current and meets the required criteria.",
+        "bullets": [
+          "Review the student's previous Chapter 33 certification",
+          "Check if the student meets the enrollment requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Summarize findings",
+        "body": "Quickly summarize the findings and decide if certification is needed.",
+        "bullets": [
+          "Document the findings in the student's file",
+          "Take immediate action based on the summary"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Try this scan pattern to save time in your VA student file reading. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn a scan pattern to read VA student files in under 3 minutes. Identify eligibility, check remaining time, review holds, and verify the last certification. Get tips to streamline your workflow and save time. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VA",
+      "#Education",
+      "#CertifyingOfficial",
+      "#FileReading",
+      "#TimeSaving",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Summarize findings,' as it could benefit from a more concise takeaway or a visual element to draw attention to the key action."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T19:34:44.359Z"
+}
