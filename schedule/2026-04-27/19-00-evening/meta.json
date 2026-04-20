@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-27-evening-262a2a44",
+  "date": "2026-04-27",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Documenting exceptions so future you trusts them",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO Compliance Tip",
+        "headline": "Save Time by Documenting Exceptions",
+        "body": "Learn how to document exceptions effectively to ensure future compliance.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Current Guidance",
+        "body": "Review your SAA letter for specific rules on documenting exceptions.",
+        "bullets": [
+          "Read your SAA letter",
+          "Understand the key requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Document Clearly",
+        "body": "Use a concise format that future you will understand. For example, 'Student failed to submit required documentation on time.'",
+        "bullets": [
+          "Keep it brief",
+          "Identify the issue"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Use Consistent Language",
+        "body": "Consistent terminology helps avoid confusion. For instance, 'Documentation not submitted' vs. 'Documentation late'.",
+        "bullets": [
+          "Be consistent",
+          "Avoid vague language"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Date and Sign",
+        "body": "Date and sign all documentation to establish responsibility and accountability.",
+        "bullets": [
+          "Date the document",
+          "Sign with your name"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Update Regularly",
+        "body": "Regularly review your documentation to ensure it remains accurate and up-to-date.",
+        "bullets": [
+          "Regular reviews",
+          "Update as needed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next Step",
+        "body": "Continue learning by exploring more compliance tips. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn how to document exceptions effectively to ensure future compliance. Get tips on understanding current guidance, using clear language, and maintaining consistent documentation. Regular reviews and updates are key. Explore more compliance tips. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Use Consistent Language,' as the text is a bit dense and could benefit from a more visual element to break up the information."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T16:27:30.793Z"
+}

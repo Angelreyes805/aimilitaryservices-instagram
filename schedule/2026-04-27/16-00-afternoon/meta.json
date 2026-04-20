@@ -1,0 +1,112 @@
+{
+  "runId": "2026-04-27-afternoon-ab782fcb",
+  "date": "2026-04-27",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:What to document after every phone call with the VA",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Phone Calls: What to Document",
+        "body": "Stay compliant and efficient by documenting key points after every call with the VA.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Document Key Points",
+        "body": "After every call, jot down: the date, call duration, and topics discussed.",
+        "bullets": [
+          "Date: Current date",
+          "Duration: Call length",
+          "Topics: Discussed items"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Record Decision Rules",
+        "body": "Note any decisions or rules mentioned by the VA representative.",
+        "bullets": [
+          "Decisions: Actions to take",
+          "Rules: Policies or guidelines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Track Action Items",
+        "body": "List any follow-up actions or tasks to be completed.",
+        "bullets": [
+          "Action items: What needs to be done",
+          "Deadline: When to complete"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Review and Update",
+        "body": "After each call, review and update your records.",
+        "bullets": [
+          "Review: Check for accuracy",
+          "Update: Adjust as needed"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Compliance Check",
+        "body": "Regularly review your documentation to ensure compliance with VA guidelines.",
+        "bullets": [
+          "Compliance: Check for VA regulations",
+          "Guidelines: Ensure all are followed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start documenting your phone calls today to stay compliant and efficient.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay compliant and efficient by documenting key points after every call with the VA. Future you, and your next audit, will thank you.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#Chapter33",
+      "#VeteranEducation",
+      "#SchoolCertifyingOfficial",
+      "#GIBill",
+      "#StudentVeterans",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEd",
+      "#HigherEducation",
+      "#VAEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.9,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Track Action Items', as it could benefit from a more specific call to action. The top fix would be to add a clear, actionable next step for the user."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T16:23:14.003Z"
+}
