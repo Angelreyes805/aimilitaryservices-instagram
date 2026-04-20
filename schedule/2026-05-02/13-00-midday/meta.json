@@ -1,0 +1,120 @@
+{
+  "runId": "2026-05-02-midday-cd71947d",
+  "date": "2026-05-02",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "strategic-planning-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Strategic Planning",
+        "body": "Create a 3-year roadmap for veteran education.",
+        "bullets": [
+          "Identify key milestones",
+          "Set clear goals",
+          "Assess resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Key Milestones",
+        "body": "Outline major achievements or events.",
+        "bullets": [
+          "COE renewals",
+          "Program expansions",
+          "New partnerships"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Set Clear Goals",
+        "body": "Define objectives that align with milestones.",
+        "bullets": [
+          "Increase enrollment",
+          "Expand Yellow Ribbon",
+          "Certify 50 new VASCOs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Assess Resources",
+        "body": "Evaluate available assets to support the plan.",
+        "bullets": [
+          "Staff capabilities",
+          "Financial budget",
+          "Technology infrastructure"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Develop Action Items",
+        "body": "Create a timeline with actionable steps.",
+        "bullets": [
+          "Enrollment management tools",
+          "Training programs",
+          "Marketing campaigns"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor and Adjust",
+        "body": "Regularly review progress and make necessary changes.",
+        "bullets": [
+          "Performance metrics",
+          "Feedback from stakeholders",
+          "Adaptive planning"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about strategic planning tools. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Strategic planning is essential for VA School Certifying Officials. Learn how to create a 3-year roadmap for veteran education, identify milestones, set clear goals, assess resources, develop action items, and monitor progress. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#StrategicPlanning",
+      "#3YearRoadmap",
+      "#VA",
+      "#Education",
+      "#Planning",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Set Clear Goals' as it has a slightly less clear takeaway compared to the others."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T22:55:18.527Z"
+}
