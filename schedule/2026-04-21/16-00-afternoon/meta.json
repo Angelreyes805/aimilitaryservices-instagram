@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-21-afternoon-351ed634",
+  "date": "2026-04-21",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:A short script for dropping students in Enrollment Manager",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO Workflow",
+        "headline": "Script for Dropping Students",
+        "body": "Master the Enrollment Manager process with a consistent script.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the Need",
+        "body": "Determine why the student is being dropped.",
+        "bullets": [
+          "Check the student's enrollment status.",
+          "Review any outstanding requirements or incomplete forms."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Documentation",
+        "body": "Collect all necessary documentation for the drop.",
+        "bullets": [
+          "Ask the student to submit any required forms.",
+          "Verify if the student has completed all necessary steps."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Locate the Form",
+        "body": "Navigate to the correct form in the Enrollment Manager system.",
+        "bullets": [
+          "Locate the appropriate enrollment drop form.",
+          "Ensure the correct student's record is open."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Follow the Script",
+        "body": "Input the student's details and finalize the drop.",
+        "bullets": [
+          "Enter the student's name and ID.",
+          "Select the drop date and reason."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Communicate the Decision",
+        "body": "Notify the student and relevant parties of the drop decision.",
+        "bullets": [
+          "Send a notification email.",
+          "Document the communication in the student's file."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Apply the script in your workflow. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the Enrollment Manager process with a consistent script. Drop students efficiently with these five steps. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EnrollmentManager",
+      "#DropProcedure",
+      "#VASCOAssistant",
+      "#VASCOAssistantPro",
+      "#aimilitaryservicescom",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, as it could benefit from a more engaging visual to capture attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T05:34:48.870Z"
+}
