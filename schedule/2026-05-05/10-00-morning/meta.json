@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-05-morning-14ab7265",
+  "date": "2026-05-05",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "grant-writing-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Unlock Your VA Funding Potential",
+        "headline": "Maximize Veterans' Benefits",
+        "body": "Empower your VA School Certifying Officials to secure grant funding for student veteran programs.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your VA Chapter",
+        "body": "Familiarize yourself with Chapter 33 and 35 regulations to ensure eligibility.",
+        "bullets": [
+          "VA Chapter 33",
+          "VA Chapter 35",
+          "Eligibility Requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Identify Grant Opportunities",
+        "body": "Explore federal and state grants that support veteran education initiatives.",
+        "bullets": [
+          "VA State Approving Agency (SAA) Grants",
+          "Department of Veterans Affairs (DVA) Grants",
+          "Chapter 33 Grants"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Develop a Strong Proposal",
+        "body": "Craft a compelling grant proposal that aligns with VA and DVA guidelines.",
+        "bullets": [
+          "VA Chapter 33 Grant Guidelines",
+          "DVA Grant Requirements",
+          "SAA Approval Process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Create a Budget",
+        "body": "Develop a detailed budget that outlines funding needs and expected outcomes.",
+        "bullets": [
+          "VA Chapter 35 Budget Guidelines",
+          "Funding Requirements",
+          "Budget Justification"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit and Follow Up",
+        "body": "Submit your proposal and maintain regular communication with the VA and SAA.",
+        "bullets": [
+          "VA Grant Submission Process",
+          "SAA Approval Timeline",
+          "Follow-Up Strategies"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about grant writing for veteran programs. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize VA funding for your student veteran programs with our comprehensive guide. Discover the five essential steps for successful grant writing. Learn more by visiting the link in our bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Submit and Follow Up' slide could benefit from a more detailed takeaway to ensure clarity and engagement."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T18:01:48.940Z"
+}
