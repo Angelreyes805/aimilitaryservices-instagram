@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-24-evening-190f2a95",
+  "date": "2026-04-24",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Cross-training a backup certifying official",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Cross-train your backup certifying official",
+        "body": "In three weeks, three milestones, one confident backup certifying official.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Identify a backup",
+        "body": "Select a staff member who can handle certifications independently.",
+        "bullets": [
+          "Review current certification responsibilities",
+          "Identify skills gaps"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Develop a training plan",
+        "body": "Create a tailored training schedule covering all relevant topics.",
+        "bullets": [
+          "Review VA forms and regulations",
+          "Focus on specific areas of need"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Assess and certify",
+        "body": "Evaluate the backup's readiness and certify them.",
+        "bullets": [
+          "Conduct a certification audit",
+          "Provide feedback"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Common phrase",
+        "headline": "Your VA form 22-1999",
+        "body": "Ensure your backup certifying official is familiar with this form.",
+        "bullets": [
+          "Understand the process",
+          "Practice filling it out"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Milestone",
+        "headline": "Complete the training",
+        "body": "By the end of three weeks, your backup should be fully trained.",
+        "bullets": [
+          "Review the training content",
+          "Prepare for a final assessment"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Take the next step to train your backup certifying official. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Cross-train your backup certifying official in three weeks, three milestones, and one confident certifier. Ready your team for certification responsibilities.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Training",
+      "#Certification",
+      "#BackupCertifyingOfficial",
+      "#VASCOTraining",
+      "#EducationPrograms",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the third slide, which is slightly less visually engaging compared to the others. A small icon or graphic could enhance its visual appeal."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T21:27:25.468Z"
+}

@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-24-afternoon-a91042e3",
+  "date": "2026-04-24",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Three common Chapter 33 mistakes to avoid",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Three Common Chapter 33 Mistakes",
+        "headline": "Avoid These Pitfalls",
+        "body": "Stay ahead of rework and compliance issues by recognizing common mistakes in Chapter 33.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Incorrect Form Submission",
+        "body": "Ensure you use the correct VA Form 22-1999 when submitting Chapter 33 applications.",
+        "bullets": [
+          "Submit the form with all required documentation",
+          "Check for errors before sending"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Missing Eligibility Documentation",
+        "body": "Verify that all required eligibility documentation is included in the application.",
+        "bullets": [
+          "Review the Chapter 33 eligibility requirements",
+          "Double-check the documents list"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Inaccurate Certification",
+        "body": "Ensure the certification process accurately reflects the student's status.",
+        "bullets": [
+          "Follow the 85/15 rule for student enrollment",
+          "Verify the student's current status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 3",
+        "headline": "Failing to Submit on Time",
+        "body": "Ensure all applications are submitted by the required deadlines to avoid delays.",
+        "bullets": [
+          "Keep an updated calendar of deadlines",
+          "Submit applications well before the deadline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 3",
+        "headline": "Lack of Communication",
+        "body": "Maintain open communication with students and the SAA to prevent misunderstandings.",
+        "bullets": [
+          "Schedule regular check-ins",
+          "Communicate clearly and concisely"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about avoiding common Chapter 33 mistakes and other compliance tips by visiting aimilitaryservices.com/waitlist.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of rework and compliance issues by recognizing common mistakes in Chapter 33. Avoid these pitfalls with our tips and tools designed to help VA School Certifying Officials like you. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#VA",
+      "#EducationTips",
+      "#Chapter33Mistakes",
+      "#ComplianceTips",
+      "#VASCOAssistantPro",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.1,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Failing to Submit on Time,' as it could benefit from a more specific tip or action item to make it stand out more clearly."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T21:23:51.976Z"
+}
