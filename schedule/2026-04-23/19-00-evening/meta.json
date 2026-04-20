@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-23-evening-9774a5e3",
+  "date": "2026-04-23",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:A short script for dropping students in Enrollment Manager",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCOs, streamline student drops",
+        "headline": "Script for dropping students in EM",
+        "body": "Easily manage student drops in your Enrollment Manager with our step-by-step guide.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Initiate the drop",
+        "body": "Open the Student Management module in your Enrollment Manager.",
+        "bullets": [
+          "Locate the student’s record",
+          "Select the drop option"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review details",
+        "body": "Verify the student’s name, enrollment status, and any pending requirements.",
+        "bullets": [
+          "Confirm the drop date",
+          "Review any required forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Select drop reason",
+        "body": "Choose the appropriate reason from the drop reason dropdown menu.",
+        "bullets": [
+          "Select 'Dropped' or 'Discontinued'",
+          "Review and confirm the selection"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Sign-off",
+        "body": "Sign off on the drop action by entering your initials or signature.",
+        "bullets": [
+          "Locate the signature field",
+          "Confirm and save"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit and review",
+        "body": "Submit the drop action and review the confirmation message.",
+        "bullets": [
+          "Check for any errors",
+          "Ensure all fields are complete"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Master this process with our complete guide. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Easily manage student drops in your Enrollment Manager with our step-by-step guide. Streamline your workflow and ensure accurate records with our detailed script. Link in bio for the full guide.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EnrollmentManager",
+      "#EducationManagement",
+      "#VASCOAssistantPro",
+      "#EducationTools",
+      "#EnrollmentManagement",
+      "#VASCOAssistant",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more engaging headline to draw attention. The top fix would be to add a small icon or graphic next to the headline to enhance visual interest."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T21:20:03.351Z"
+}

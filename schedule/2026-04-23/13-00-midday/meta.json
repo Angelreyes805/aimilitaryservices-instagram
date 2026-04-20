@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-23-midday-c9065023",
+  "date": "2026-04-23",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "remote-work-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Manage Remote VASCO Teams",
+        "body": "Empower your VA School Certifying Officials (VASCOs) to lead remote and hybrid teams with ease.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Check COE Remaining Entitlement",
+        "body": "Ensure your VASCO team is up-to-date on each student veteran's Certificate of Eligibility (COE) status.",
+        "bullets": [
+          "Log COE updates in the team file",
+          "Automate COE status checks"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Communicate SAA Decisions",
+        "body": "Inform the State Approving Agency (SAA) of all changes and decisions regarding student veterans' enrollment.",
+        "bullets": [
+          "Document all SAA interactions",
+          "Track SAA call logs"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Track Compliance",
+        "body": "Stay on top of all compliance requirements for student veterans under Chapter 33.",
+        "bullets": [
+          "Review Chapter 33 regulations",
+          "Maintain a compliance log"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Support Student Veterans",
+        "body": "Offer guidance and support to student veterans through the Yellow Ribbon Program.",
+        "bullets": [
+          "Facilitate Yellow Ribbon applications",
+          "Coordinate student veteran resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor and Report",
+        "body": "Regularly monitor and report on the progress of student veterans' education benefits.",
+        "bullets": [
+          "Schedule regular progress checks",
+          "Update the 85/15 compliance report"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro, the tool that helps VASCOs manage remote teams. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Empower your VA School Certifying Officials (VASCOs) with tools to manage remote and hybrid teams effectively. Steps include checking COE status, communicating with the SAA, and monitoring student veteran progress. Learn more with VASCO Assistant Pro.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Track Compliance,' as it could benefit from a more concise headline to better summarize the key takeaway."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T21:16:18.976Z"
+}
