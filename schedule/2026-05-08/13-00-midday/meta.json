@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-08-midday-8dfd27fd",
+  "date": "2026-05-08",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "data-analytics-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock Data-Driven Certifications",
+        "body": "Maximize your VA School Certifying Officer (VASCO) role with data analytics. Discover metrics that matter for student veteran success.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Key Metrics",
+        "body": "Understand the metrics that drive student veteran success in your programs.",
+        "bullets": [
+          "Track COE generation rates",
+          "Monitor 22-1999 completion",
+          "Evaluate Yellow Ribbon participation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Collect Data",
+        "body": "Gather data from various sources to ensure comprehensive analysis.",
+        "bullets": [
+          "Integrate COE verification data",
+          "Collect 22-1999 enrollment data",
+          "Monitor Yellow Ribbon applications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Analyze Data",
+        "body": "Use analytics tools to interpret and derive insights from your data.",
+        "bullets": [
+          "Identify trends in COE generation",
+          "Examine 22-1999 completion rates",
+          "Assess Yellow Ribbon impact"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Create Dashboards",
+        "body": "Visualize your findings to better understand student veteran progress.",
+        "bullets": [
+          "Design COE progress dashboards",
+          "Create 22-1999 enrollment dashboards",
+          "Generate Yellow Ribbon activity dashboards"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Act on Insights",
+        "body": "Use your data-driven insights to improve student veteran support.",
+        "bullets": [
+          "Adjust COE generation strategies",
+          "Tailor 22-1999 support",
+          "Enhance Yellow Ribbon program"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Discover how data analytics can revolutionize your VA School Certifying Officer role. Learn key metrics, data collection methods, and dashboard creation. Get started with VASCO Assistant Pro today.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3 of 5, 'Analyze Data', as the text is slightly dense and could benefit from a bit more spacing to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T18:41:12.654Z"
+}

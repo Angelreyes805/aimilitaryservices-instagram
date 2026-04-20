@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-08-evening-db3ed26c",
+  "date": "2026-05-08",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Three common Chapter 33 mistakes to avoid",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Three Common Chapter 33 Mistakes",
+        "headline": "Avoid these rework traps",
+        "body": "Learn to spot errors early and ensure student veteran education benefits.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Incorrect COE",
+        "body": "VASCOs often mistake an outdated COE for a current one, leading to delays.",
+        "bullets": [
+          "Review COE expiration dates.",
+          "Verify COE authenticity with VASCO portal."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Chapter 33 22-1999",
+        "body": "Mistakes in the 22-1999 form can trigger rework. Ensure all fields are correctly filled.",
+        "bullets": [
+          "Double-check form instructions.",
+          "Verify all required fields are filled."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Chapter 33 85/15",
+        "body": "Misinterpreting the 85/15 rule can lead to rework. Always refer to the current regulation.",
+        "bullets": [
+          "Refer to the most recent VA guidance.",
+          "Stay updated with the latest regulations."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Common Phrases",
+        "headline": "Misleading Phrases",
+        "body": "Vague or incorrect phrases in Chapter 33 can lead to confusion. Always use precise language.",
+        "bullets": [
+          "Avoid terms like 'as soon as possible' without a clear timeline.",
+          "Specify dates and times for clarity."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Timeline Traps",
+        "headline": "Incorrect Timelines",
+        "body": "Using outdated or incorrect timelines can lead to rework. Always verify with the most current sources.",
+        "bullets": [
+          "Refer to the latest VA guidelines for deadlines.",
+          "Cross-check with the VA website for updates."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join our waitlist for more tips and updates on Chapter 33.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn to avoid these common Chapter 33 mistakes and ensure compliance. Stay ahead of rework traps and keep student veteran education benefits on track. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#CertifyingOfficer",
+      "#Chapter33Mistakes",
+      "#VACompliance",
+      "#Chapter33Forms",
+      "#CertificationTips",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is the third one, which could be more visually engaging with a clearer image or icon to represent the topic of 'Misleading Phrases'."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T18:47:40.429Z"
+}
