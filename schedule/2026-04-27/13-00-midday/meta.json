@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-27-midday-501f69d7",
+  "date": "2026-04-27",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "yellow-ribbon-administration",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master Yellow Ribbon Calculations",
+        "body": "Learn advanced techniques for managing Yellow Ribbon Program enrollments and financial aid.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Eligibility Criteria",
+        "body": "Master the requirements for students to qualify for Yellow Ribbon benefits.",
+        "bullets": [
+          "Review 22-1999 forms",
+          "Understand eligibility for 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Calculate Eligible Amount",
+        "body": "Learn how to determine the maximum amount a student can receive under the Yellow Ribbon Program.",
+        "bullets": [
+          "Refer to Chapter 33 guidelines",
+          "Use the COE calculator"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Budget Impact Analysis",
+        "body": "Gain insights into the fiscal impact of Yellow Ribbon on your institution's budget.",
+        "bullets": [
+          "Analyze budget plans",
+          "Consider cost-sharing agreements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Advisor Training",
+        "body": "Develop strategies to effectively advise students on Yellow Ribbon benefits and other VA programs.",
+        "bullets": [
+          "Conduct training sessions",
+          "Offer resources for students"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document and Report",
+        "body": "Learn how to document and report Yellow Ribbon transactions to ensure compliance.",
+        "bullets": [
+          "Maintain accurate records",
+          "Submit required forms"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Explore VASCO Assistant Pro for automated Yellow Ribbon management. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master Yellow Ribbon Program administration with our comprehensive guide. Learn advanced techniques, eligibility criteria, budget impact, and more. Explore VASCO Assistant Pro for streamlined management. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Budget Impact Analysis,' as it could benefit from a more concise headline to better match the concise nature of the other steps."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T21:59:08.919Z"
+}
