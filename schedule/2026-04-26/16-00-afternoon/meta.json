@@ -1,0 +1,116 @@
+{
+  "runId": "2026-04-26-afternoon-d5b70d2b",
+  "date": "2026-04-26",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Turning a denial letter into a fast appeal",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO: Turning a Denial into an Appeal",
+        "headline": "Quick Steps to Appeal a Denial",
+        "body": "Learn how to transform a denial letter into a strong appeal with these steps and timelines.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5: Gather Your Materials",
+        "headline": "Gather All Necessary Documentation",
+        "body": "Collect all documents related to your appeal, including the denial letter, your certificate of eligibility (COE), and any supporting documentation.",
+        "bullets": [
+          "COE: VA Form 22-1999",
+          "Denial letter",
+          "Supporting documentation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5: Review Your Appeal Letter",
+        "headline": "Craft a Strong Appeal Letter",
+        "body": "Write a clear and concise appeal letter, explaining why the denial is incorrect and what evidence you have.",
+        "bullets": [
+          "Clear and concise explanation",
+          "Include all relevant evidence",
+          "Follow appeal letter format"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5: Timelines",
+        "headline": "Know Your Timelines",
+        "body": "Understand the appeal timeline for your situation. Appeals must be filed within 30 days of receiving the denial.",
+        "bullets": [
+          "30-day appeal window",
+          "Check your SAA letter for specific timelines",
+          "File your appeal promptly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5: Submit Your Appeal",
+        "headline": "Submit Your Appeal",
+        "body": "Submit your appeal letter and all necessary documents to the State Approving Agency (SAA). Ensure everything is in order.",
+        "bullets": [
+          "Submit to SAA",
+          "Check SAA's requirements",
+          "Ensure all documents are complete"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5: Follow Up",
+        "headline": "Keep Track of Your Appeal",
+        "body": "Stay informed about the status of your appeal. Check the SAA’s website or call them for updates.",
+        "bullets": [
+          "Monitor SAA’s website",
+          "Call SAA for updates",
+          "Stay informed about status"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about appeal timelines and other compliance matters. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transform a denial letter into a strong appeal with these quick steps and timelines. Follow these exact steps to ensure your appeal is successful. Learn more about appeal timelines and other compliance matters.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#AppealLetter",
+      "#DenialLetter",
+      "#AppealTimelines",
+      "#StateApprovingAgency",
+      "#CertificateOfEligibility",
+      "#SupportingDocumentation",
+      "#AppealSubmission",
+      "#FollowUp",
+      "#AppealProcess",
+      "#StudentVeterans",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which lacks a clear takeaway and feels like an afterthought."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T21:52:04.997Z"
+}
