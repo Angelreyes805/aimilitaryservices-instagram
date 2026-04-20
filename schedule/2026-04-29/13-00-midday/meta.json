@@ -1,0 +1,127 @@
+{
+  "runId": "2026-04-29-midday-33626dde",
+  "date": "2026-04-29",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "avoiding-overpayment-debt",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Avoid Overpayment Debt",
+        "body": "Maximize student success by preventing and addressing VA overpayments.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Overpayment Risks",
+        "body": "Identify potential overpayment triggers in your COE.",
+        "bullets": [
+          "Review 22-1999 forms",
+          "Identify common errors"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Regular Review Cycles",
+        "body": "Implement a monthly review of student accounts.",
+        "bullets": [
+          "Identify trends early",
+          "Adjust funding plans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Communicate Clearly",
+        "body": "Maintain open lines of communication with students.",
+        "bullets": [
+          "Explain overpayment policies",
+          "Offer support resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Mitigate Circumstances",
+        "body": "Support students facing mitigating circumstances.",
+        "bullets": [
+          "Offer financial counseling",
+          "Explore Chapter 33 benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document Everything",
+        "body": "Maintain thorough documentation of overpayment resolution.",
+        "bullets": [
+          "Keep detailed records",
+          "Submit timely reports"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more and sign up for pre-launch updates.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd",
+          "#COE",
+          "#MHA",
+          "#8515",
+          "#EducationAssistance"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Maximize student success by preventing and addressing VA overpayments. Learn proactive strategies, regular review cycles, clear communication, and more. Sign up for pre-launch updates: Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#COE",
+      "#MHA",
+      "#8515",
+      "#EducationAssistance",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Communicate Clearly,' as it could benefit from a more concise headline to better align with the other steps."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T22:26:34.195Z"
+}
