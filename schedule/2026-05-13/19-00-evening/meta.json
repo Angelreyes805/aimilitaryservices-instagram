@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-13-evening-4183465f",
+  "date": "2026-05-13",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:What your Enrollment Manager is actually telling you",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Understand Enrollment Manager Signals",
+        "body": "Learn to interpret what your Enrollment Manager is actually telling you.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Common Phrases",
+        "body": "Recognize common phrases used by Enrollment Managers to indicate changes in enrollment status.",
+        "bullets": [
+          "Listen for phrases like 'increased enrollment'",
+          "Notice when they mention 'additional students'"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand Thresholds",
+        "body": "Be aware of specific enrollment thresholds and how they might trigger conversations.",
+        "bullets": [
+          "Understand the 85/15 rule",
+          "Be mindful of the COE threshold"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Act on Time",
+        "body": "Act quickly on Enrollment Manager notifications to ensure timely compliance.",
+        "bullets": [
+          "Respond to their requests within 24 hours",
+          "Follow up on all notifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document Actions",
+        "body": "Document any actions taken on Enrollment Manager communications for tracking and reference.",
+        "bullets": [
+          "Keep a record of all responses",
+          "Update your system with new information"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Adjust",
+        "body": "Regularly review and adjust your processes based on ongoing communication with Enrollment Managers.",
+        "bullets": [
+          "Schedule regular meetings",
+          "Keep lines of communication open"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Discover more tips on reading Enrollment Manager signals. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn to interpret what your Enrollment Manager is actually telling you. Identify common phrases, understand thresholds, act on time, document actions, and review and adjust your processes. Discover more tips on reading Enrollment Manager signals. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3 'Act on Time', as it could benefit from a more compelling bullet point to make the takeaway more impactful."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T19:49:39.583Z"
+}
