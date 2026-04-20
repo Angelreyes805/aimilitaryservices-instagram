@@ -1,0 +1,114 @@
+{
+  "runId": "2026-05-10-evening-f21cc92b",
+  "date": "2026-05-10",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Knowing when to hand off to the VA directly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO's Workflow Tip",
+        "headline": "Hand off to VA: When to Start",
+        "body": "Learn when to transition tasks to the VA.",
+        "bullets": [
+          "Understand your scope of duties",
+          "Identify critical COE decisions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your Scope",
+        "body": "Know when your tasks end and the VA's begin.",
+        "bullets": [
+          "Review the 85/15 rule",
+          "Identify tasks requiring COE"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Identify Critical Decisions",
+        "body": "When to hand off requires clear, critical decisions.",
+        "bullets": [
+          "Chapter 33 COE decisions",
+          "VA Form 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review VA Guidance",
+        "body": "Refer to VA regulations for clarity on when to hand off.",
+        "bullets": [
+          "VA regulations on COE",
+          "Chapter 33 forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document Hand-Offs",
+        "body": "Keep a record of when and why tasks were handed off.",
+        "bullets": [
+          "Use VA form 22-1999",
+          "Maintain COE documentation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed",
+        "body": "Regularly update on VA policies to maintain knowledge.",
+        "bullets": [
+          "Monitor VA announcements",
+          "Review new regulations"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Explore more tips for VASCO workflow. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn when to hand off tasks to the VA with these five steps. Improve your workflow and ensure critical decisions are made correctly.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Review VA Guidance,' as it could benefit from a more concise headline to better match the content."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T19:14:11.005Z"
+}
