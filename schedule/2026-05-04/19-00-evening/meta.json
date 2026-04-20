@@ -1,0 +1,121 @@
+{
+  "runId": "2026-05-04-evening-07be282a",
+  "date": "2026-05-04",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:A weekly ritual that catches compliance drift",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Catch Compliance Drift",
+        "body": "Stay ahead of compliance issues with a 15-minute weekly ritual.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Weekly Review",
+        "body": "Start each Friday with a quick review of the week's COE actions.",
+        "bullets": [
+          "Verify all recent COE entries.",
+          "Check for any discrepancies or errors."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Form 22-1999",
+        "body": "Ensure all students are enrolled according to Form 22-1999.",
+        "bullets": [
+          "Compare student enrollments with Form 22-1999.",
+          "Look for any discrepancies between enrollment and eligibility."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Check",
+        "body": "Conduct a thorough check for compliance with Chapter 33 regulations.",
+        "bullets": [
+          "Verify the correct application of Chapter 33 rules.",
+          "Look for any non-compliance issues."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Chapter 33",
+        "body": "Stay updated on the latest Chapter 33 updates and changes.",
+        "bullets": [
+          "Check for any new Chapter 33 requirements.",
+          "Review any recent SAA letters or memos."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Communication",
+        "body": "Communicate with students and staff about compliance issues.",
+        "bullets": [
+          "Inform students of any compliance issues.",
+          "Educate staff on compliance procedures."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start your 15-minute weekly ritual today. #VASCO #ComplianceMatters",
+        "hashtags": [
+          "#VASCO",
+          "#ComplianceMatters",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#YellowRibbon",
+          "#VeteranEducation",
+          "#HigherEd",
+          "#VAEducation"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Stay ahead of compliance issues with a 15-minute weekly ritual. Start by verifying COE entries, checking Form 22-1999, and ensuring Chapter 33 compliance. Communicate with students and staff about any compliance issues. Start your ritual today.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#YellowRibbon",
+      "#VeteranEducation",
+      "#HigherEd",
+      "#VAEducation",
+      "#GIBill",
+      "#StudentVeterans",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Weekly Review' slide could benefit from a more concise headline to improve readability and maintain the clean aesthetic."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T23:37:34.310Z"
+}

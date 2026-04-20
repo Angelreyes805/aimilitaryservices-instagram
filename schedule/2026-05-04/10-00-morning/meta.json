@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-04-morning-0d2cc66c",
+  "date": "2026-05-04",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "yellow-ribbon-best-practices",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master Yellow Ribbon Administration",
+        "body": "Learn best practices for tracking, calculating, and certifying YRP benefits.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand YRP Eligibility",
+        "body": "Identify students who qualify for Yellow Ribbon benefits.",
+        "bullets": [
+          "Review eligibility criteria",
+          "Check student veteran status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Track YRP Applications",
+        "body": "Maintain accurate records of YRP applications.",
+        "bullets": [
+          "Record application dates",
+          "Document student responses"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Calculate YRP Benefits",
+        "body": "Determine the amount of Yellow Ribbon benefits a student qualifies for.",
+        "bullets": [
+          "Refer to current YRP guidelines",
+          "Use YRP benefit calculator"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Certify YRP Benefits",
+        "body": "Submit Yellow Ribbon benefits to the VA for approval.",
+        "bullets": [
+          "Verify student eligibility",
+          "Submit COE with YRP benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor and Update",
+        "body": "Keep track of YRP benefits and update records as necessary.",
+        "bullets": [
+          "Monitor benefit status",
+          "Update records regularly"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about YRP best practices and automate your workflow. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master Yellow Ribbon administration with these best practices. Learn how to track, calculate, and certify YRP benefits for student veterans. Link in bio to start automating your workflow and mastering YRP administration.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, as it could benefit from a more concise headline to match the other steps."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T23:21:01.221Z"
+}

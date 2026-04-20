@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-04-midday-72ffe591",
+  "date": "2026-05-04",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "certification-errors-recovery",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Recovery from Certification Errors",
+        "headline": "Navigate VA School Certifications",
+        "body": "Learn strategies to identify, correct, and prevent errors in Chapter 33 certifications.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the Error",
+        "body": "Understand the specific errors that can occur in Chapter 33 certifications.",
+        "bullets": [
+          "Review SAA letters for common issues",
+          "Check 85/15 compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Correct the Error",
+        "body": "Learn how to correct errors and restore compliance.",
+        "bullets": [
+          "Refer to the relevant VA guidance",
+          "Ensure all required documentation is complete"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Communicate Effectively",
+        "body": "Discover strategies to communicate errors and corrections to students and schools.",
+        "bullets": [
+          "Use clear, concise language",
+          "Follow up with timely notifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Prevent Future Errors",
+        "body": "Implement proactive measures to prevent future certification errors.",
+        "bullets": [
+          "Stay updated on new regulations",
+          "Implement a regular review process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Compliant",
+        "body": "Maintain compliance and avoid future errors with regular check-ins and training.",
+        "bullets": [
+          "Schedule regular compliance audits",
+          "Encourage ongoing staff training"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Join our waitlist to learn more and access resources.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Recover from certification errors with these strategies from the experts. Learn to identify, correct, and prevent errors in Chapter 33 certifications. Join our waitlist for more insights and tools.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#Chapter33",
+      "#VeteranEducation",
+      "#SchoolCertifyingOfficial",
+      "#CertificationErrors",
+      "#EducationRecovery",
+      "#CertificationProblems",
+      "#VAEducation",
+      "#HigherEd",
+      "#VAForms",
+      "#CertificationTools",
+      "#EducationTips",
+      "#VACompliance",
+      "#EducationRecoveryStrategies",
+      "#EducationErrors",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Communicate Effectively,' as it could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T23:24:34.481Z"
+}
