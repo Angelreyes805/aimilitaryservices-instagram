@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-21-morning-9d1f57a5",
+  "date": "2026-04-21",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "first-90-days-vasco",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Unlock success in the first 90 days",
+        "body": "Start strong with our VASCO success plan.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the VA framework",
+        "body": "Master the key policies and programs to ensure compliance.",
+        "bullets": [
+          "Learn Chapter 33, Yellow Ribbon Program",
+          "Understand 22-1999 form requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Build key relationships",
+        "body": "Network with VA officials to get support and stay informed.",
+        "bullets": [
+          "Attend training sessions with VASCOs",
+          "Establish regular communication with your SAA"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Train staff on VA policies",
+        "body": "Ensure your team is up-to-date on VA rules.",
+        "bullets": [
+          "Conduct regular training sessions",
+          "Distribute training materials"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Identify and solve issues early",
+        "body": "Recognize and address potential compliance issues promptly.",
+        "bullets": [
+          "Review student COEs",
+          "Check for compliance with 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Achieve quick wins",
+        "body": "Implement strategies to improve your VASCO performance.",
+        "bullets": [
+          "Implement a COE tracking system",
+          "Streamline 22-1999 form processing"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about our VASCO success plan. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Start strong with our VASCO success plan. Understand the VA framework, build key relationships, train staff, identify and solve issues early, and achieve quick wins. Learn more: https://aimilitaryservices.com/blog/first-90-days-vasco",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VASCOAssistantPro",
+      "#VA",
+      "#Education",
+      "#CertifyingOfficial",
+      "#SuccessPlan",
+      "#Training",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Achieve quick wins,' which could benefit from a more concise takeaway or a visual element to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T20:42:05.835Z"
+}
