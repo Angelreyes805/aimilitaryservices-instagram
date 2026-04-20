@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-11-afternoon-194b4ef7",
+  "date": "2026-05-11",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to explain monthly housing allowance in one minute",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "How to Explain Monthly Housing Allowance",
+        "body": "Understand and communicate this key benefit to your students.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Eligibility",
+        "body": "Check if your student qualifies for Chapter 33 benefits.",
+        "bullets": [
+          "Verify eligibility with VA Form 22-1999",
+          "Refer to the latest SAA letter or guidance",
+          "Compare to Chapter 33 eligibility criteria"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Determine Allowance Amount",
+        "body": "Calculate the monthly housing allowance based on the student's state.",
+        "bullets": [
+          "Use VA Form 22-1999 to find state-specific amounts",
+          "Refer to the current Housing Allowance Table",
+          "Calculate according to 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review Documentation",
+        "body": "Ensure all required documents are on file.",
+        "bullets": [
+          "Check VA Form 22-1999 and supporting documents",
+          "Verify eligibility and housing allowance with SAA",
+          "Cross-reference with the student’s records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate Clearly",
+        "body": "Explain the process and the amount to the student.",
+        "bullets": [
+          "Use simple language and clear terms",
+          "Refer to the student’s Certificate of Eligibility",
+          "Explain the impact of the allowance on their financial aid"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Answer Questions",
+        "body": "Be prepared to answer any questions about the allowance.",
+        "bullets": [
+          "Know the frequently asked questions",
+          "Refer to the relevant VA guidance",
+          "Offer additional resources or support"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Master this topic with our comprehensive guide. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Understand and explain the monthly housing allowance to your students in one minute. Check out our guide for more tips and resources.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#Chapter33",
+      "#StudentVeterans",
+      "#HigherEd",
+      "#ComplianceMatters",
+      "#VAEducation",
+      "#EducationTips",
+      "#VASchoolCertifyingOfficial",
+      "#MonthlyHousingAllowance",
+      "#EducationSupport",
+      "#VAPrograms",
+      "#VAForms",
+      "#Chapter33Eligibility",
+      "#VAEducationBenefits",
+      "#EducationResources",
+      "#VeteranEducation"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3 of 5, 'Review Documentation,' as it could benefit from a more concise list of bullet points to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T19:23:09.113Z"
+}
