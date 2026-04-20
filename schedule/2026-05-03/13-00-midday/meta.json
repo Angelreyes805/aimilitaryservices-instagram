@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-03-midday-cbf61828",
+  "date": "2026-05-03",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "compliance-survey-preparation",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Compliance Surveys: Your Guide to Success",
+        "body": "Prepare for VA compliance surveys with our step-by-step guide.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Gather all relevant documentation",
+        "body": "Ensure you have all necessary documents ready for review.",
+        "bullets": [
+          "COE certificates",
+          "Chapter 33 forms",
+          "Student records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Verify eligibility",
+        "body": "Check if your students meet eligibility criteria for VA benefits.",
+        "bullets": [
+          "Chapter 33",
+          "Post-9/11 GI Bill",
+          "85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review your SAA letters",
+        "body": "Ensure you have the latest SAA letters for your institution.",
+        "bullets": [
+          "Compliance guidance",
+          "SAA requirements",
+          "Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Prepare your response",
+        "body": "Compile a comprehensive response to any questions asked.",
+        "bullets": [
+          "Compliance plan",
+          "Student support",
+          "Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit your survey",
+        "body": "Follow the submission process to avoid delays.",
+        "bullets": [
+          "30-day deadline",
+          "Link in bio",
+          "Chapter 33"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start preparing now! Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Prepare for VA compliance surveys with our step-by-step guide. Ensure you gather all relevant documentation, verify eligibility, review SAA letters, and prepare a comprehensive response. Follow the submission process to avoid delays. Start preparing now!",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#VAEducation",
+      "#HigherEd",
+      "#YellowRibbon",
+      "#StudentVeterans",
+      "#Education",
+      "#EducationPrograms",
+      "#EducationBenefits",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#EducationSystem",
+      "#EducationReform",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1 of 5, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T17:41:07.578Z"
+}
