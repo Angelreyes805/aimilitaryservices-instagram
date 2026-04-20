@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-01-evening-8e2eeaf9",
+  "date": "2026-05-01",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:A handoff checklist for when you are on leave",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Maximize Your Leave Handoff",
+        "body": "Stay organized and ensure your office runs smoothly.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Gather Your Files",
+        "body": "Collect all necessary documents and updates for your absence.",
+        "bullets": [
+          "Review all pending tasks",
+          "Update your COE",
+          "Check 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Communicate Clearly",
+        "body": "Inform your backup of your responsibilities and any changes.",
+        "bullets": [
+          "Schedule a meeting",
+          "Send a detailed email",
+          "Update your COE"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Establish a Timeline",
+        "body": "Outline your return date and key deadlines.",
+        "bullets": [
+          "Set a clear end date",
+          "List all upcoming deadlines",
+          "Communicate this timeline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Update Your Records",
+        "body": "Keep your absence and return details in your records.",
+        "bullets": [
+          "Update your COE",
+          "Notify your SAA",
+          "Update your 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "Check in with your backup and make sure everything is in order.",
+        "bullets": [
+          "Schedule a follow-up meeting",
+          "Review all tasks completed",
+          "Ensure all records are up to date"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Ready to create your handoff checklist? Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn how to hand off responsibilities smoothly when you're on leave.",
+    "hashtags": [
+      "#VASCO",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#GIBill",
+      "#StudentVeterans",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEd",
+      "#HigherEducation",
+      "#VAEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Establish a Timeline,' as the text is a bit dense and could benefit from some spacing to improve readability."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T22:50:44.805Z"
+}
