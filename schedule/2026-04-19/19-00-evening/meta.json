@@ -1,79 +1,77 @@
 {
-  "runId": "2026-04-19-evening-3689ad6c",
+  "runId": "2026-04-19-evening-70caa451",
   "date": "2026-04-19",
   "slot": "evening",
   "source": "llm",
-  "sourceRef": "tip:Handling a late-term credit change cleanly",
+  "sourceRef": "tip:How to name files so your audit self thanks you",
   "outline": {
     "slides": [
       {
         "kind": "cover",
-        "eyebrow": "For VA School Certifying Officials",
-        "headline": "Clean Up Late-Term Credit Changes",
-        "body": "Ensure compliance when a student drops after certification.",
+        "eyebrow": "How to name files",
+        "headline": "Maximize audit readiness",
+        "body": "Keep your VA school files organized for future audits.",
         "bullets": []
       },
       {
         "kind": "content",
-        "eyebrow": "Step 1 of 5",
-        "headline": "Review Course Eligibility",
-        "body": "Check if the student's course is eligible for VA education benefits.",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Use the format",
+        "body": "Always use the same three tokens: [Year]-[Month]-[Day]",
         "bullets": [
-          "Verify course meets eligibility criteria",
-          "Refer to 22-1999 or 34 CFR Part 210"
+          "Example: 2023-04-15",
+          "Consistent format ensures clarity"
         ]
       },
       {
         "kind": "content",
-        "eyebrow": "Step 2 of 5",
-        "headline": "Determine Credit Status",
-        "body": "Identify the credit status and the term in which the student dropped.",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Include key information",
+        "body": "Add relevant details: [Student ID]-[Course Code]-[Document Type]",
         "bullets": [
-          "Refer to Chapter 33, § 301.21",
-          "Consult with the student's academic advisor"
+          "Example: 12345-MATH101-Assignment",
+          "Every file tells a story"
         ]
       },
       {
         "kind": "content",
-        "eyebrow": "Step 3 of 5",
-        "headline": "Document Reasons",
-        "body": "Record the reason for the student's withdrawal and any relevant details.",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Review and adjust",
+        "body": "Regularly check and update your file naming convention.",
         "bullets": [
-          "Use the VA's official form: VA Form 22-1999",
-          "Refer to 38 CFR § 16.160"
+          "Example: Bi-annual review",
+          "Stay aligned with evolving standards"
         ]
       },
       {
         "kind": "content",
-        "eyebrow": "Step 4 of 5",
-        "headline": "Submit Documentation",
-        "body": "Submit the documented reasons to the VA for review.",
+        "eyebrow": "Common phrase",
+        "headline": "Your audit will thank you",
+        "body": "Files named correctly make audits smoother and more efficient.",
         "bullets": [
-          "Follow 38 CFR § 16.161 instructions",
-          "Ensure all forms are signed and dated"
+          "Example: 'Ensure all student records are correctly labeled'",
+          "Aid in timely compliance"
         ]
       },
       {
         "kind": "content",
-        "eyebrow": "Step 5 of 5",
-        "headline": "Monitor Decision",
-        "body": "Wait for VA's decision on your request and update the student's record accordingly.",
+        "eyebrow": "Compliance",
+        "headline": "Maintain compliance",
+        "body": "Regularly reviewing and adjusting your file naming helps with ongoing compliance.",
         "bullets": [
-          "Monitor the VA's processing time",
-          "Refer to 38 CFR § 16.162"
+          "Example: 85/15 rule",
+          "Compliance is a journey, not a destination"
         ]
       },
       {
         "kind": "cta",
         "eyebrow": "Next step",
-        "body": "Continue learning with VASCO Assistant Pro.",
-        "bullets": [
-          "Link in bio"
-        ],
+        "body": "Start now: Begin implementing your new file naming convention today.",
+        "bullets": [],
         "headline": "Read the full post"
       }
     ],
-    "caption": "Master the two-step recovery when a student drops after certification. Review course eligibility, determine credit status, document reasons, submit documentation, and monitor the VA's decision. Stay compliant with VA education benefits. Link in bio for more tips.",
+    "caption": "Maximize audit readiness by following these three simple steps: [Year]-[Month]-[Day] format, include key information, and review regularly. Your audit self will thank you.",
     "hashtags": [
       "#VASCO",
       "#GIBill",
@@ -85,29 +83,29 @@
       "#YellowRibbon",
       "#VAEducation",
       "#HigherEd",
-      "#VeteranSupport",
-      "#VeteranBenefits",
-      "#MilitaryEducation",
-      "#HigherEducation",
-      "#PostNineEleven",
-      "#VeteranCommunity",
-      "#MilitaryTransition"
+      "#FileNaming",
+      "#AuditPreparation",
+      "#DocumentOrganization",
+      "#FileManagement",
+      "#VACompliance",
+      "#FileSystem",
+      "#VeteranSupport"
     ]
   },
-  "rubricScore": 9.3,
+  "rubricScore": 9.1,
   "rubricBreakdown": {
     "readability": 9,
     "noOverflow": 10,
-    "hierarchy": 9,
+    "hierarchy": 8,
     "brand": 9,
     "singleTakeaway": 9,
-    "narrative": 9,
+    "narrative": 8,
     "contrast": 10,
     "constraints": 10,
     "caption": 9,
     "polish": 9,
-    "critique": "The weakest slide is Step 3, as it could benefit from a more concise headline to better capture the essence of the process."
+    "critique": "The weakest slide is the first one, as it could benefit from a more compelling hook to engage the audience."
   },
   "attempt": 1,
-  "generatedAt": "2026-04-20T00:27:15.471Z"
+  "generatedAt": "2026-04-20T00:31:59.725Z"
 }
