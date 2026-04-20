@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-28-midday-8e9ab335",
+  "date": "2026-04-28",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "supporting-vre-students",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Support VR&E Students",
+        "body": "Master the Chapter 31 VR&E process for veteran students.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the VR&E Process",
+        "body": "Learn about the Chapter 31 VR&E program and its purpose.",
+        "bullets": [
+          "VR&E assists students in accessing educational benefits.",
+          "Understand the role of Vocational Rehabilitation Counselors (VRC)."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Coordinate with VRCs",
+        "body": "Collaborate with VRCs to ensure students receive appropriate benefits.",
+        "bullets": [
+          "Communicate with VRCs to understand student needs.",
+          "Facilitate the referral process to the appropriate VA office."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Complete Necessary Forms",
+        "body": "Submit required Chapter 31 forms accurately and in a timely manner.",
+        "bullets": [
+          "Complete VA Form 22-1999 accurately.",
+          "Submit forms within the 60-day timeframe."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Monitor Student Progress",
+        "body": "Regularly check in with students to ensure they are staying on track.",
+        "bullets": [
+          "Communicate with students about their progress.",
+          "Report any issues or concerns to the VRC."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed",
+        "body": "Stay updated on VA updates and changes to the VR&E program.",
+        "bullets": [
+          "Read relevant VA guidance documents.",
+          "Attend VRC trainings and webinars."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Continue learning with our comprehensive guide. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the Chapter 31 VR&E process for veteran students. Ensure students receive the appropriate benefits by coordinating with Vocational Rehabilitation Counselors (VRCs) and staying informed. Link in bio for the complete guide.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Complete Necessary Forms', as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T22:14:49.029Z"
+}

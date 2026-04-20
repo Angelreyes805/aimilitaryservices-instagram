@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-28-evening-270c455d",
+  "date": "2026-04-28",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Reading a student file in under three minutes",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO Tip: Reading Student Files",
+        "headline": "Master in 3 Minutes",
+        "body": "Easily navigate student files with our proven scan pattern.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Eligibility Check",
+        "body": "Verify student eligibility for VA education benefits.",
+        "bullets": [
+          "Review VA Form 22-1999",
+          "Cross-reference with Chapter 33 regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Remaining Benefits",
+        "body": "Identify remaining benefits for the student.",
+        "bullets": [
+          "Use the 85/15 rule",
+          "Consult SAP plan"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Holds and Delays",
+        "body": "Identify any holds or delays in the student's certification.",
+        "bullets": [
+          "Review Chapter 35 forms",
+          "Check for 22-1999 section 2"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Last Certification",
+        "body": "Confirm the latest certification for the student.",
+        "bullets": [
+          "Refer to the last COE issued",
+          "Check for any new 22-1999 forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Confirm",
+        "body": "Quickly review all sections and confirm the student's eligibility.",
+        "bullets": [
+          "Refer to the relevant VA guidance",
+          "Ensure all forms are up-to-date"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next Step",
+        "body": "Watch the full tutorial and download the template. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the art of reading student files in under three minutes with our proven scan pattern. Eligibility, remaining benefits, holds, and last certification ,  all in one swift look. Watch the full tutorial and download the template.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Last Certification' as it could benefit from a more concise headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T22:22:03.473Z"
+}

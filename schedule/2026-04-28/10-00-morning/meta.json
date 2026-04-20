@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-28-morning-f7e9e11b",
+  "date": "2026-04-28",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "clock-hour-vs-credit-hour",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Clock Hour vs. Credit Hour",
+        "headline": "Convert clock to credit hours with ease",
+        "body": "Understand the nuances of clock hour to credit hour conversions and how they impact VA reporting for tech schools.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the conversion formula",
+        "body": "Learn the standard formula: credit hours = clock hours / 1.75. Example: 20 clock hours = 20 / 1.75 = 11.43 credit hours.",
+        "bullets": [
+          "Apply the formula: credit hours = clock hours / 1.75",
+          "Round to nearest whole number"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Account for rounding",
+        "body": "VA requires rounding to the nearest whole number. Example: 11.43 rounds up to 12 credit hours.",
+        "bullets": [
+          "Round up to nearest whole number",
+          "Example: 11.43 rounds up to 12"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "VA reporting requirements",
+        "body": "VA requires courses to be listed as credit hours, not clock hours. Ensure all courses are reported as credit hours for compliance.",
+        "bullets": [
+          "Report courses in credit hours",
+          "Compliance with VA reporting rules"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Common pitfalls",
+        "body": "Misinterpreting the conversion formula can lead to discrepancies. Always double-check calculations and rounding.",
+        "bullets": [
+          "Misinterpreting the formula can cause errors",
+          "Double-check all calculations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay compliant",
+        "body": "Ensure all clock hour courses are accurately converted to credit hours and reported to the VA. Avoid potential penalties.",
+        "bullets": [
+          "Accurate conversion and reporting",
+          "Avoid potential VA penalties"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about clock hour to credit hour conversions and VA reporting requirements. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Navigate the clock hour to credit hour conversion maze with clarity and ease. Understand the formula, avoid common pitfalls, and ensure VA compliance. Learn more: Link in bio.",
+    "hashtags": [
+      "#ClockHourToCreditHour",
+      "#VAReporting",
+      "#TechSchools",
+      "#ConversionFormula",
+      "#VACompliance",
+      "#EducationConversion",
+      "#EducationTips",
+      "#VeteranEducation",
+      "#GIBill",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#HigherEd",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#VASCO",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T22:03:06.545Z"
+}

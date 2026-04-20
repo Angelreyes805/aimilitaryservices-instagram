@@ -1,0 +1,126 @@
+{
+  "runId": "2026-04-28-afternoon-5f13672b",
+  "date": "2026-04-28",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Three questions to ask before certifying a non-standard term",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Three Questions Before Certifying Non-Standard Terms",
+        "body": "Master summer session certifications with precision.",
+        "bullets": [
+          "Ensure all terms align with Chapter 33",
+          "Review form 22-1999 thoroughly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Verify Eligibility",
+        "body": "Check if the student qualifies for Chapter 33.",
+        "bullets": [
+          "Review the student’s VA form 22-1999",
+          "Confirm the student’s eligibility based on the form"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Check Summer Sessions",
+        "body": "Ensure the term matches the summer session.",
+        "bullets": [
+          "Verify the term is a summer session",
+          "Refer to your state’s summer session guidelines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Review COE",
+        "body": "Examine the student’s Certificate of Eligibility.",
+        "bullets": [
+          "Check if the term aligns with the student’s COE",
+          "Refer to the student’s 85/15 rule eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 3",
+        "headline": "Cross-Reference",
+        "body": "Double-check with your State Approving Agency (SAA) letter.",
+        "bullets": [
+          "Consult your SAA letter for guidance",
+          "Confirm any special rules or exceptions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 3",
+        "headline": "Stay Updated",
+        "body": "Stay informed about the latest Chapter 33 updates.",
+        "bullets": [
+          "Monitor VA’s official announcements",
+          "Refer to the relevant VA guidance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next Step",
+        "body": "Explore more tips for VASCOs. Link in bio.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Master the art of certifying non-standard terms with these three crucial questions. Don’t miss out on subtle mistakes in summer sessions. Explore more tips for VASCOs. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which lacks a clear takeaway and feels like an afterthought."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T22:18:27.050Z"
+}
