@@ -1,0 +1,113 @@
+{
+  "runId": "2026-04-26-morning-afd3613a",
+  "date": "2026-04-26",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "document-management-systems",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Document Management Systems",
+        "headline": "From Chaos to Control",
+        "body": "Transform your document chaos into an organized digital system. Learn system selection criteria and implementation strategies.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Document Types",
+        "body": "Identify the types of documents you need to manage.",
+        "bullets": [
+          "COE",
+          "22-1999",
+          "SAA letters"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Storage Needs",
+        "body": "Determine the storage capacity and access requirements.",
+        "bullets": [
+          "Chapter 33",
+          "Chapter 35",
+          "Post-9/11 GI Bill"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Security Measures",
+        "body": "Ensure the system meets your security and privacy needs.",
+        "bullets": [
+          "85/15 rule",
+          "VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "User Interface",
+        "body": "Choose a system with a user-friendly interface.",
+        "bullets": [
+          "VA education",
+          "student veterans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Implementation Plan",
+        "body": "Develop a clear implementation plan.",
+        "bullets": [
+          "COE",
+          "MHA"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about document management systems. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transform your document chaos into an organized digital system. Learn system selection criteria and implementation strategies.",
+    "hashtags": [
+      "#DocumentManagement",
+      "#DigitalTransformation",
+      "#VAEducation",
+      "#VeteranEducation",
+      "#SchoolCertifyingOfficial",
+      "#COE",
+      "#221999",
+      "#SAAletters",
+      "#Chapter33",
+      "#Chapter35",
+      "#Post911GIBill",
+      "#8515rule",
+      "#VAguidance",
+      "#UserInterface",
+      "#ImplementationPlan",
+      "#VASCO",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which lacks a clear takeaway and could benefit from a more concise message to enhance user engagement."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T16:03:53.392Z"
+}

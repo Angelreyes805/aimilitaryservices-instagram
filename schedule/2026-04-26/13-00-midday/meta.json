@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-26-midday-d3ce4ae1",
+  "date": "2026-04-26",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "benchmarking-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Benchmarking Your VASCO Office",
+        "headline": "Metrics for Excellence",
+        "body": "Unlock your VASCO office’s true potential with these benchmarking strategies.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Collect Data",
+        "body": "Start by gathering data on key metrics like student enrollment, certification rates, and compliance.",
+        "bullets": [
+          "Track COE and 22-1999 issuance",
+          "Monitor Chapter 33 certifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Identify Benchmarks",
+        "body": "Compare your metrics with those of peer institutions and the national average.",
+        "bullets": [
+          "Refer to the relevant VA guidance for benchmarks",
+          "Use 85/15 rule as a baseline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Analyze Gaps",
+        "body": "Determine areas where your office lags behind and identify root causes.",
+        "bullets": [
+          "Use gap analysis tools",
+          "Review SAA letters for insights"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Set Improvement Plans",
+        "body": "Develop targeted strategies to close gaps and improve overall performance.",
+        "bullets": [
+          "Focus on areas of need",
+          "Implement 22-1999 optimization"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Progress",
+        "body": "Regularly review metrics to ensure improvements and make adjustments as needed.",
+        "bullets": [
+          "Set up tracking dashboards",
+          "Stay updated on VA guidance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Discover how VASCO Assistant Pro can help you benchmark and improve. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Benchmark your VASCO office with these five steps. Track key metrics, identify gaps, and set improvement plans.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The 'Read the full post' section at the bottom could be more visually distinct to draw more attention to the call to action."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T16:07:20.139Z"
+}

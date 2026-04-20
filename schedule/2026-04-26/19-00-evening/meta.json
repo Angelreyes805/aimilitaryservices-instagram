@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-26-evening-b5a78d11",
+  "date": "2026-04-26",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Preparing for a chapter change mid-career",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Prepare for a Chapter Change",
+        "headline": "Master the Transition Playbook",
+        "body": "Stay ahead of your student's educational journey with our expert advice.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the Chapter",
+        "body": "Understand the new chapter to ensure eligibility.",
+        "bullets": [
+          "Review the student's current chapter",
+          "Check eligibility requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Necessary Documents",
+        "body": "Collect all required documentation to apply.",
+        "bullets": [
+          "VA Form 22-1999",
+          "COE from current chapter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "File the Application",
+        "body": "Submit the application to the new chapter.",
+        "bullets": [
+          "Complete VA Form 22-1999",
+          "Submit within the deadline"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate with the Student",
+        "body": "Keep your student informed of the process.",
+        "bullets": [
+          "Discuss the transition",
+          "Answer any questions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Compliance",
+        "body": "Stay updated on the new chapter's rules and requirements.",
+        "bullets": [
+          "Review SAA letters",
+          "Stay informed on compliance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about preparing for a chapter change at aimilitaryservices.com.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transition smoothly with our step-by-step guide for preparing for a chapter change mid-career. Stay ahead of your student's educational journey with our expert advice. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Monitor Compliance,' as it could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T16:13:35.745Z"
+}
