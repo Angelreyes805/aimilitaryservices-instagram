@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-25-evening-b3da2b28",
+  "date": "2026-04-25",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:The first mistake new VASCOs usually make",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Avoid the First Mistake",
+        "body": "New VASCOs often rush through the first ten certifications.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Slow Down",
+        "body": "Take your time on the first ten certifications.",
+        "bullets": [
+          "Start with a thorough review of VA forms and regulations.",
+          "Focus on understanding the unique requirements of each certification."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand Your Forms",
+        "body": "Accurate completion is key to avoiding errors.",
+        "bullets": [
+          "Refer to the VA's 'VA Form 22-1999' for instructions.",
+          "Check your work against the 'Certification of Eligibility' (COE)."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance Matters",
+        "body": "Stay informed about the latest VA regulations.",
+        "bullets": [
+          "Follow the 'Yellow Ribbon Program' rules.",
+          "Review your chapter's rules for specific compliance."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Don't Rush",
+        "body": "Quality over quantity in the first ten certifications.",
+        "bullets": [
+          "Take breaks to avoid burnout.",
+          "Ensure each certification is accurate before moving on."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Speed Comes Later",
+        "body": "Once you're comfortable, speed will naturally come.",
+        "bullets": [
+          "Practice makes perfect.",
+          "Stay consistent with quality and speed."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about navigating VA certifications smoothly.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Avoid the first mistake new VASCOs make: rushing through the first ten certifications. Slow down, understand your forms, and focus on compliance. Quality over quantity, and speed will come with practice.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Compliance Matters,' as it could benefit from a more specific call to action or a clearer takeaway."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T21:45:40.759Z"
+}

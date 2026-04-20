@@ -1,0 +1,120 @@
+{
+  "runId": "2026-04-25-morning-b794a56a",
+  "date": "2026-04-25",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "benchmarking-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Track Your VASCO Office’s Excellence",
+        "body": "Benchmark your VASCO office using peer comparisons and gap analysis.",
+        "bullets": [
+          "Compare with similar offices",
+          "Identify areas for improvement",
+          "Plan strategies for enhancement"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Key Metrics",
+        "body": "Define essential metrics for your VASCO office performance.",
+        "bullets": [
+          "Use the current VA guidance",
+          "Consult your SAA letter",
+          "Choose metrics related to compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Peer Data",
+        "body": "Collect data from peer VASCO offices for comparison.",
+        "bullets": [
+          "Utilize online platforms",
+          "Request data from similar offices",
+          "Engage in professional networks"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Analyze Results",
+        "body": "Compare your office's performance against peers to identify gaps.",
+        "bullets": [
+          "Use gap analysis tools",
+          "Prioritize improvement areas",
+          "Set actionable goals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Plan for Improvement",
+        "body": "Develop strategies to address identified gaps and enhance office performance.",
+        "bullets": [
+          "Set clear objectives",
+          "Allocate resources",
+          "Monitor progress regularly"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Implement and Review",
+        "body": "Implement strategies and review progress to ensure continuous improvement.",
+        "bullets": [
+          "Adjust strategies as needed",
+          "Update metrics as necessary",
+          "Seek feedback from staff"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Take the first step now. Visit aimilitaryservices.com for more resources.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Benchmark your VASCO office using peer comparisons and gap analysis. Define key metrics, gather data, analyze results, and plan for improvement. Visit aimilitaryservices.com for resources.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Implement and Review', as it could benefit from a more specific call to action to ensure the user understands the importance of continuous improvement."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-20T21:32:51.224Z"
+}
