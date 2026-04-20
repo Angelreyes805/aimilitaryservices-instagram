@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-03-evening-a6047768",
+  "date": "2026-05-03",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:When a benefit runs out mid-term",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "When a benefit runs out mid-term",
+        "body": "The conversation to have early, not late.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the benefit",
+        "body": "Determine which VA benefit is at risk.",
+        "bullets": [
+          "Check VA Form 22-1999",
+          "Refer to your SAA letter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review the end date",
+        "body": "Understand the benefit's expiration date.",
+        "bullets": [
+          "Check the 85/15 rule",
+          "Refer to Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Calculate remaining time",
+        "body": "Estimate how much time remains until the benefit expires.",
+        "bullets": [
+          "Use your COE",
+          "Refer to the relevant VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate with the student",
+        "body": "Inform the student about the upcoming benefit end.",
+        "bullets": [
+          "Discuss the 22-1999 form",
+          "Refer to Chapter 33 guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Plan for continuation",
+        "body": "Explore options for extending the benefit.",
+        "bullets": [
+          "Refer to Chapter 33",
+          "Discuss with your SAA"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Ready to start the conversation? Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "When a benefit runs out mid-term: The conversation to have early, not late. Identify the benefit, review the end date, calculate remaining time, communicate with the student, and plan for continuation. Ready to start the conversation? Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Calculate remaining time', as the text is slightly small and could be more readable with a larger font size."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T23:17:25.875Z"
+}

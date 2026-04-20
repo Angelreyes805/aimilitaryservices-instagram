@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-03-afternoon-dbefb9c7",
+  "date": "2026-05-03",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:What to document after every phone call with the VA",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Document Your Calls",
+        "body": "Stay compliant and prepared for audits by logging key details.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Record Name and Date",
+        "body": "Start with the caller's name and the date and time of the call.",
+        "bullets": [
+          "Capture essential identifiers",
+          "Avoid using 'I understand.'"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Note Purpose of Call",
+        "body": "Document the reason for the call, such as 'Verify COE status.'",
+        "bullets": [
+          "Specify if it's about Chapter 33 or other programs",
+          "Include '22-1999' if relevant"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Record Discussion Points",
+        "body": "Jot down key topics discussed, e.g., 'Confirm enrollment status.'",
+        "bullets": [
+          "List any agreements or decisions made",
+          "Document any questions asked"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document VA Responses",
+        "body": "Note what the VA representative said, including any forms mentioned.",
+        "bullets": [
+          "Record the name of any forms",
+          "Document any references to Chapter 35"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Sign Off",
+        "body": "End with a signature or date to confirm the document is up-to-date.",
+        "bullets": [
+          "Sign the document",
+          "Date it"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro for better compliance. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay compliant and prepared for audits by logging key details after every phone call with the VA. Record the caller's name, the purpose of the call, and any discussion points. Document VA responses and sign off. Future you and your next audit will thank you.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5 of 5, as it could benefit from a more compelling hook to engage the viewer."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T23:08:14.065Z"
+}
