@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-05-evening-8533314a",
+  "date": "2026-05-05",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Five signs your SAP process needs a refresh",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO: SAP process refresh",
+        "headline": "Detect drift with five key signs",
+        "body": "Stay ahead of the curve and ensure your SAP process remains compliant and efficient.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Sign 1: Outdated COE",
+        "headline": "COE forms not updated",
+        "body": "Review your Certificate of Eligibility forms. If the date on the form is from 2019 or earlier, it might be time to refresh.",
+        "bullets": [
+          "Check for outdated forms.",
+          "Compare with current COE requirements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Sign 2: 22-1999 missing",
+        "headline": "Missing VA Form 22-1999",
+        "body": "Ensure you have the latest VA Form 22-1999 on file. This form is crucial for processing Yellow Ribbon applications.",
+        "bullets": [
+          "Verify you have the current version.",
+          "Update if necessary."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Sign 3: Chapter 33 compliance",
+        "headline": "Non-compliance with Chapter 33",
+        "body": "Check for any discrepancies in your Chapter 33 enrollment data. Ensure all students meet the eligibility requirements.",
+        "bullets": [
+          "Review Chapter 33 documentation.",
+          "Update if necessary."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Sign 4: 85/15 rule",
+        "headline": "85/15 rule not followed",
+        "body": "Ensure your SAP system reflects the 85/15 rule accurately. This rule governs the distribution of benefits.",
+        "bullets": [
+          "Verify compliance with the 85/15 rule.",
+          "Update if needed."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Sign 5: Timely updates",
+        "headline": "Delayed updates",
+        "body": "Maintain a timeline for regular updates to your SAP system. Delays can lead to compliance issues.",
+        "bullets": [
+          "Establish a regular update schedule.",
+          "Monitor for delays."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start reviewing your SAP process for signs of drift. Take the first step by scheduling a review.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Detect drift in your SAP process with these five key signs. Stay ahead of compliance requirements and ensure your system remains efficient. Schedule a review today.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#SAPProcess",
+      "#COE",
+      "#VAForm221999",
+      "#Chapter33Compliance",
+      "#8515Rule",
+      "#RegularUpdates",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Sign 5: TIMELY UPDATES. A top fix would be to add a visual icon or iconography to this slide to make it more engaging and easier to understand."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T23:50:24.425Z"
+}

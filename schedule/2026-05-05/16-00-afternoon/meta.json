@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-05-afternoon-a21f454e",
+  "date": "2026-05-05",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to batch end-of-term certifications",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO: Batch End-of-Term Certs",
+        "headline": "Batch Certs for Efficiency",
+        "body": "Streamline your end-of-term certification process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Group Similar Work",
+        "body": "Organize certifications by program or student group.",
+        "bullets": [
+          "Example: Group all Chapter 33 certifications.",
+          "Tip: Use a spreadsheet or database."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Use Templates",
+        "body": "Reuse templates for similar certifications.",
+        "bullets": [
+          "Example: Use a standard COE form template.",
+          "Tip: Customize templates for each program."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Set Deadlines",
+        "body": "Establish clear deadlines for each batch.",
+        "bullets": [
+          "Example: Set a deadline for each certification group.",
+          "Tip: Use a shared calendar."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Review Together",
+        "body": "Review batches collectively for efficiency.",
+        "bullets": [
+          "Example: Review 10 certifications at once.",
+          "Tip: Use a group chat for quick feedback."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document Work",
+        "body": "Document each batch for future reference.",
+        "bullets": [
+          "Example: Keep a log of each certification batch.",
+          "Tip: Use a digital file system."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start batching your end-of-term certifications today. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline your end-of-term certification process by batching similar work. Group by program, use templates, set deadlines, review together, and document. Start batching today!",
+    "hashtags": [
+      "#VASCO",
+      "#BatchCert",
+      "#Chapter33",
+      "#Education",
+      "#VeteranEducation",
+      "#HigherEd",
+      "#ComplianceMatters",
+      "#SchoolCertifyingOfficial",
+      "#GIBill",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#Post911GIBill",
+      "#8515rule",
+      "#COE",
+      "#SAA",
+      "#SCO"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5 of 5, which could benefit from a more concise takeaway or a visual element to draw more attention."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T23:45:41.426Z"
+}

@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-05-midday-72753066",
+  "date": "2026-05-05",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "transfer-veteran-maze",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Navigate the Transfer Maze",
+        "body": "Streamline the transfer process for student veterans with our new tool.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand VA Transfer Eligibility",
+        "body": "Ensure students meet VA eligibility requirements.",
+        "bullets": [
+          "Review Chapter 33",
+          "Understand Yellow Ribbon"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Complete Transfer Forms",
+        "body": "Help students complete necessary transfer forms.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Chapter 33 COE"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Verify Course Equivalency",
+        "body": "Ensure courses transfer properly.",
+        "bullets": [
+          "Verify COE",
+          "Check MHA"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Address Transfer Fees",
+        "body": "Guide students through fee payment.",
+        "bullets": [
+          "Understand 85/15 rule",
+          "Check SAA guidelines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Coordinate with Institutions",
+        "body": "Facilitate communication between institutions.",
+        "bullets": [
+          "Chapter 35 enrollment",
+          "SAA letter guidance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about the VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Smoothing the Transfer Maze for Student Veterans. Ensure your students navigate the complexities of transferring with confidence. Learn more about the VASCO Assistant Pro today.",
+    "hashtags": [
+      "#VASCO",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#TransferVeterans",
+      "#HigherEd",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#SchoolCertifyingOfficial",
+      "#YellowRibbon",
+      "#COE",
+      "#MHA",
+      "#8515rule",
+      "#SAA",
+      "#VASCOAssistantPro",
+      "#BlogPost",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Coordinate with Institutions', as it could benefit from a more concise takeaway or a clearer call to action."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T23:41:10.335Z"
+}
