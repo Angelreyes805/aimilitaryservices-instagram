@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-01-afternoon-b89ba785",
+  "date": "2026-05-01",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:A handoff checklist for when you are on leave",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Handoff Checklist",
+        "headline": "Prepare for Leave",
+        "body": "Ensure your office continues smoothly while you're on leave.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Key Tasks",
+        "body": "List critical duties and responsibilities.",
+        "bullets": [
+          "Include all major tasks.",
+          "Note deadlines and priorities."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Assign Tasks",
+        "body": "Distribute tasks to backup personnel.",
+        "bullets": [
+          "Pair each task with a team member.",
+          "Clarify expectations and responsibilities."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Document Process",
+        "body": "Document procedures and policies.",
+        "bullets": [
+          "Create a step-by-step guide.",
+          "Include any necessary forms."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Train Your Backup",
+        "body": "Educate your team on critical functions.",
+        "bullets": [
+          "Conduct training sessions.",
+          "Provide relevant resources."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Update",
+        "body": "Regularly update your handoff plan.",
+        "bullets": [
+          "Revisit the plan every six months.",
+          "Adjust as needed."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start building your handoff checklist today. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Ensure your office runs smoothly while you're on leave with this comprehensive handoff checklist.",
+    "hashtags": [
+      "#HandoffChecklist",
+      "#LeavePlanning",
+      "#OfficeManagement",
+      "#PrepareForLeave",
+      "#TaskAssignment",
+      "#DocumentProcess",
+      "#TrainYourBackup",
+      "#ReviewAndUpdate",
+      "#PrepForVacation",
+      "#LeadershipTips",
+      "#Productivity",
+      "#TeamCollaboration",
+      "#WorkLifeBalance",
+      "#OfficeHandoff",
+      "#BackOfficeManagement",
+      "#WorkplaceTips",
+      "#VASCO"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3 of 5, 'Document Process', as it could benefit from a more visually distinct headline to draw more attention."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T17:16:58.488Z"
+}
