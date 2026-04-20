@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-30-afternoon-2b714d95",
+  "date": "2026-04-30",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Reading a new regulation without panicking",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Tackle New Regulations Without Panic",
+        "body": "Get clear on key points and stay compliant.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Identify the Threshold",
+        "body": "Understand the scope of the new regulation to determine its impact.",
+        "bullets": [
+          "Review the scope of the new regulation",
+          "Identify specific thresholds or requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Decipher the Details",
+        "body": "Break down complex language to understand its implications.",
+        "bullets": [
+          "Translate technical terms",
+          "Identify new forms or processes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Plan for Compliance",
+        "body": "Develop a strategy to implement changes and stay compliant.",
+        "bullets": [
+          "Create a compliance plan",
+          "Communicate changes to staff"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Common Artifact: Chapter 33",
+        "headline": "Chapter 33 Update",
+        "body": "Learn how to interpret changes in the Chapter 33 regulations.",
+        "bullets": [
+          "Understand new eligibility criteria",
+          "Review updated program rules"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Common Phrase: 'Effective Date'",
+        "headline": "Timing is Key",
+        "body": "Know when the new regulations take effect and prepare accordingly.",
+        "bullets": [
+          "Check the 'Effective Date' of the regulation",
+          "Prepare a timeline for implementation"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about navigating new VA regulations. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master new VA regulations with these three essential questions. Stay compliant and avoid panic.",
+    "hashtags": [
+      "#VASCO",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#ComplianceMatters",
+      "#SchoolCertifyingOfficial",
+      "#GIBill",
+      "#VAEducation",
+      "#HigherEd",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#EducationPro",
+      "#Regulations",
+      "#VA",
+      "#Training",
+      "#Education",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T17:02:50.624Z"
+}

@@ -1,0 +1,111 @@
+{
+  "runId": "2026-04-30-morning-25fc7007",
+  "date": "2026-04-30",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "chapter-33-updates-2025",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Stay Ahead of Chapter 33 Changes",
+        "body": "Get ready for new GI Bill regulations effective October 2024.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "New Payment Rates",
+        "body": "Understand the updated payment rates for the Post-9/11 GI Bill.",
+        "bullets": [
+          "View detailed rates",
+          "Apply to your student aid plans"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Eligibility Adjustments",
+        "body": "Changes to eligibility criteria for students under the Post-9/11 GI Bill.",
+        "bullets": [
+          "Check new eligibility requirements",
+          "Verify student status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "COE Processing",
+        "body": "Impact of Chapter 33 updates on Certificate of Eligibility (COE) processing.",
+        "bullets": [
+          "Review COE changes",
+          "Update your process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Matters",
+        "body": "Ensure your institution complies with the new regulations.",
+        "bullets": [
+          "Review compliance requirements",
+          "Stay informed"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Yellow Ribbon Program",
+        "body": "New developments in the Yellow Ribbon Program.",
+        "bullets": [
+          "Update your Yellow Ribbon plans",
+          "Support student veterans"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about the changes and how to prepare. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of Chapter 33 updates with these key takeaways. Get ready for new payment rates, eligibility criteria, and COE processing changes. Ensure your institution complies and supports student veterans. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Post911GIBill",
+      "#COE",
+      "#EducationBenefits",
+      "#GIBillUpdates",
+      "#Chapter33Updates",
+      "#VASCOAssistantPro",
+      "#VAUpdates"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Eligibility Adjustments' as it has the least amount of content and could benefit from a more detailed call to action."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-20T16:56:09.765Z"
+}
