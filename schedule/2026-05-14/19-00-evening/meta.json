@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-14-evening-745e7a07",
+  "date": "2026-05-14",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Spotting a Chapter 31 scenario quickly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Spot Chapter 31 Scenarios Quickly",
+        "body": "Identify key signals for Voc Rehab eligibility.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Review VA Form 22-1999",
+        "body": "Check for the 'Vocational Rehabilitation' box.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Section 21.30"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Look for Specific Phrases",
+        "body": "Identify 'Vocational Rehabilitation' in the student’s documentation.",
+        "bullets": [
+          "Chapter 31",
+          "Section 21.31"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Check the Timeline",
+        "body": "Voc Rehab is typically available within 180 days of the student’s enrollment.",
+        "bullets": [
+          "180-day window",
+          "Section 21.32"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Identify Eligibility Criteria",
+        "body": "Students must be certified for Chapter 31 and meet specific criteria.",
+        "bullets": [
+          "Chapter 33",
+          "Section 21.33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Consult with Voc Rehab",
+        "body": "Loop in Voc Rehab for final determination.",
+        "bullets": [
+          "Vocational Rehabilitation",
+          "Section 21.35"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more at aimilitaryservices.com",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master Chapter 31 compliance with these five key steps. Identify Voc Rehab signals and eligibility criteria quickly. Learn more at aimilitaryservices.com.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#HigherEd",
+      "#StudentVeterans",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#VAEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T02:35:45.399Z"
+}

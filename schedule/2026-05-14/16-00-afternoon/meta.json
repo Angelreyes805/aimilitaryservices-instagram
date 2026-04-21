@@ -1,0 +1,112 @@
+{
+  "runId": "2026-05-14-afternoon-5f966e5a",
+  "date": "2026-05-14",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to name files so your audit self thanks you",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master File Naming for Audits",
+        "body": "Learn how to name files to pass audits with flying colors.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Use the Year",
+        "body": "Always include the current year in file names to avoid confusion.",
+        "bullets": [
+          "Example: 20230101-FileDesc",
+          "Ensure the year is always first"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Add a Description",
+        "body": "Include a brief description to identify the file's content.",
+        "bullets": [
+          "Example: 20230101-FileDesc",
+          "Use 3-5 words max"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Include a Unique Identifier",
+        "body": "Add a unique identifier to track individual documents.",
+        "bullets": [
+          "Example: 20230101-FileDesc-001",
+          "Use numbers only"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Compliance Matters",
+        "headline": "Follow the Rules",
+        "body": "Ensure your naming convention aligns with VA audit guidelines.",
+        "bullets": [
+          "Refer to 22-1999 for specifics",
+          "Check with your SAA"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Example",
+        "headline": "File Naming Example",
+        "body": "Example: 20230101-VA-Enrollment-001",
+        "bullets": [
+          "Year: 2023",
+          "Type: VA Enrollment",
+          "Unique ID: 001"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Apply these tips to your files now and pass your next audit with ease! Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master file naming to pass audits with ease. Use the year, add a description, include a unique identifier. Follow 22-1999 and align with VA audit guidelines. Example: 20230101-VA-Enrollment-001. Apply these tips and pass your next audit with ease.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the last one, which is more of a call to action rather than a clear takeaway. A stronger takeaway could be included to make it more impactful."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T02:32:14.044Z"
+}

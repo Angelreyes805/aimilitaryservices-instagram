@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-14-morning-7f1e7110",
+  "date": "2026-05-14",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "non-college-degree-programs",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Non-College Degree Programs",
+        "headline": "Certify NCDs with Ease",
+        "body": "Streamline your certification process for non-college degree programs.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand NCD Programs",
+        "body": "Identify unique requirements for non-college degree programs.",
+        "bullets": [
+          "Learn about COE differences",
+          "Review specific SAA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review SAA Letters",
+        "body": "Stay compliant by referencing the latest SAA letters.",
+        "bullets": [
+          "Check for specific NCD provisions",
+          "Refer to your SAA letter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Verify Eligibility",
+        "body": "Ensure students meet all eligibility criteria.",
+        "bullets": [
+          "Review student COE documentation",
+          "Refer to VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document Compliance",
+        "body": "Maintain accurate records for ongoing compliance.",
+        "bullets": [
+          "Maintain student files",
+          "Keep records up to date"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Compliance Checklist",
+        "body": "Use a comprehensive checklist for NCD program compliance.",
+        "bullets": [
+          "Refer to your compliance guide",
+          "Stay updated with changes"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about certifying non-college degree programs. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Navigate the unique requirements of non-college degree programs with this comprehensive guide. Certify with ease.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Verify Eligibility', as it could benefit from a more concise headline to better align with the overall flow of the carousel."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T02:16:56.036Z"
+}
