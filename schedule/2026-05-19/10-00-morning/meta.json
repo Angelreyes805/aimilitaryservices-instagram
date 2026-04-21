@@ -1,0 +1,131 @@
+{
+  "runId": "2026-05-19-morning-212daa37",
+  "date": "2026-05-19",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "cybersecurity-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Cybersecurity for VASCOs",
+        "body": "Stay ahead of cyber threats and protect sensitive veteran data.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Cyber Threats",
+        "body": "Understand common cyber threats targeting VASCOs handling sensitive veteran data.",
+        "bullets": [
+          "Phishing attacks",
+          "Malware infections",
+          "Data breaches"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Implement Security Best Practices",
+        "body": "Learn about essential security measures to safeguard data.",
+        "bullets": [
+          "Multi-factor authentication",
+          "Regular software updates",
+          "Data encryption"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Training and Awareness",
+        "body": "Educate staff on recognizing and responding to cyber threats.",
+        "bullets": [
+          "Conduct regular training sessions",
+          "Promote a culture of security awareness"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Incident Response Plan",
+        "body": "Develop and maintain a robust incident response plan.",
+        "bullets": [
+          "Establish clear reporting procedures",
+          "Regularly test and update the plan"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed",
+        "body": "Stay updated on the latest cybersecurity threats and best practices.",
+        "bullets": [
+          "Subscribe to cybersecurity news feeds",
+          "Engage with cybersecurity communities"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Read the full guide and explore our resources for VASCOs.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#Cybersecurity",
+          "#ProtectData",
+          "#TechnologyInnovation",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#VAEducation",
+          "#HigherEd",
+          "#SecureData",
+          "#SAA",
+          "#VASCOAssistantPro",
+          "#IncidentResponse"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Cybersecurity for VASCOs: Protect sensitive veteran data with essential best practices and incident response protocols. Learn more in our comprehensive guide and explore resources for VASCOs. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#Cybersecurity",
+      "#ProtectData",
+      "#TechnologyInnovation",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#SecureData",
+      "#SAA",
+      "#VASCOAssistantPro",
+      "#IncidentResponse",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Training and Awareness', as it could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T04:14:41.909Z"
+}

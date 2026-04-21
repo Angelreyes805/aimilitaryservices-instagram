@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-19-evening-5dcd778f",
+  "date": "2026-05-19",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:A quick audit-readiness checklist",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Audit-Readiness Checklist",
+        "body": "Verify these five things before a compliance survey.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Review your COE",
+        "body": "Ensure all students' Certificates of Eligibility are up to date and verified.",
+        "bullets": [
+          "Check for any discrepancies or outdated information.",
+          "Verify COE status on the VA website."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Understand your SAA letter",
+        "body": "Make sure you are following the latest instructions from your State Approving Agency.",
+        "bullets": [
+          "Refer to your most recent SAA letter for compliance details.",
+          "Review any updates or changes in the letter."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Verify your Yellow Ribbon Program",
+        "body": "Confirm that all Yellow Ribbon eligibility and applications are current.",
+        "bullets": [
+          "Check all students' Yellow Ribbon application status.",
+          "Update your records if necessary."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Review your Chapter 33 files",
+        "body": "Ensure all Chapter 33 documents are accurate and up-to-date.",
+        "bullets": [
+          "Double-check student enrollment status.",
+          "Verify all necessary documents are in place."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Understand your 85/15 rule",
+        "body": "Comply with the 85/15 rule by ensuring all required documentation is available.",
+        "bullets": [
+          "Check if any students are still under the 85/15 limit.",
+          "Update your records as needed."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Get ready for your next compliance audit with this quick checklist. Ensure your COE, SAA letter, Yellow Ribbon Program, Chapter 33 files, and 85/15 rule are up to date.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#CertifyingOfficial",
+      "#Veterans",
+      "#EducationReform",
+      "#EducationPolicy",
+      "#ComplianceSurvey",
+      "#AuditReadiness",
+      "#VAProgram",
+      "#GIBill"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to better match the concise nature of the other slides."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T04:33:57.875Z"
+}

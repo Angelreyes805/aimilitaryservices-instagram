@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-19-afternoon-ca879cb6",
+  "date": "2026-05-19",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Tracking program changes without losing your mind",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Track Changes Without Losing Your Mind",
+        "body": "Stay on top of program updates and avoid certification chaos.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Create a Certification Version Control System",
+        "body": "Use a spreadsheet to track changes in your certifications.",
+        "bullets": [
+          "Open Excel or Google Sheets",
+          "List each certification in a column",
+          "Create rows for each update"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Utilize the Yellow Ribbon Program",
+        "body": "Stay informed of Yellow Ribbon Program changes with regular updates.",
+        "bullets": [
+          "Check the VA website regularly",
+          "Subscribe to the Yellow Ribbon Program newsletter",
+          "Review the latest SAA letter on Yellow Ribbon"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review 22-1999 and Chapter 33",
+        "body": "Understand key forms and regulations for your certifications.",
+        "bullets": [
+          "Study VA Form 22-1999",
+          "Refer to Chapter 33 regulations",
+          "Stay updated on the latest SAA letter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Implement a Regular Review Process",
+        "body": "Schedule bi-weekly reviews of your certification documents.",
+        "bullets": [
+          "Set up a recurring calendar event",
+          "Review with your team",
+          "Document any changes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Maintain a Compliance Log",
+        "body": "Keep a record of all relevant updates and decisions.",
+        "bullets": [
+          "Create a dedicated document",
+          "Include all relevant dates and sources",
+          "Review frequently to ensure accuracy"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Ready to start versioning your certifications? Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay organized and informed with these steps to track program changes and avoid certification confusion. Ready to get started? Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 8,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, which could benefit from a more concise headline to better align with the other steps."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T04:25:17.125Z"
+}

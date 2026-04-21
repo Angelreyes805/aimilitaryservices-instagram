@@ -1,0 +1,123 @@
+{
+  "runId": "2026-05-19-midday-4ed780e9",
+  "date": "2026-05-19",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "training-time-best-practices",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize Certification Accuracy",
+        "body": "Avoid common certification errors by following these training time calculation best practices used by experienced VASCOs.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the 22-1999",
+        "body": "Understand the 22-1999 form requirements for calculating training time.",
+        "bullets": [
+          "Read 22-1999 carefully",
+          "Identify the start and end dates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Account for Continuous Training",
+        "body": "Accurately account for continuous training periods.",
+        "bullets": [
+          "Include all training days",
+          "Exclude personal days"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Exclude Non-Training Days",
+        "body": "Exclude days when training was not provided.",
+        "bullets": [
+          "Identify non-training days",
+          "Exclude weekends and holidays"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Verify with VA Forms",
+        "body": "Cross-reference your calculations with relevant VA forms.",
+        "bullets": [
+          "Review COE forms",
+          "Match dates and hours"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document Everything",
+        "body": "Maintain detailed records of training time calculations.",
+        "bullets": [
+          "Keep all documentation",
+          "Ensure accessibility"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Explore VASCO Assistant Pro for automating your certification processes.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Maximize certification accuracy by following these training time calculation best practices used by experienced VASCOs. Learn how to avoid common errors and streamline your workflow with VASCO Assistant Pro.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 1 of 5, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T04:21:25.160Z"
+}
