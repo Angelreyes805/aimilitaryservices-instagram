@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-17-afternoon-9662bbb3",
+  "date": "2026-05-17",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:A student asks about Yellow Ribbon: what to say first",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Hook headline + 1 sentence promise.",
+        "headline": "Answer Yellow Ribbon first question.",
+        "body": "Start with 'Do you have a Yellow Ribbon Program?'",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Eligibility Check",
+        "body": "Ensure student meets Yellow Ribbon Program criteria.",
+        "bullets": [
+          "Check VA Form 22-1999",
+          "Verify 22-1999 section 5"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Form 22-1999",
+        "body": "Examine form for Yellow Ribbon eligibility details.",
+        "bullets": [
+          "Look for 'Yellow Ribbon' in Section 5",
+          "Identify program year and amount"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Eligibility Criteria",
+        "body": "Confirm student meets all eligibility requirements.",
+        "bullets": [
+          "Check VA Form 22-1999 Section 10",
+          "Verify student's education goals"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Program Year",
+        "body": "Determine the correct program year for Yellow Ribbon.",
+        "bullets": [
+          "Refer to VA Publication 32-1999",
+          "Find the current academic year on the form"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Total Amount",
+        "body": "Calculate the total amount of Yellow Ribbon funds.",
+        "bullets": [
+          "Add all applicable amounts",
+          "Refer to Chapter 33 guidance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Answering a student's Yellow Ribbon question starts with 'Do you have a Yellow Ribbon Program?' Dive into eligibility criteria, program year, and total amount. Upgrade your certification with VASCO Assistant Pro. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationSupport",
+      "#VASCOAssistantPro",
+      "#CertificationTool",
+      "#EducationPrograms",
+      "#CertifyingOfficial",
+      "#EducationAssistance",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 1 of 5, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T03:35:06.194Z"
+}

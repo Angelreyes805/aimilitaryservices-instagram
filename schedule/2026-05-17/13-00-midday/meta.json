@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-17-midday-4b28b929",
+  "date": "2026-05-17",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "decoding-new-va-regulations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Stay Ahead of VA Regulations",
+        "headline": "VA School Certifying Officials: New Rules Explained",
+        "body": "Understand the latest VA regulations impacting your role and students.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5: Yellow Ribbon",
+        "headline": "Understand the Update",
+        "body": "Learn the new Yellow Ribbon program changes and how they affect your certifications.",
+        "bullets": [
+          "New eligibility requirements",
+          "Updated certification process",
+          "Enhanced student support"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5: Chapter 33",
+        "headline": "Compliance Made Easier",
+        "body": "Stay compliant with Chapter 33 updates, reducing errors in certifications.",
+        "bullets": [
+          "Simplified certification guidelines",
+          "Clearer compliance thresholds",
+          "Reduced paperwork"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5: 22-1999",
+        "headline": "Certifications Simplified",
+        "body": "Understand the changes to VA Form 22-1999 and streamline your certification process.",
+        "bullets": [
+          "Updated form requirements",
+          "Easier student verification",
+          "Faster processing"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5: 85/15 Rule",
+        "headline": "Student Eligibility",
+        "body": "New rules for determining student eligibility under the 85/15 rule.",
+        "bullets": [
+          "Changed eligibility criteria",
+          "Updated documentation requirements",
+          "Ensure accurate certifications"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5: MHA",
+        "headline": "Mental Health Support",
+        "body": "Implement the new Mental Health Act (MHA) for student veterans.",
+        "bullets": [
+          "New certification requirements",
+          "Enhanced support for student veterans",
+          "Compliance guidance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get the full guide now. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of VA regulations with our comprehensive guide, covering updates and implementation timelines.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#YellowRibbon",
+      "#EducationBenefits",
+      "#VARegulations",
+      "#VAForms",
+      "#VAUpdates",
+      "#CertificationProcess",
+      "#VACompliance",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Understand the Update' slide could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T03:27:07.748Z"
+}

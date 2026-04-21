@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-17-morning-1f81ffcb",
+  "date": "2026-05-17",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "sap-appeals-that-work",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Streamline SAP Appeals",
+        "body": "Learn strategies, templates, and tips from successful cases.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Appeal Process",
+        "body": "Learn the steps and requirements for initiating an appeal.",
+        "bullets": [
+          "Review appeal guidelines",
+          "Identify appeal triggers"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Gather Evidence",
+        "body": "Collect all necessary documentation and evidence.",
+        "bullets": [
+          "Review the COE",
+          "Identify relevant documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Craft Your Appeal Letter",
+        "body": "Write a compelling appeal letter with clear arguments.",
+        "bullets": [
+          "Use templates",
+          "Structure arguments logically"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Presentation and Delivery",
+        "body": "Prepare for the appeal hearing and present your case effectively.",
+        "bullets": [
+          "Rehearse your presentation",
+          "Arrive on time"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Follow Up",
+        "body": "Understand the appeal timeline and stay informed.",
+        "bullets": [
+          "Monitor your appeal status",
+          "Reach out if needed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more and download the SAP appeal templates. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline SAP appeals with these proven strategies, templates, and tips from successful cases. Learn how to initiate an appeal, gather evidence, write a compelling letter, present effectively, and follow up. Next step: Learn more and download the SAP appeal templates. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#SAPAppeals",
+      "#AppealStrategies",
+      "#DocumentationRequirements",
+      "#PresentationTips",
+      "#AppealTemplates",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 5, 'Follow Up', as it could benefit from a more detailed takeaway or a visual element to reinforce the importance of staying informed."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T03:22:16.561Z"
+}

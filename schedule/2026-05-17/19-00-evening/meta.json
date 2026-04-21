@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-17-evening-9d7da1f7",
+  "date": "2026-05-17",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Three common Chapter 33 mistakes to avoid",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Three Common Chapter 33 Mistakes",
+        "headline": "Avoid These in Your Certifications",
+        "body": "Learn about the most frequent errors in Chapter 33 certifications and how to prevent them.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Incorrect Certification Dates",
+        "body": "Mistakenly certifying students who are no longer eligible for Chapter 33.",
+        "bullets": [
+          "Incorrect certification dates on VA Form 22-1999",
+          "Certifying students past their eligibility period"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Missing Eligibility Forms",
+        "body": "Not including necessary forms or documents in the certification package.",
+        "bullets": [
+          "Missing VA Form 22-1999 in the certification package",
+          "Lack of necessary documentation for eligibility"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Incorrect Eligibility Phrases",
+        "body": "Using outdated or incorrect eligibility phrases in the certification.",
+        "bullets": [
+          "Using the wrong eligibility phrase in the certification document",
+          "Incorrectly stating eligibility status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Missing Verification",
+        "body": "Failing to verify the student's eligibility with the appropriate documentation.",
+        "bullets": [
+          "Not verifying the student's eligibility with the correct documents",
+          "Failure to cross-check documents for accuracy"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Lack of Review",
+        "body": "Not reviewing the certification package thoroughly before submission.",
+        "bullets": [
+          "Lack of thorough review before submitting the certification",
+          "Failing to catch mistakes before submission"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Discover more tips and resources on avoiding these Chapter 33 mistakes. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Avoid these common Chapter 33 mistakes and learn how to catch them early. Get tips and resources to improve your certification process. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationCertification",
+      "#CertifyingOfficial",
+      "#VAForms",
+      "#CertificationProcess",
+      "#Chapter33Mistakes",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Lack of Review', as it could benefit from a more compelling headline to draw more attention."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T03:43:39.637Z"
+}
