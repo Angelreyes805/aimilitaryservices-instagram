@@ -1,0 +1,113 @@
+{
+  "runId": "2026-05-18-afternoon-b472788c",
+  "date": "2026-05-18",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to explain monthly housing allowance in one minute",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "1 Minute Guide: Monthly Housing Allowance",
+        "body": "Learn the VA process for student housing aid.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Eligibility Criteria",
+        "body": "Understand who qualifies for the monthly housing allowance.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Application Process",
+        "body": "Walk students through the application steps.",
+        "bullets": [
+          "Submit VA Form 22-1999",
+          "Review by COE"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Monthly Allowance Amount",
+        "body": "Explain the formula for calculating the amount.",
+        "bullets": [
+          "85/15 rule",
+          "Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document Requirements",
+        "body": "List necessary documentation for the application.",
+        "bullets": [
+          "Proof of enrollment",
+          "Proof of residency"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Approval",
+        "body": "Describe the review and approval process.",
+        "bullets": [
+          "Approval by SCO",
+          "Monthly disbursement"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Read the full guide for more details.",
+        "bullets": [
+          "Link in bio"
+        ],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the VA monthly housing allowance in under a minute! Learn eligibility criteria, application steps, amount calculation, documentation needed, and the review process. Click the link in our bio for the full guide.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Read the full post' slide could be more visually distinct to draw attention and encourage further engagement."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T04:04:59.644Z"
+}

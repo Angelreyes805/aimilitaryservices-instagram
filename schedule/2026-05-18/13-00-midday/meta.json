@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-18-midday-f81e0a23",
+  "date": "2026-05-18",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "prior-credit-evaluation",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Build a bulletproof Prior Credit Evaluation process",
+        "headline": "Streamline Prior Credit Evaluations",
+        "body": "Ensure compliance and efficiency with a comprehensive, step-by-step guide.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Define Evaluation Criteria",
+        "body": "Establish clear criteria for evaluating prior credit.",
+        "bullets": [
+          "Identify key criteria",
+          "Review SAA guidelines",
+          "Align with VA regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Collect Necessary Documents",
+        "body": "Gather all required documentation for a thorough evaluation.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Official transcripts",
+          "Certified copies of awards"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Evaluate Documentation",
+        "body": "Thoroughly review the collected documents to verify eligibility.",
+        "bullets": [
+          "Check for authenticity",
+          "Verify signatures",
+          "Cross-reference with SAA"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document Evaluations",
+        "body": "Maintain detailed records for future reference and compliance.",
+        "bullets": [
+          "Create a standardized form",
+          "Keep copies of all documents",
+          "Store in a secure location"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Track Compliance",
+        "body": "Set up a system to monitor and maintain compliance.",
+        "bullets": [
+          "Use compliance tracking tools",
+          "Regularly update records",
+          "Conduct periodic reviews"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get started with our tool to automate Prior Credit Evaluations",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Streamline your Prior Credit Evaluation process with our comprehensive guide, ensuring compliance and efficiency.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#PriorCreditEvaluation",
+      "#Education",
+      "#CertifyingOfficial",
+      "#Documentation",
+      "#Compliance",
+      "#Evaluation",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, which could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T04:01:13.082Z"
+}

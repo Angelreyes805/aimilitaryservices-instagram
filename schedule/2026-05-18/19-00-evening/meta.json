@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-18-evening-ae423c87",
+  "date": "2026-05-18",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:How to keep your queue readable, even at semester start",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCOs: Triage by chapter",
+        "headline": "Manage your queue like a pro",
+        "body": "Get your school certifying queue ready for the semester.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Group by chapter",
+        "body": "Organize your queue by the chapter number of each student's GI Bill form.",
+        "bullets": [
+          "E.g., 33-1999, 31-1001, 35-2000",
+          "This avoids clutter from forms with similar numbers"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Prioritize by urgency",
+        "body": "Triage forms based on the urgency of each student's situation.",
+        "bullets": [
+          "Immediate needs go first (e.g., Yellow Ribbon, priority enrollment)",
+          "Delayed actions can wait"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Use templates for uniformity",
+        "body": "Create templates for common student situations.",
+        "bullets": [
+          "Saves time and reduces errors",
+          "Ensures consistent handling"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Communicate clearly",
+        "body": "Inform students about their status and next steps.",
+        "bullets": [
+          "Email templates can help",
+          "Keep records for future reference"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and adjust",
+        "body": "Regularly review your queue and adjust your triage system.",
+        "bullets": [
+          "Monitor for trends",
+          "Adjust as needed"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Apply these tips to your queue management this semester.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "VASCOs: Triage by chapter to keep your queue organized. Organize by chapter number, prioritize urgency, use templates, communicate clearly, and review regularly.",
+    "hashtags": [
+      "#VASCO",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#HigherEd",
+      "#GIBill",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#VAEducation",
+      "#PostNineEleven",
+      "#YellowRibbon",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4, which could benefit from a more compelling takeaway or a clearer visual element to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T04:08:48.727Z"
+}
