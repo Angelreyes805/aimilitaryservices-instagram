@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-13-afternoon-ed9658c9",
+  "date": "2026-05-13",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Documenting exceptions so future you trusts them",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Document exceptions now",
+        "body": "Ensure future compliance and save time",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Use the COE",
+        "body": "Start with the Certificate of Eligibility (COE) form. It lists all exceptions.",
+        "bullets": [
+          "Start with COE form",
+          "Lists all exceptions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Review 22-1999",
+        "body": "Check VA Form 22-1999 for specific exceptions and documentation.",
+        "bullets": [
+          "Review VA Form 22-1999",
+          "Identify specific exceptions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Use 85/15 rule",
+        "body": "Apply the 85/15 rule to determine which exceptions require documentation.",
+        "bullets": [
+          "Apply 85/15 rule",
+          "Document exceptions over 15%"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Document clearly",
+        "body": "Be specific and clear in your documentation to avoid future confusion.",
+        "bullets": [
+          "Be specific",
+          "Keep records clear"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Save time",
+        "body": "By documenting exceptions, you can quickly verify compliance later.",
+        "bullets": [
+          "Save time",
+          "Verify compliance easily"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about documenting exceptions and saving time. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Document exceptions now to save time and ensure future compliance. Follow these steps: 1. Use the COE, 2. Review 22-1999, 3. Apply the 85/15 rule, 4. Document clearly, 5. Save time. Learn more at aimilitaryservices.com.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#Chapter33",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranEducation",
+      "#GIBill",
+      "#SchoolCertifyingOfficial",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4 of 5, which could benefit from a more compelling headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T02:06:56.431Z"
+}

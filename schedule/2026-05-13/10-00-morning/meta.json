@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-13-morning-35678958",
+  "date": "2026-05-13",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "yellow-ribbon-best-practices",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Master Yellow Ribbon Program",
+        "body": "Administer Yellow Ribbon benefits with confidence using our best practices.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Basics",
+        "body": "Review the Yellow Ribbon Program overview to ensure compliance.",
+        "bullets": [
+          "Review 22-1999 form",
+          "Understand the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Calculate Eligibility",
+        "body": "Determine the eligible number of students based on your institution’s population.",
+        "bullets": [
+          "Apply 85/15 ratio",
+          "Refer to Chapter 33"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Track Enrollment",
+        "body": "Maintain accurate records of student enrollment.",
+        "bullets": [
+          "Use COE for verification",
+          "Monitor 22-1999 form"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Certify Benefits",
+        "body": "Secure Yellow Ribbon benefits for eligible students.",
+        "bullets": [
+          "Refer to the relevant VA guidance",
+          "Follow 22-1999 form instructions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review Compliance",
+        "body": "Regularly review and update your Yellow Ribbon program.",
+        "bullets": [
+          "Refer to your SAA letter",
+          "Stay updated on the current regulations"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro, the desktop tool that automates Yellow Ribbon administration. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master Yellow Ribbon Program best practices with our comprehensive guide. Track, calculate, and certify benefits with ease. Learn more about VASCO Assistant Pro, the desktop tool for Yellow Ribbon administration. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3 of 5, 'Track Enrollment,' as it could benefit from a more concise headline to better align with the other steps."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T01:57:56.723Z"
+}
