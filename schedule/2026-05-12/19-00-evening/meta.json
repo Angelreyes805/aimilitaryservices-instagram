@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-12-evening-6b99c6a0",
+  "date": "2026-05-12",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Handling a late-term credit change cleanly",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Clean Up Late-Term Credit Changes",
+        "body": "Stay compliant and protect student eligibility.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 2",
+        "headline": "Document the Drop",
+        "body": "First, immediately document the student's drop and any outstanding credits.",
+        "bullets": [
+          "Use VA Form 22-1999",
+          "Follow Chapter 33 guidelines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 2",
+        "headline": "File the Claim",
+        "body": "Submit the claim within 30 days for any credits that need to be reversed.",
+        "bullets": [
+          "Refer to the 85/15 rule",
+          "Review VA guidance on credit adjustments"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Follow-Up (Step 3)",
+        "headline": "Verify and Confirm",
+        "body": "Verify the credit adjustment and confirm with the student.",
+        "bullets": [
+          "Ensure all credits are correct",
+          "Maintain records for audit purposes"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 2",
+        "headline": "Document the Drop",
+        "body": "First, immediately document the student's drop and any outstanding credits.",
+        "bullets": [
+          "Use VA Form 22-1999",
+          "Follow Chapter 33 guidelines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 2",
+        "headline": "File the Claim",
+        "body": "Submit the claim within 30 days for any credits that need to be reversed.",
+        "bullets": [
+          "Refer to the 85/15 rule",
+          "Review VA guidance on credit adjustments"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about automating your compliance process. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay compliant and protect student eligibility by handling late-term credit changes with these two-step recovery steps. Document the drop, file the claim, and follow-up. Learn more about automating your compliance process. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#Compliance",
+      "#CertifyingOfficial",
+      "#VeteransEducation",
+      "#EducationCompliance",
+      "#SchoolCertification",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Verify and Confirm' slide could benefit from a clearer call to action to ensure the user understands the next step."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T01:54:18.250Z"
+}
