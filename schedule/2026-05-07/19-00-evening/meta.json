@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-07-evening-f95f0e06",
+  "date": "2026-05-07",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:Preparing for a chapter change mid-career",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO Playbook: Chapter Change",
+        "headline": "Prepare for a Chapter Change",
+        "body": "Transition smoothly with our step-by-step guide.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your Current Chapter",
+        "body": "Know the benefits, eligibility, and requirements of your current Chapter 33.",
+        "bullets": [
+          "Review your Certificate of Eligibility (COE)",
+          "Check if you're meeting the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Research New Chapter Options",
+        "body": "Explore Chapter 31, 35, and Post-9/11 GI Bill to find the best fit.",
+        "bullets": [
+          "Compare tuition assistance rates",
+          "Look into educational benefits for your field"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Gather Necessary Documentation",
+        "body": "Collect forms and documents needed for the new Chapter.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Chapter-specific forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit the Application",
+        "body": "File your application for the new Chapter with the State Approving Agency (SAA).",
+        "bullets": [
+          "Submit via VA Online",
+          "Follow SAA deadlines"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Monitor Your Eligibility",
+        "body": "Stay informed about changes to your eligibility and new requirements.",
+        "bullets": [
+          "Stay updated on VA guidance",
+          "Communicate with your SAA"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio for more tips.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Transition smoothly with our step-by-step guide. Cover all bases with our VASCO Playbook: Chapter Change. Get the full guide and more tips by following the link in our bio.",
+    "hashtags": [
+      "#VASCO",
+      "#Chapter33",
+      "#Chapter31",
+      "#Chapter35",
+      "#Post911GIBill",
+      "#VeteranEducation",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#CertifyingOfficial",
+      "#VAOnline",
+      "#SAA",
+      "#COE",
+      "#GIBill",
+      "#SchoolCertifyingOfficial"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Monitor Your Eligibility,' as it could benefit from a more detailed bullet point to ensure clarity."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T00:24:25.122Z"
+}
