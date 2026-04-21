@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-08-morning-ffaa71a0",
+  "date": "2026-05-08",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "non-college-degree-programs",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Non-College Degree Programs",
+        "headline": "Comprehensive Guide for Certification",
+        "body": "Navigating the unique requirements of NCD programs requires careful attention to compliance. Get started with our detailed guide.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand NCD Eligibility",
+        "body": "Ensure your program meets the eligibility criteria for veterans under the Yellow Ribbon Program.",
+        "bullets": [
+          "VA Form 22-1999",
+          "Chapter 33 requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Comply with Approval Process",
+        "body": "Follow the specific steps to submit your NCD program for certification approval.",
+        "bullets": [
+          "SAA letter guidance",
+          "COE verification process"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Certification Requirements",
+        "body": "Meet the unique certification requirements for NCD programs to ensure compliance.",
+        "bullets": [
+          "MHA guidelines",
+          "22-1999 form"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Monitoring",
+        "body": "Regularly review and update your program to maintain compliance with VA regulations.",
+        "bullets": [
+          "85/15 rule",
+          "current VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Updated",
+        "body": "Stay informed of the latest changes in VA policies for NCD programs.",
+        "bullets": [
+          "Chapter 33 updates",
+          "VA announcement"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start navigating NCD program certification. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Navigate the unique requirements of NCD programs with comprehensive guidance on approval processes and compliance requirements. Get started with our detailed guide.",
+    "hashtags": [
+      "#NonCollegeDegreePrograms",
+      "#VeteranEducation",
+      "#YellowRibbon",
+      "#SchoolCertifyingOfficial",
+      "#CertificationTips",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#VAEducation",
+      "#HigherEd",
+      "#CertificationRequirements",
+      "#SAALetter",
+      "#COEVerification",
+      "#MHA",
+      "#221999Form",
+      "#8515Rule",
+      "#Chapter33",
+      "#VASCO"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 4 of 5, 'Compliance Monitoring,' as it could benefit from a more concise headline to better align with the visual hierarchy established in the other slides."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T00:31:07.725Z"
+}

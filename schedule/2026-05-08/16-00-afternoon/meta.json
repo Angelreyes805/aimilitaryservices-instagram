@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-08-afternoon-7fd7a5a8",
+  "date": "2026-05-08",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:A quick audit-readiness checklist",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Quick Audit-Readiness Checklist",
+        "body": "Ensure your COE documentation is up-to-date and ready for an audit.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Review COE Forms",
+        "body": "Make sure all required forms (e.g., VA Form 22-1999) are complete.",
+        "bullets": [
+          "Check all required fields",
+          "Ensure signatures are present"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Verify Compliance Thresholds",
+        "body": "Ensure your institution meets the 85/15 rule for Chapter 33.",
+        "bullets": [
+          "Review 85/15 documentation",
+          "Confirm eligibility status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Compliance with Yellow Ribbon",
+        "body": "Check if your institution is compliant with the Yellow Ribbon Program.",
+        "bullets": [
+          "Review Yellow Ribbon agreements",
+          "Verify enrollment status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Chapter 33 Enrollment",
+        "body": "Ensure all Chapter 33 students have a valid Certificate of Eligibility.",
+        "bullets": [
+          "Verify eligibility on MHA",
+          "Confirm 22-1999 form status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Check 22-1999 Forms",
+        "body": "Double-check all 22-1999 forms for accuracy and completeness.",
+        "bullets": [
+          "Review all 22-1999 forms",
+          "Verify signatures and dates"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start reviewing your COE documentation now.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Ensure your COE documentation is up-to-date and ready for an audit with this quick checklist. Step 1: Review COE Forms. Step 2: Verify Compliance Thresholds. Step 3: Compliance with Yellow Ribbon. Step 4: Chapter 33 Enrollment. Step 5: Check 22-1999 Forms. Start reviewing your COE documentation now. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T00:34:47.300Z"
+}
