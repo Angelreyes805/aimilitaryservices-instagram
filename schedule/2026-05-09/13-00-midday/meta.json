@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-09-midday-5d25e4b9",
+  "date": "2026-05-09",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "cross-training-team",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Maximize Your Team's Certification Power",
+        "body": "Ensure your VASCO team is well-prepared and capable of handling all certification tasks efficiently.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Key Tasks",
+        "body": "Outline the essential certification processes your team must master.",
+        "bullets": [
+          "Review Chapter 33 requirements",
+          "Understand VA form 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Assign Trainers",
+        "body": "Designate experienced team members to lead cross-training sessions.",
+        "bullets": [
+          "Assign roles based on expertise",
+          "Schedule regular training sessions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Develop Training Materials",
+        "body": "Create detailed training manuals and videos to ensure consistent learning.",
+        "bullets": [
+          "Include real-life examples",
+          "Use multimedia resources"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Conduct Regular Assessments",
+        "body": "Test team members' knowledge to identify gaps and areas for improvement.",
+        "bullets": [
+          "Use Chapter 33 tests",
+          "Implement continuous feedback"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Update",
+        "body": "Regularly review training programs and update materials as needed.",
+        "bullets": [
+          "Stay current with VA guidelines",
+          "Evaluate training effectiveness"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start building your VASCO team's cross-training today! Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Maximize your VASCO team's certification power through strategic cross-training. Learn how to identify key tasks, assign trainers, develop training materials, conduct regular assessments, and review and update your programs. Start building your team's resilience today!",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Review and Update', as it could benefit from a more concise takeaway."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T00:45:33.723Z"
+}

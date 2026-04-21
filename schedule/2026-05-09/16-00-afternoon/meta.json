@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-09-afternoon-da098b77",
+  "date": "2026-05-09",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:A clean way to answer the tough tuition question",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Answer the tough tuition question",
+        "body": "Understand the key points to ensure compliance and support student veterans effectively.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify the Tuition Question",
+        "body": "Recognize when a student asks about tuition assistance.",
+        "bullets": [
+          "Listen for specific requests",
+          "Identify the context of the question"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Verify the Eligibility",
+        "body": "Confirm if the student is eligible for tuition assistance.",
+        "bullets": [
+          "Check the student’s VA form 22-1999",
+          "Refer to the Yellow Ribbon Program details"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Determine Eligibility for Chapter 33",
+        "body": "Decide if the student is eligible for Chapter 33 tuition assistance.",
+        "bullets": [
+          "Refer to the Chapter 33 regulations",
+          "Check if the student meets the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Address Yellow Ribbon Questions",
+        "body": "Know how to handle questions related to the Yellow Ribbon Program.",
+        "bullets": [
+          "Refer to your SAA letter for guidance",
+          "Understand the 22-1999 form details"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Provide Clear Answers",
+        "body": "Communicate the decision and any necessary next steps clearly.",
+        "bullets": [
+          "Refer to the COE (Certificate of Eligibility) for further details",
+          "Document the response for record-keeping"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about VASCO Assistant Pro at aimilitaryservices.com.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the art of answering tough tuition questions for student veterans. Follow these five steps to ensure compliance and support. Learn more at aimilitaryservices.com.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationTips",
+      "#VASCOAssistantPro",
+      "#VASCOAssistant",
+      "#VAEducationTips",
+      "#CertifyingOfficial",
+      "#VeteranAffairs",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more engaging headline to draw more attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T00:55:16.541Z"
+}

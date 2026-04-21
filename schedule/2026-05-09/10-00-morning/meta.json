@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-09-morning-eede49e0",
+  "date": "2026-05-09",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "fraud-detection-vascos",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Detecting Fraud: Key Indicators",
+        "body": "Understand the red flags that signal potential fraud and learn how to respond effectively.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Red Flags",
+        "body": "Learn to recognize common signs of fraud in VA school certification processes.",
+        "bullets": [
+          "Verify COE status",
+          "Check SAA correspondence",
+          "Review student enrollment patterns"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Investigation Protocols",
+        "body": "Follow established procedures to investigate suspected fraud.",
+        "bullets": [
+          "Document all findings",
+          "Maintain confidentiality",
+          "Report to appropriate authorities"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Prevention Strategies",
+        "body": "Implement proactive measures to prevent fraud in your certification process.",
+        "bullets": [
+          "Regularly audit COE documents",
+          "Educate staff on fraud prevention",
+          "Utilize technology for enhanced compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Collaborate with SAA",
+        "body": "Work closely with your State Approving Agency to maintain compliance.",
+        "bullets": [
+          "Stay updated on SAA guidelines",
+          "Communicate regularly",
+          "Participate in training sessions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Informed",
+        "body": "Stay current with VA guidance to ensure ongoing compliance.",
+        "bullets": [
+          "Monitor VA updates",
+          "Review the latest SAA letters",
+          "Participate in compliance webinars"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Access the full guide now. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Discover how to identify fraud, investigate incidents, and prevent future occurrences with our essential guide for VASCOs. Stay compliant and protect student veterans. Access the full guide now. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is 'Collaborate with SAA' as it could benefit from a more concise bullet point list to ensure clarity and readability."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T00:39:21.106Z"
+}
