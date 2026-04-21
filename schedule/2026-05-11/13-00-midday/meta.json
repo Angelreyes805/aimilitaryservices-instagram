@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-11-midday-dd4c106a",
+  "date": "2026-05-11",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "online-vs-inperson-mha-rules",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Online vs In-Person MHA",
+        "body": "Master MHA rules for online, in-person, and hybrid courses under Post-9/11 GI Bill.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the MHA rate",
+        "body": "Learn the current MHA rate for your students.",
+        "bullets": [
+          "Review the latest VA guidance",
+          "Check your SAA letter for specific rates"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Apply to online courses",
+        "body": "Determine MHA eligibility for online courses.",
+        "bullets": [
+          "Verify the course meets MHA requirements",
+          "Check the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Consider in-person courses",
+        "body": "Understand MHA rates for in-person courses.",
+        "bullets": [
+          "Review the 85/15 rule",
+          "Refer to your SAA letter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Hybrid courses",
+        "body": "Calculate MHA for hybrid courses.",
+        "bullets": [
+          "Split MHA between online and in-person portions",
+          "Refer to the relevant VA guidance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Submit forms",
+        "body": "File the appropriate MHA forms.",
+        "bullets": [
+          "Use VA Form 22-1999",
+          "Follow the Chapter 33 rules"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about MHA rules for online, in-person, and hybrid courses. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master MHA rules for online, in-person, and hybrid courses under Post-9/11 GI Bill. Understand eligibility, rates, and submission. Next step: Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, 'Submit forms', as it could benefit from a more detailed bullet point to ensure clarity."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T01:23:39.522Z"
+}

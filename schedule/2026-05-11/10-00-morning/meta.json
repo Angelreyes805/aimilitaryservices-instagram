@@ -1,0 +1,123 @@
+{
+  "runId": "2026-05-11-morning-efc61590",
+  "date": "2026-05-11",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "state-approving-agency-relations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Build Strong Partnerships",
+        "body": "Collaborate with your State Approving Agency to ensure compliance and support student veterans.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Check COE remaining entitlement",
+        "body": "Verify each student's Certificate of Eligibility (COE) to ensure they meet eligibility requirements.",
+        "bullets": [
+          "Refer to Chapter 33 for details.",
+          "Keep records of verification."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Log SAA call in the file",
+        "body": "Document conversations with your State Approving Agency to maintain a record of compliance.",
+        "bullets": [
+          "Use a standard form or template.",
+          "Save files in a secure location."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Review SAA guidelines",
+        "body": "Stay updated with the latest State Approving Agency guidelines to ensure compliance.",
+        "bullets": [
+          "Check your SAA letter for updates.",
+          "Verify compliance with Chapter 33."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Update COE if necessary",
+        "body": "Ensure student eligibility by updating COEs as needed based on new SAA guidelines.",
+        "bullets": [
+          "Refer to VA Form 22-1999 for guidance.",
+          "Maintain records of COE updates."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Communicate with SAA",
+        "body": "Regularly communicate with your State Approving Agency to address any compliance concerns.",
+        "bullets": [
+          "Schedule regular calls.",
+          "Send periodic updates."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more about managing COEs and SAA interactions.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Collaborate with your State Approving Agency to ensure compliance and support student veterans. Steps include checking COE remaining entitlement, logging SAA calls, reviewing SAA guidelines, updating COEs, and communicating regularly. Learn more about managing COEs and SAA interactions. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Review SAA guidelines,' as the text is slightly dense and could benefit from a bit more spacing for better readability."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T01:16:46.566Z"
+}
