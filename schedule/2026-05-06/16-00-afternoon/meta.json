@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-06-afternoon-b269acf4",
+  "date": "2026-05-06",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Getting ahead of a compliance survey two weeks out",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Get ready for your compliance survey two weeks out",
+        "body": "Organize your COE documents for a smooth inspection.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Gather your Certificate of Eligibility (COE)",
+        "body": "Ensure all necessary COE documents are up-to-date and ready for review.",
+        "bullets": [
+          "Review your current COE",
+          "Verify all signatures and dates",
+          "Save COE copies in a dedicated folder"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Check the Yellow Ribbon Program",
+        "body": "Review your Yellow Ribbon Program documentation to ensure compliance.",
+        "bullets": [
+          "Review the most recent Yellow Ribbon agreements",
+          "Check for any pending approvals",
+          "Save all related documents"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Verify your Chapter 33 forms",
+        "body": "Ensure all Chapter 33 forms are accurate and complete.",
+        "bullets": [
+          "Review all student forms for accuracy",
+          "Cross-check with the 85/15 rule",
+          "Save all relevant forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Review your 22-1999 forms",
+        "body": "Double-check your 22-1999 forms for any discrepancies.",
+        "bullets": [
+          "Review each 22-1999 form for accuracy",
+          "Verify the 22-1999 against the SAA letter",
+          "Save all relevant forms"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Prepare for the inspection",
+        "body": "Have all necessary documents ready for the compliance survey.",
+        "bullets": [
+          "Organize your documents by folder",
+          "Have a backup set of documents",
+          "Be prepared to answer any questions"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start organizing your documents now. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Organize your COE, Yellow Ribbon, Chapter 33, and 22-1999 forms to be ready for your compliance survey two weeks out.",
+    "hashtags": [
+      "#VASCO",
+      "#ComplianceMatters",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#VA",
+      "#EducationManagement",
+      "#CertifyingOfficial",
+      "#COE",
+      "#221999",
+      "#Chapter31",
+      "#GIBill",
+      "#StudentVeterans"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5, which could benefit from a more compelling headline to match the others."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T00:16:15.600Z"
+}

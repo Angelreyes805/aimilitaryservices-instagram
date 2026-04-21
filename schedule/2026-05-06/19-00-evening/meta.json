@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-06-evening-eb04ce81",
+  "date": "2026-05-06",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:How to explain monthly housing allowance in one minute",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Explain Monthly Housing Allowance",
+        "body": "Master the most-asked student question in one minute.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand Your Chapter",
+        "body": "Every chapter has different rates. Check your SAA letter or regulations.",
+        "bullets": [
+          "Consult your SAA letter",
+          "Review your chapter's rules",
+          "Use the current regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Identify the Student",
+        "body": "Verify if the student is an eligible Chapter 33 recipient.",
+        "bullets": [
+          "Check the student's enrollment status",
+          "Refer to Chapter 33 eligibility criteria",
+          "Cross-reference the student's enrollment with your records"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Determine the Rate",
+        "body": "Use VA Form 22-1999 to find the correct rate.",
+        "bullets": [
+          "Locate VA Form 22-1999",
+          "Find the appropriate rate",
+          "Verify the rate for the student's chapter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Calculate the Allowance",
+        "body": "Multiply the rate by the student's number of dependents and months of enrollment.",
+        "bullets": [
+          "Count the number of dependents",
+          "Multiply by the enrollment months",
+          "Calculate the total allowance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Communicate Clearly",
+        "body": "Use clear, concise language when explaining the allowance.",
+        "bullets": [
+          "Use simple terms",
+          "Avoid jargon",
+          "Explain the calculation process"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn more with our VASCO training series.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the most-asked student question in one minute. Understand your Chapter, identify the student, determine the rate, calculate the allowance, and communicate clearly. Learn more with our VASCO training series. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationAllowance",
+      "#Chapter31",
+      "#Chapter35",
+      "#Post911GIBill",
+      "#EducationBenefits",
+      "#EducationalAssistance",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 8.9,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 8,
+    "brand": 9,
+    "singleTakeaway": 8,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 8,
+    "polish": 9,
+    "critique": "The weakest slide is 'Determine the Rate' as it could benefit from a more concise headline to match the other slides."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T00:20:45.947Z"
+}
