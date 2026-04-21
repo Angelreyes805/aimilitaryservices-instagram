@@ -1,0 +1,123 @@
+{
+  "runId": "2026-05-10-afternoon-c07770df",
+  "date": "2026-05-10",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Onboarding a new student veteran in under an hour",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Onboarding a new student veteran in under an hour",
+        "headline": "Streamline student veteran onboarding",
+        "body": "Reduce paperwork and speed up enrollment with this repeatable intake process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Gather basic info",
+        "body": "Collect essential data from the student veteran, such as name, address, and contact information.",
+        "bullets": [
+          "Use the VA Form 22-1999 for initial data collection.",
+          "Ensure all fields are completed and accurate."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Verify eligibility",
+        "body": "Review the student's Certificate of Eligibility (COE) to confirm eligibility under the Yellow Ribbon Program.",
+        "bullets": [
+          "Refer to the Yellow Ribbon Program regulations for eligibility criteria.",
+          "Ensure the student meets the Chapter 33 enrollment requirements."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Complete enrollment",
+        "body": "Enroll the student in courses and apply for financial aid.",
+        "bullets": [
+          "Use the 85/15 rule for financial aid eligibility.",
+          "Verify the student's Chapter 33 benefit amount."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Set up benefits",
+        "body": "Enroll the student in VA benefits and ensure they have the necessary documents.",
+        "bullets": [
+          "Refer to the VA Form 22-1999 for benefits enrollment.",
+          "Check the student's Yellow Ribbon Program status."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and finalize",
+        "body": "Double-check all information and finalize the enrollment.",
+        "bullets": [
+          "Ensure all documents are signed and completed.",
+          "Verify the student is aware of their rights and responsibilities."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Discover how VASCO Assistant Pro can help you streamline onboarding. Link in bio.",
+        "hashtags": [
+          "#VASCO",
+          "#GIBill",
+          "#VeteranEducation",
+          "#Chapter33",
+          "#SchoolCertifyingOfficial",
+          "#ComplianceMatters",
+          "#StudentVeterans",
+          "#YellowRibbon",
+          "#VAEducation",
+          "#HigherEd"
+        ],
+        "headline": "Read the full post",
+        "bullets": []
+      }
+    ],
+    "caption": "Onboarding a new student veteran in under an hour: a repeatable intake path that keeps students moving. Gather basic info, verify eligibility, complete enrollment, set up benefits, and review and finalize. Discover how VASCO Assistant Pro can help you streamline onboarding. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VeteranSupport",
+      "#VeteranBenefits",
+      "#MilitaryEducation",
+      "#HigherEducation",
+      "#PostNineEleven",
+      "#VeteranCommunity",
+      "#MilitaryTransition"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is the first one, as it could benefit from a more engaging headline to draw attention."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T01:10:50.684Z"
+}
