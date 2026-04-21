@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-15-morning-9284fb0a",
+  "date": "2026-05-15",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "decoding-new-va-regulations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Stay Ahead of VA Updates",
+        "body": "Unlock the latest VA regulations to streamline your student certification process.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Yellow Ribbon",
+        "body": "The Yellow Ribbon Program helps veterans pay tuition. Ensure your students qualify.",
+        "bullets": [
+          "Learn about the 22-1999 form",
+          "Review the 85/15 rule"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "New Chapter 33 Eligibility",
+        "body": "Update your COE to reflect new Chapter 33 rules.",
+        "bullets": [
+          "Review the relevant VA guidance",
+          "Check the 2023 SAA letter"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Yellow Ribbon Implementation",
+        "body": "Implement the 22-1999 form for your students. Check the 2023 SAA letter for details.",
+        "bullets": [
+          "22-1999 form details",
+          "2023 SAA letter requirements"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Compliance Matters",
+        "body": "Stay compliant with new regulations. Review the current Chapter 33 rules.",
+        "bullets": [
+          "VA regulations review",
+          "SAA letter compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Stay Updated",
+        "body": "Keep up with VA updates. Review the relevant VA guidance regularly.",
+        "bullets": [
+          "VA updates subscription",
+          "2023 SAA letter"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Link in bio",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of the latest VA updates to ensure your student certifications are in compliance. Review the Yellow Ribbon Program, Chapter 33 eligibility, and more. Learn more: https://aimilitaryservices.com/blog/decoding-new-va-regulations",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EducationBenefits",
+      "#VeteransBenefits",
+      "#VARegulations",
+      "#EducationPrograms",
+      "#VeteranAffairs",
+      "#VAUpdates",
+      "#VAForms"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The 'Read the full post' section at the bottom could be more visually distinct to draw attention to the call to action."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T02:45:27.278Z"
+}

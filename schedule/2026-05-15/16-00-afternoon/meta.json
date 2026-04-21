@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-15-afternoon-cd10b507",
+  "date": "2026-05-15",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:Tracking program changes without losing your mind",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Track program changes",
+        "body": "Version your certifications, not your memory.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Create a timeline",
+        "body": "Start by creating a timeline of program changes. Use the 2023-2024 SAA letter for your chapter's rules as a reference.",
+        "bullets": [
+          "Refer to the 2023-2024 SAA letter for your chapter's rules.",
+          "Highlight key dates and changes."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Update COEs",
+        "body": "Regularly update Certificates of Eligibility (COEs) to reflect program changes. Use the Yellow Ribbon Program as an example.",
+        "bullets": [
+          "Refer to the Yellow Ribbon Program for examples of updates.",
+          "Ensure COEs align with current rules."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Maintain records",
+        "body": "Keep a record of all COE updates. This helps in tracking changes and maintaining compliance.",
+        "bullets": [
+          "Document each update for reference.",
+          "Use records to justify decisions."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Stay informed",
+        "body": "Stay updated on new rules and changes. Subscribe to VA news and updates for timely information.",
+        "bullets": [
+          "Follow VA news and updates.",
+          "Stay informed to stay ahead."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and adjust",
+        "body": "Review COEs and records regularly to ensure they are up-to-date. Adjust as necessary to comply with the latest regulations.",
+        "bullets": [
+          "Review COEs regularly.",
+          "Adjust as necessary to comply."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Ready to start? Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Version your certifications, not your memory. Track program changes with these 5 steps. Ready to start? Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#CertifyingOfficials",
+      "#ProgramChanges",
+      "#CertificationManagement",
+      "#COEUpdates",
+      "#VAUpdates",
+      "#StayInformed",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 4, as it could benefit from a more concise headline to match the other steps."
+  },
+  "attempt": 3,
+  "generatedAt": "2026-04-21T02:58:25.266Z"
+}

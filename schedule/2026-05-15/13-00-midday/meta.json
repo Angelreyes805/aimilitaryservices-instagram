@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-15-midday-cb5b8c11",
+  "date": "2026-05-15",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "decoding-new-va-regulations",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Stay Ahead of VA Regulations",
+        "body": "Navigate the latest VA updates and implementation timelines.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Understand the Yellow Ribbon Program",
+        "body": "New regulations impact eligibility and funding for student veterans.",
+        "bullets": [
+          "New criteria for Yellow Ribbon participants",
+          "Updated funding levels and caps"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Compliance with 22-1999",
+        "body": "Ensure your institution meets the new form's requirements.",
+        "bullets": [
+          "Review changes to 22-1999 submission guidelines",
+          "New deadlines for form submissions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Interpreting Chapter 33",
+        "body": "Clarify the latest updates to the Post-9/11 GI Bill.",
+        "bullets": [
+          "Changes to COE verification process",
+          "New Chapter 33 eligibility thresholds"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "VA Form 22-1999",
+        "body": "Stay informed on the latest updates to this critical form.",
+        "bullets": [
+          "Updated form fields and instructions",
+          "Timeline for form revisions"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "VA School Certifying Official Role",
+        "body": "New responsibilities and guidelines for VASCOs.",
+        "bullets": [
+          "Enhanced compliance requirements",
+          "Updated guidelines for student veteran support"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Get comprehensive guidance now at https://aimilitaryservices.com/blog/decoding-new-va-regulations",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of the latest VA regulations with this comprehensive guide. Learn about changes to the Yellow Ribbon Program, 22-1999, Chapter 33, and more. Get comprehensive guidance now at https://aimilitaryservices.com/blog/decoding-new-va-regulations.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#VAUpdates",
+      "#Regulations",
+      "#VAForms",
+      "#VASCOAssistantPro",
+      "#VARegulations",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.9,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 4, as it could benefit from a more concise headline to better summarize the content."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-21T02:49:59.450Z"
+}
