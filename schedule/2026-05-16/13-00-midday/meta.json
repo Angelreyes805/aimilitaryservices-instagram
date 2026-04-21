@@ -1,0 +1,116 @@
+{
+  "runId": "2026-05-16-midday-fa8a8816",
+  "date": "2026-05-16",
+  "slot": "midday",
+  "source": "blog",
+  "sourceRef": "early-warning-systems",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VA School Certifying Officials",
+        "headline": "Stay Ahead of At-Risk Veterans",
+        "body": "Empower your institution to intervene early and ensure student success.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify At-Risk Veterans",
+        "body": "Screen student veterans for financial aid issues, mental health challenges, and academic concerns.",
+        "bullets": [
+          "Use Chapter 33 to track aid eligibility",
+          "Review Yellow Ribbon eligibility and benefits",
+          "Monitor COE status"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Create a Response Plan",
+        "body": "Develop tailored interventions for identified at-risk students.",
+        "bullets": [
+          "Refer to SAA guidance for support",
+          "Utilize VA forms for documentation",
+          "Communicate with the student"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Implement Early Interventions",
+        "body": "Offer tutoring, counseling, and financial assistance to mitigate risks.",
+        "bullets": [
+          "Refer to Chapter 31 for educational benefits",
+          "Utilize the 85/15 rule for financial aid",
+          "Support student veterans with Yellow Ribbon benefits"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Monitor Progress",
+        "body": "Regularly check in with students to track improvements and adjust interventions.",
+        "bullets": [
+          "Use COE records for verification",
+          "Review MHA services for mental health support",
+          "Follow Chapter 33 regulations"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Document and Report",
+        "body": "Maintain accurate records and report compliance to the SAA.",
+        "bullets": [
+          "Complete VA forms for documentation",
+          "Submit compliance reports",
+          "Ensure Chapter 33 compliance"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Learn how VASCO Assistant Pro can help you build your early warning system. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Stay ahead of at-risk student veterans with proactive early warning systems. Implement steps to identify, intervene, and monitor student success. Learn how VASCO Assistant Pro can support you. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#EarlyWarningSystems",
+      "#AtRiskVeterans",
+      "#ProactiveInterventions",
+      "#SAACompliance",
+      "#COEVerification",
+      "#MHASupport",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, 'Implement Early Interventions', as it could benefit from a more concise list of actionable steps."
+  },
+  "attempt": 2,
+  "generatedAt": "2026-04-20T20:18:30.790Z"
+}

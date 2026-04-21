@@ -1,0 +1,106 @@
+{
+  "runId": "2026-05-16-morning-9ca5e93b",
+  "date": "2026-05-16",
+  "slot": "morning",
+  "source": "blog",
+  "sourceRef": "mitigating-circumstances",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "Mitigating Circumstances",
+        "headline": "Understand When to Apply and Document",
+        "body": "Learn the criteria and documentation needed for mitigating circumstances in VA benefits.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Identify Mitigating Circumstances",
+        "body": "Understand what qualifies as a mitigating circumstance for VA benefits.",
+        "bullets": [
+          "Examples: financial hardship, natural disasters, medical emergencies"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Qualifying Criteria",
+        "body": "Understand the criteria for mitigating circumstances under Chapter 33 and other relevant laws.",
+        "bullets": [
+          "Financial hardship requires documented evidence of a significant loss of income"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Document Your Case",
+        "body": "Learn the documentation required to support a mitigating circumstances claim.",
+        "bullets": [
+          "Medical records, financial statements, letters from authorities"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Submit the Claim",
+        "body": "Discover the process of submitting a mitigating circumstances claim to the VA.",
+        "bullets": [
+          "Complete VA Form 22-1999, submit via email or in-person"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Appeal",
+        "body": "Learn about the review process and appeal options for denied mitigating circumstances claims.",
+        "bullets": [
+          "Review denial, understand your appeal rights, and consider seeking legal advice"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Explore more resources on mitigating circumstances at aimilitaryservices.com/blog/mitigating-circumstances",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Master the application of mitigating circumstances in VA benefit administration with clear qualifying criteria and documentation requirements. Learn when to apply and how to document at aimilitaryservices.com/blog/mitigating-circumstances.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#MitigatingCircumstances",
+      "#VABenefits",
+      "#EducationBenefits",
+      "#VeteranAffairs",
+      "#MitigatingConditions",
+      "#VAForms",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 9.2,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 9,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 3, which could benefit from a more concise headline to improve readability."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T03:02:18.268Z"
+}

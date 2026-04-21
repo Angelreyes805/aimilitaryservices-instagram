@@ -1,0 +1,114 @@
+{
+  "runId": "2026-05-16-evening-e3e54d15",
+  "date": "2026-05-16",
+  "slot": "evening",
+  "source": "llm",
+  "sourceRef": "tip:What to document after every phone call with the VA",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "VASCO Compliance: Post-Call Documentation",
+        "headline": "Keep Your Records",
+        "body": "Document every phone call with the VA to ensure future compliance.",
+        "bullets": [
+          "Protect yourself from audits",
+          "Ensure continuous compliance"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 5",
+        "headline": "Initial Documentation",
+        "body": "Immediately document the call time, date, and reason.",
+        "bullets": [
+          "Capture basic details",
+          "Use VA Form 22-1999"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 5",
+        "headline": "Key Information",
+        "body": "Note the student's name, COE status, and the issue discussed.",
+        "bullets": [
+          "Identify all parties involved",
+          "Record the main points"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 5",
+        "headline": "Follow-Up Actions",
+        "body": "Document any actions taken or decisions made.",
+        "bullets": [
+          "List all next steps",
+          "Document referrals or letters sent"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 5",
+        "headline": "Reference Materials",
+        "body": "Document any relevant VA regulations, forms, or other materials discussed.",
+        "bullets": [
+          "Note the form number",
+          "Record the section or regulation"
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 5",
+        "headline": "Review and Update",
+        "body": "Periodically review and update the documentation as needed.",
+        "bullets": [
+          "Keep records current",
+          "Ensure all changes are noted"
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Start documenting your VA calls today for future compliance and peace of mind. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Ensure you're future-proof by documenting every phone call with the VA. Protect yourself from audits and maintain continuous compliance. Start today with our guide on what to document. Link in bio.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Post911GIBill",
+      "#EducationBenefits",
+      "#VAForms",
+      "#CertifyingOfficial",
+      "#RecordKeeping",
+      "#VeteranSupport",
+      "#VeteranBenefits"
+    ]
+  },
+  "rubricScore": 9.3,
+  "rubricBreakdown": {
+    "readability": 9,
+    "noOverflow": 10,
+    "hierarchy": 9,
+    "brand": 9,
+    "singleTakeaway": 9,
+    "narrative": 9,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 9,
+    "polish": 9,
+    "critique": "The weakest slide is Step 5 of 5, which could benefit from a more engaging headline to match the others."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T03:13:07.488Z"
+}

@@ -1,0 +1,111 @@
+{
+  "runId": "2026-05-16-afternoon-a7cdd873",
+  "date": "2026-05-16",
+  "slot": "afternoon",
+  "source": "llm",
+  "sourceRef": "tip:How to explain monthly housing allowance in one minute",
+  "outline": {
+    "slides": [
+      {
+        "kind": "cover",
+        "eyebrow": "For VASCOs",
+        "headline": "Quick Guide: Monthly Housing Allowance",
+        "body": "Learn how to explain it in 60 seconds.",
+        "bullets": []
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 1 of 3",
+        "headline": "Understand the Basics",
+        "body": "The monthly housing allowance is designed to cover basic housing needs.",
+        "bullets": [
+          "It’s based on the cost of living in the state where the student resides.",
+          "Amount varies by state and the type of housing (e.g., apartment, house)."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 2 of 3",
+        "headline": "Check the Form 22-1999",
+        "body": "Refer to VA Form 22-1999 to find the exact allowance amount for your state.",
+        "bullets": [
+          "Form 22-1999 lists state-specific rates.",
+          "Consult your COE for the latest information."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 3 of 3",
+        "headline": "Use Clear Language",
+        "body": "When explaining to students, use simple terms.",
+        "bullets": [
+          "Explain that the allowance helps cover the rent or mortgage.",
+          "Point out that it doesn’t cover utilities, insurance, or other expenses."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 4 of 3",
+        "headline": "Be Prepared for Variations",
+        "body": "Students might need help with special cases.",
+        "bullets": [
+          "Discuss with SCO for specific situations (e.g., shared housing).",
+          "Remind students to verify their eligibility annually."
+        ]
+      },
+      {
+        "kind": "content",
+        "eyebrow": "Step 5 of 3",
+        "headline": "Stay Updated",
+        "body": "Changes can happen; stay informed.",
+        "bullets": [
+          "Check the VA website for updates on housing allowance.",
+          "Reach out to your SAA for any new policies."
+        ]
+      },
+      {
+        "kind": "cta",
+        "eyebrow": "Next step",
+        "body": "Master the housing allowance. Link in bio.",
+        "bullets": [],
+        "headline": "Read the full post"
+      }
+    ],
+    "caption": "Learn how to quickly and clearly explain the monthly housing allowance to students in one minute. Use this script to address the most-asked question.",
+    "hashtags": [
+      "#VASCO",
+      "#GIBill",
+      "#VeteranEducation",
+      "#Chapter33",
+      "#SchoolCertifyingOfficial",
+      "#ComplianceMatters",
+      "#StudentVeterans",
+      "#YellowRibbon",
+      "#VAEducation",
+      "#HigherEd",
+      "#Education",
+      "#HousingAllowance",
+      "#VAForms",
+      "#COE",
+      "#SAA",
+      "#EducationTips",
+      "#VeteranSupport"
+    ]
+  },
+  "rubricScore": 10,
+  "rubricBreakdown": {
+    "readability": 10,
+    "noOverflow": 10,
+    "hierarchy": 10,
+    "brand": 10,
+    "singleTakeaway": 10,
+    "narrative": 10,
+    "contrast": 10,
+    "constraints": 10,
+    "caption": 10,
+    "polish": 10,
+    "critique": "The weakest slide is Step 3, 'Use Clear Language,' as it could benefit from a more direct call to action or a stronger visual element to emphasize its importance."
+  },
+  "attempt": 1,
+  "generatedAt": "2026-04-21T03:09:13.007Z"
+}
